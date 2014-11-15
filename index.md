@@ -1,17 +1,18 @@
 ---
 layout: page
-title: Hello World!
-tagline: Supporting tagline
+title: Serra ICT Diensten
+tagline: Marijn van der Zee
 ---
 {% include JB/setup %}
 
 Serra ICT Diensten realiseert softwareoplossingen voor de glastuinbouw. Serra levert diensten op het gebied van softwareontwikkeling. 
 
 U kunt Serra op projectbasis inhuren voor:
-* Het analyseren van uw ontwikkelvraagstuk.
-* Het ontwerpen en realiseren van uw softwareproduct.
-* Het verbeteren van uw productenpakket of ontwikkelproces.
-* Serra heeft kennis van moderne ontwikkeltechnieken en -methodes. Serra richt zich op de glastuinbouw en heeft jarenlange ervaring in softwareontwikkeling voor deze sector.
+
+ * Het analyseren van uw ontwikkelvraagstuk.
+ * Het ontwerpen en realiseren van uw softwareproduct.
+ * Het verbeteren van uw productenpakket of ontwikkelproces.
+ * Serra heeft kennis van moderne ontwikkeltechnieken en -methodes. Serra richt zich op de glastuinbouw en heeft jarenlange ervaring in softwareontwikkeling voor deze sector.
 
 
     

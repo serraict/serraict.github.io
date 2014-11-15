@@ -11,8 +11,8 @@ markdown: kramdown
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
-title : Jekyll Bootstrap-3
-tagline: Site Tagline
+title : Serra ICT
+tagline: Marijn van der Zee
 author :
   name : Marijn van der Zee
   email : marijn@serraict.com
@@ -83,37 +83,41 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : disqus
-    disqus :
-      short_name : jekyllbootstrap
-    livefyre :
-      site_id : 123
-    intensedebate :
-      account : 123abc
-    facebook :
-      appid : 123
-      num_posts: 5
-      width: 580
-      colorscheme: light
+    provider : false  
+  # comments :
+  #   provider : disqus
+  #   disqus :
+  #     short_name : jekyllbootstrap
+  #   livefyre :
+  #     site_id : 123
+  #   intensedebate :
+  #     account : 123abc
+  #   facebook :
+  #     appid : 123
+  #     num_posts: 5
+  #     width: 580
+  #     colorscheme: light
 
   # Settings for analytics helper
   # Set 'provider' to the analytics provider you want to use.
   # Set 'provider' to false to turn analytics off globally.
   #
   analytics :
-    provider : google
-    google :
-        tracking_id : 'UA-***'
-    googleUA :
-        tracking_id : 'UA-***'
-        property_name : 'PROPERTY NAME'
-    getclicky :
-      site_id : 
-    mixpanel :
-        token : '_MIXPANEL_TOKEN_'
-    piwik :
-        baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
-        idsite : '1'                   # the id of the site on Piwik
+    provider : false
+  # analytics :
+  #   provider : google
+  #   google :
+  #       tracking_id : 'UA-***'
+  #   googleUA :
+  #       tracking_id : 'UA-***'
+  #       property_name : 'PROPERTY NAME'
+  #   getclicky :
+  #     site_id : 
+  #   mixpanel :
+  #       token : '_MIXPANEL_TOKEN_'
+  #   piwik :
+  #       baseURL : 'myserver.tld/piwik' # Piwik installation address (without protocol)
+  #       idsite : '1'                   # the id of the site on Piwik
 
   # Settings for sharing helper.
   # Sharing is for things like tweet, plusone, like, reddit buttons etc.
