@@ -12,7 +12,8 @@ U kunt Serra op projectbasis inhuren voor:
  * Het analyseren van uw ontwikkelvraagstuk.
  * Het ontwerpen en realiseren van uw softwareproduct.
  * Het verbeteren van uw productenpakket of ontwikkelproces.
- * Serra heeft kennis van moderne ontwikkeltechnieken en -methodes. Serra richt zich op de glastuinbouw en heeft jarenlange ervaring in softwareontwikkeling voor deze sector.
+ 
+ Serra heeft kennis van moderne ontwikkeltechnieken en -methodes. Serra richt zich op de glastuinbouw en heeft jarenlange ervaring in softwareontwikkeling voor deze sector.
 
 
     
