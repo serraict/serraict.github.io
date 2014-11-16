@@ -1,9 +1,18 @@
 ---
 layout: page
-title: "Visie"
+title: "Over Marijn"
 description: ""
 ---
 {% include JB/setup %}
+
+<div class="well pull-right">
+  <ul class="nav nav-pills nav-stacked">
+    <li role="presentation"><a href="index.html">Over Serra</a></li>
+    <li role="presentation"><a href="visie.html">Visie</a></li>
+    <li role="presentation"><a href="missie.html">Missie</a></li>
+    <li role="presentation" class="active"><a href="marijn.html">Over Marijn</a></li>
+  </ul>
+</div>
 
 ir. Marijn van der Zee
 
