@@ -10,8 +10,15 @@ tagline: Marijn van der Zee
         Serra ICT Diensten realiseert softwareoplossingen voor de glastuinbouw. Serra levert diensten op het gebied van softwareontwikkeling, systeemintegratie en procesverbetering.
     </p>
     <p>
-        <a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a> 
-        <a class="btn btn-lg btn-success" href="#" role="button">Sign up today</a>
+        <a class="btn btn-lg btn-success" 
+           href="{{ site.url }}/pages/contact.html" 
+           role="button">
+            <span class="glyphicon glyphicon-phone" aria-hidden="true"></span> Contact
+        </a> 
+        <a class="btn btn-lg btn-primary" 
+           href="{{ site.url }}/pages/services" 
+           role="button">
+           <span class="glyphicon glyphicon-thumbs-up" aria-hidden="true"></span> Diensten</a>
     </p>
 </div>
 
