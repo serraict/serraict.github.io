@@ -33,7 +33,7 @@ group: navigation
 
 <a href="https://github.com/serra" 
    imageanchor="1" rel="nofollow">
-<img src="{{ site.url }}assets/img/github.png" 
+<img src="{{ site.url }}/assets/img/github.png" 
      alt="My profile page on github"
      title="My profile page on github"
    border="0"></a>
