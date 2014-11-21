@@ -22,9 +22,9 @@ Marijn studeerde werktuigbouwkunde aan de TU Delft en is afgestudeerd bij de vak
 
 Tijdens zijn werkzaamheden is Marijn het liefst bezig met het bedenken en realiseren van ICT oplossingen voor de kwekerij. Hij analyseert eerst het probleem van de kweker, om vervolgens met zo min mogelijk extra programmatuur bestaande softwarecomponenten te combineren tot een bruikbare, betaalbare, betrouwbare en gebruikersvriendelijke oplossing.
 
-Volledig CV Marijn (Nederlands)
-Marijn op LinkedIn (Engels)
+[CV op LinkedIn][LinkedIn]
 
 
  [Quel]: http://www.quel.nl
  [logiqs]: http://www.logiqs.nl
+ [LinkedIn]: https://www.linkedin.com/in/marijnvanderzee
