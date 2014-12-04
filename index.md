@@ -29,8 +29,7 @@ tagline: Marijn van der Zee
 
       <h4>Ontwerp en realisatie</h4>
       <p>Het ontwerpen en realiseren van uw softwareproduct.
-      
-      Hallo!</p>
+      </p>
 
     </div>
 
