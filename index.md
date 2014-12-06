@@ -14,18 +14,21 @@ tagline: Marijn van der Zee
 
   <!-- Wrapper for slides -->
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="{{ site.url }}/assets/img/stock/Sysml_diagrams_collage_frontpage.png" class="img-responsive" alt="Westland glazen stad">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
+
     <div class="item">
       <img src="{{ site.url }}/assets/img/stock/Westland_kassen_frontpage.jpg" class="img-responsive" alt="Responsive image">
       <div class="carousel-caption">
         ...
       </div>
     </div>
+    
+    <div class="item active">
+      <img src="{{ site.url }}/assets/img/stock/Sysml_diagrams_collage_frontpage.png" class="img-responsive" alt="Westland glazen stad">
+      <div class="carousel-caption">
+        ...
+      </div>
+    </div>
+
     <div class="item">
       <img src="{{ site.url }}/assets/img/stock/Tomato_P5260299b_frontpage.jpg" class="img-responsive" alt="Responsive image">
       <div class="carousel-caption">
