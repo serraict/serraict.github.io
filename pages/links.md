@@ -16,28 +16,16 @@ group: navigation
    title="profile for Marijn at Stack Overflow, Q&amps;A for professional and enthusiast programmers">
 </a>
 
-<a href="http://nl.linkedin.com/in/marijnvanderzee" 
-   imageanchor="1" rel="nofollow">
-<img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" 
-   alt="My Profile on LinkedIn"
-   title="My Profile on LinkedIn"
-   border="0"></a>
-<br />
+[![My Profile on LinkedIn](http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif)][LinkedIn]
 
-<a href="http://www.twitter.com/marijnvanderzee" 
-   imageanchor="1" rel="nofollow">
-<img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" 
-   alt="Follow me on twitter"
-   title="Follow me on twitter"
-   border="0"></a>
+[![Follow me on twitter](http://twitter-badges.s3.amazonaws.com/follow_me-b.png)][twitter]
 
-<a href="https://github.com/serra" 
-   imageanchor="1" rel="nofollow">
-<img src="{{ site.url }}/assets/img/github.png" 
-     alt="My profile page on github"
-     title="My profile page on github"
-   border="0"></a>
+[![My profile page on github]({{ site.url }}/assets/img/github.png)][githubserra]
+
+[![Professional Scrum Master I]({{ site.url }}/assets/img/PSMI.png)][scrumdotorgprofile]
 
  [LinkedIn]: https://www.linkedin.com/in/marijnvanderzee
  [blog]: http://blog.serraict.com
- [Twitter]: https://twitter.com/marijnvanderzee
+ [twitter]: https://twitter.com/marijnvanderzee
+ [scrumdotorgprofile]: https://www.scrum.org/User-Profile/userId/121566
+ [githubserra]: https://github.com/serra
