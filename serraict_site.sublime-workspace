@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bac",
+				"background-position"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"back",
+				"background-size"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.md",
+			"settings":
+			{
+				"buffer_size": 5446,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/User/sphinx_make_html.sublime-build",
+	"command_palette":
+	{
+		"height": 347.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/marijn/dev/serraict.github.io/README.md",
+		"/Users/marijn/dev/serraict.github.io/index.md",
+		"/Users/marijn/dev/serraict.github.io/assets/themes/bootstrap/css/style.css",
+		"/Users/marijn/dev/serraict.github.io/_site/assets/themes/bootstrap/css/style.css",
+		"/Users/marijn/dev/tf-acceptancetests/daspec/index.md",
+		"/Users/marijn/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Users/marijn/dev/scrum-resources/README.md",
+		"/Users/marijn/dev/scrum-resources/presentations/css/theme/README.md",
+		"/Users/marijn/github/developer.transfollow/developer.transfollow.com/navigation.md",
+		"/Users/marijn/github/developer.transfollow/developer.transfollow.com/index.md",
+		"/Users/marijn/github/developer.transfollow/developer.transfollow.com/walkthrough.md",
+		"/Users/marijn/github/developer.transfollow/README.md",
+		"/Users/marijn/dev/tf/deployment/src/main/ansible/group_vars/all.yml",
+		"/Users/marijn/dev/tf/backend/src/main/resources/config/local-api-config.properties",
+		"/Users/marijn/dev/deployment.transfollow/templates/config.properties",
+		"/Users/marijn/dev/deployment.transfollow/pgpool.yml",
+		"/Users/marijn/dev/deployment.transfollow/production/group_vars/all/vars.yml",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/host_vars/lb2.accept.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/host_vars/lb1.accept.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/host_vars/pn1.accept.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/host_vars/pn2.accept.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/host_vars/smtp1.accept.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/host_vars/smtp2.accept.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/vars/deploy_war.yml",
+		"/Users/marijn/dev/deployment.transfollow/production/host_vars/lb1.prod.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/production/host_vars/lb2.prod.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/production/host_vars/pn1.prod.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/production/host_vars/pn2.prod.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/production/host_vars/smtp1.prod.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/production/host_vars/smtp2.prod.cluster.transfollow.nl",
+		"/Users/marijn/dev/deployment.transfollow/production/vars/deploy_war.yml",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/group_vars/smtpserver",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/group_vars/sqlserver-new",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/group_vars/customerportal",
+		"/Users/marijn/dev/deployment.transfollow/acceptance/group_vars/apiserver0.3",
+		"/Users/marijn/github/serraict.github.io/pages/links.md",
+		"/Users/marijn/github/developer.transfollow/documentation/a_user_de-activates_a_user_account.md",
+		"/Users/marijn/github/serraict.github.io/_includes/themes/bootstrap/default.html",
+		"/Users/marijn/github/serraict.github.io/_includes/themes/bootstrap/empty.html",
+		"/Users/marijn/github/serraict.github.io/pages/contact.md",
+		"/Users/marijn/github/serraict.github.io/_config.yml",
+		"/Users/marijn/github/serraict.github.io/pages/services/voor-ict-leveranciers.md",
+		"/Users/marijn/github/serraict.github.io/pages/services/voor-kwekers.md",
+		"/Users/marijn/github/serraict.github.io/index.md",
+		"/Users/marijn/github/serraict.github.io/pages/about/index.md",
+		"/Users/marijn/github/serraict.github.io/pages/about/marijn.md",
+		"/Users/marijn/Desktop/notes_analysis_almonte.txt",
+		"/Users/marijn/github/serraict.github.io/_layouts/default.html",
+		"/Users/marijn/github/serraict.github.io/tags.html",
+		"/Users/marijn/github/serraict.github.io/pages.html",
+		"/Users/marijn/github/serraict.github.io/archive.html",
+		"/Users/marijn/github/serraict.github.io/categories.html",
+		"/Users/marijn/github/serraict.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md",
+		"/Users/marijn/github/serraict.github.io/_includes/JB/pages_list",
+		"/Users/marijn/github/serraict.github.io/404.html",
+		"/Users/marijn/github/serraict.github.io/pages/about/missie.md",
+		"/Users/marijn/github/serraict.github.io/pages/about/visie.md",
+		"/Users/marijn/github/bball/.gitignore",
+		"/Users/marijn/github/bball/site/master.rst",
+		"/Users/marijn/github/developer.transfollow/developer.transfollow.com/faq.html",
+		"/Users/marijn/bitbucket/developer.transfollow/developer.transfollow.com/0.3/walkthrough.html",
+		"/Users/marijn/bitbucket/developer.transfollow/developer.transfollow.com/0.3/specs.html",
+		"/Users/marijn/bitbucket/developer.transfollow/developer.transfollow.com/0.3/release.html",
+		"/Users/marijn/bitbucket/developer.transfollow/developer.transfollow.com/0.3/reference.html",
+		"/Users/marijn/bitbucket/developer.transfollow/developer.transfollow.com/0.3/index.html",
+		"/Users/marijn/bitbucket/developer.transfollow/developer.transfollow.com/0.3/domain.html",
+		"/Users/marijn/bitbucket/developer.transfollow/README.md",
+		"/Users/marijn/github/abl/README.md",
+		"/Users/marijn/github/abl/abl/input/2013-2014/04-games_all.csv",
+		"/Users/marijn/github/abl/abl/input/2013-2014/03-roster.csv",
+		"/Users/marijn/Documents/201415_DASMU18/source/videos/index.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/index.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/video/index.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/index.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/team.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/romyh.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/danica.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/chloe.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/beau.rst",
+		"/Users/marijn/Documents/201415_DASMU18/source/spelers/laura.rst",
+		"/Users/marijn/Library/Application Support/Sublime Text 2/Packages/User/sphinx_make_html.sublime-build",
+		"/Users/marijn/Documents/bva_planning_session_notes.md",
+		"/Users/marijn/Documents/201415_DASMU18/source/conf.py"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"item",
+			"  (Approve Freight Document) -- :Substitute Signatory:\n",
+			"/css",
+			"meta",
+			"{% set database_host = groups['transfollow_database'][0] %}\nsupport@transfollow.com",
+			"{% set database_host = groups['transfollow_database'][0] %}\nsupport@globalorange.nl",
+			"support@globalorange.nl",
+			"@globalorange.nl",
+			"transfollowsupport@globalorange.nl",
+			"globalorange",
+			"	",
+			"description",
+			"site.pages",
+			"pages_list",
+			"site.pages",
+			"\\t",
+			"',",
+			"c='",
+			"deti",
+			"Meghan",
+			"Donna",
+			"Denise",
+			"Danica",
+			"anouk"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"support@transfollow.com",
+			"  ",
+			"Romy",
+			"Meghan",
+			"Donna",
+			"Denise",
+			"Danica",
+			"Beau"
+		],
+		"reverse": false,
+		"show_context": false,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.md",
+					"settings":
+					{
+						"buffer_size": 5446,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4211,
+								4211
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Markdown/Markdown.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 732.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true
+}
