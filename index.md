@@ -23,7 +23,7 @@ tagline: Marijn van der Zee
       <img src="{{ site.url }}/assets/img/stock/Tomato_P5260299b_frontpage.jpg"
       alt="Serra ICT Diensten">
       <div class="carousel-caption">
-        <h1>Growing valuable products</h1>
+        <h1>Growing valuable software</h1>
       </div>
     </div>
     
@@ -48,7 +48,7 @@ tagline: Marijn van der Zee
            alt="Serra ICT Diensten" 
            width="140" height="140">
       <h2>Serra ICT Diensten</h2>
-      <p>Donec sed odio dui. Etiam porta sem malesuada magna mollis euismod. Nullam id dolor id nibh ultricies vehicula ut id elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Praesent commodo cursus magna.</p>
+      <p>Serra helps organizations to grow great software teams that reliably deliver valuable software.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div>
     <div class="col-lg-4">
@@ -57,7 +57,7 @@ tagline: Marijn van der Zee
            alt="Serra ICT Diensten" 
            width="140" height="140">
       <h2>Marijn</h2>
-      <p>Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Cras mattis consectetur purus sit amet fermentum. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh.</p>
+      <p>Scrum Master, agile developer, pragmatic academic, team player, coach. That's me.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div>
     <div class="col-lg-4">
@@ -66,18 +66,32 @@ tagline: Marijn van der Zee
            alt="Serra ICT Diensten" 
            width="140" height="140">
       <h2>To do, doing, done</h2>
-      <p>Donec sed odio dui. Cras justo odio, dapibus ac facilisis in, egestas eget quam. Vestibulum id ligula porta felis euismod semper. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.</p>
+      <p>Visit my public <a href="https://trello.com/b/kY1XALyZ">Trello board</a> if you'd like to know wat I'm planning to do, currently doing and have done.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div>
   </div>
+
   <hr class="featurette-divider">
 
   <div class="row featurette">
     <div class="col-md-7">
-
+      <h2 class="featurette-heading">Contact me. <span class="text-muted">Phone or email works best.</span></h2>
+      <address>
+        <strong>Serra ICT Diensten</strong>
+        <small>Marijn van der Zee</small><br>
+        Westplantsoen 66<br>
+        2613 GM Delft<br><br>
+        <abbr title="Telefoon">T:</abbr> +31 (0)6 387 414 82<br>
+        <abbr title="E-mail">@:</abbr> <a href="mailto:#">info@serraict.com</a><br>
+        <abbr title="Internet">www:</abbr> <a href="{{ site.url }}">www.serraict.com</a><br>
+        <abbr title="Kamer van koophandel">KvK:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
+      </address>
     </div>
     <div class="col-md-5">
-      <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+      <img class="featurette-image img-responsive center-block" 
+           src="/assets/img/serraict_map.png" 
+           alt="Serra ICT Diensten, map"
+           width="400" height="400">
     </div>
   </div>
 
@@ -85,11 +99,14 @@ tagline: Marijn van der Zee
 
   <div class="row featurette">
     <div class="col-md-7 col-md-push-5">
-      <h2 class="featurette-heading">Oh yeah, it's that good. <span class="text-muted">See for yourself.</span></h2>
+      <h2 class="featurette-heading">Serra ICT Diensten. <span class="text-muted">Helping organizations to grow great software teams that reliably deliver valuable software.</span></h2>
       <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
     </div>
     <div class="col-md-5 col-md-pull-7">
-      <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+      <img class="featurette-image img-responsive center-block" 
+           src="/assets/img/beeldmerk400x400.png" 
+           alt="Serra ICT Diensten"
+           width="200" height="200">
     </div>
   </div>
 
