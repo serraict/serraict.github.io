@@ -67,7 +67,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>To do, doing, done</h2>
       <p>Visit my public <a href="https://trello.com/b/kY1XALyZ">Trello board</a> if you'd like to know wat I'm planning to do, currently doing and have done.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-default" href="https://trello.com/b/kY1XALyZ" role="button">View details &raquo;</a></p>
     </div>
   </div>
 
