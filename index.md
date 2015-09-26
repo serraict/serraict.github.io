@@ -133,8 +133,8 @@ tagline: Marijn van der Zee
 <img src="http://stackoverflow.com/users/flair/322283.png" 
      width="208" 
    height="58" 
-   alt="profile for Marijn at Stack Overflow, Q&amps;A for professional and enthusiast programmers" 
-   title="profile for Marijn at Stack Overflow, Q&amps;A for professional and enthusiast programmers">
+   alt="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
+   title="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
 </a></p>
 
 <p><a href="https://www.linkedin.com/in/marijnvanderzee"><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" alt="My Profile on LinkedIn"></a></p>
