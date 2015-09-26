@@ -42,6 +42,7 @@ tagline: Marijn van der Zee
 
 <div class="container marketing">
   <div class="row">
+    
     <div class="col-lg-4">
       <img class="img-circle" 
            src="/assets/img/beeldmerk400x400.png" 
@@ -51,15 +52,17 @@ tagline: Marijn van der Zee
       <p>Serra helps organizations to grow great software teams that reliably deliver valuable software.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div>
+    
     <div class="col-lg-4">
       <img class="img-circle" 
            src="/assets/img/marijn-gravatar.jpg" 
            alt="Serra ICT Diensten" 
            width="140" height="140">
       <h2>Marijn</h2>
-      <p>Scrum Master, agile developer, pragmatic academic, team player, coach. That's me.</p>
+      <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
       <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
     </div>
+    
     <div class="col-lg-4">
       <img class="img-circle" 
            src="/assets/img/trello-mark-circle.png" 
@@ -69,6 +72,7 @@ tagline: Marijn van der Zee
       <p>Visit my public <a href="https://trello.com/b/kY1XALyZ">Trello board</a> if you'd like to know wat I'm planning to do, currently doing and have done.</p>
       <p><a class="btn btn-default" href="https://trello.com/b/kY1XALyZ" role="button">View details &raquo;</a></p>
     </div>
+  
   </div>
 
   <hr class="featurette-divider">
@@ -114,11 +118,28 @@ tagline: Marijn van der Zee
 
   <div class="row featurette">
     <div class="col-md-7">
-      <h2 class="featurette-heading">And lastly, this one. <span class="text-muted">Checkmate.</span></h2>
-      <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+      <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
+
+              
+
+
     </div>
     <div class="col-md-5">
-      <img class="featurette-image img-responsive center-block" data-src="holder.js/500x500/auto" alt="Generic placeholder image">
+      <p><a href="http://stackoverflow.com/users/322283/marijn">
+<img src="http://stackoverflow.com/users/flair/322283.png" 
+     width="208" 
+   height="58" 
+   alt="profile for Marijn at Stack Overflow, Q&amps;A for professional and enthusiast programmers" 
+   title="profile for Marijn at Stack Overflow, Q&amps;A for professional and enthusiast programmers">
+</a></p>
+
+<p><a href="https://www.linkedin.com/in/marijnvanderzee"><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" alt="My Profile on LinkedIn"></a></p>
+
+<p><a href="https://twitter.com/marijnvanderzee"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow me on twitter"></a></p>
+
+<p><a href="https://github.com/serra"><img src="/assets/img/github.png" alt="My profile page on github"></a></p>
+
+<p><a href="https://www.scrum.org/User-Profile/userId/121566"><img src="/assets/img/PSMI.png" alt="Professional Scrum Master I"></a></p>
     </div>
   </div>
 
