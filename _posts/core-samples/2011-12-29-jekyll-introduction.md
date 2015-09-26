@@ -76,7 +76,7 @@ help you better understand the code examples contained throughout Jekyll-Bootstr
 
 ## Initial Setup
 
-After [installing jekyll](/index.html#start-now) you'll need to format your website directory in a way jekyll expects.
+After installing jekyll you'll need to format your website directory in a way jekyll expects.
 Jekyll-bootstrap conveniently provides the base directory format.
 
 ### The Jekyll Application Base Format
@@ -394,8 +394,3 @@ As noted, our main programming constraint is the fact that our API is limited to
 Jekyll-bootstrap is intended to provide helper methods and strategies aimed at making it more intuitive and easier to work with Jekyll =)
 
 **Thank you** for reading this far.
-
-## Next Steps
-
-Please take a look at [{{ site.categories.api.first.title }}]({{ BASE_PATH }}{{ site.categories.api.first.url }}) 
-or jump right into [Usage]({{ BASE_PATH }}{{ site.categories.usage.first.url }}) if you'd like.

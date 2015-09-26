@@ -34,6 +34,8 @@ author :
 #
 production_url : http://serraict.github.io
 
+url: http://www.serraict.com
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
@@ -142,3 +144,4 @@ JB :
   #   ./_includes/custom/[HELPER]
   # where [HELPER] is the name of the helper you are overriding.
 
+exclude: [vendor]
