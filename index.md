@@ -69,7 +69,7 @@ tagline: Marijn van der Zee
            alt="Serra ICT Diensten" 
            width="140" height="140">
       <h2>To do, doing, done</h2>
-      <p>Visit my public <a href="https://trello.com/b/kY1XALyZ">Trello board</a> if you'd like to know wat I'm planning to do, currently doing and have done.</p>
+      <p>Want to know what I'm up to? Visit my public <a href="https://trello.com/b/kY1XALyZ">Trello board</a>!</p>
       <p><a class="btn btn-default" href="https://trello.com/b/kY1XALyZ" role="button">View details &raquo;</a></p>
     </div>
   
@@ -104,7 +104,9 @@ tagline: Marijn van der Zee
   <div class="row featurette">
     <div class="col-md-7 col-md-push-5">
       <h2 class="featurette-heading">Serra ICT Diensten. <span class="text-muted">Helping organizations to grow great software teams that reliably deliver valuable software.</span></h2>
-      <p class="lead">Donec ullamcorper nulla non metus auctor fringilla. Vestibulum id ligula porta felis euismod semper. Praesent commodo cursus magna, vel scelerisque nisl consectetur. Fusce dapibus, tellus ac cursus commodo.</p>
+      <p class="lead">
+
+      </p>
     </div>
     <div class="col-md-5 col-md-pull-7">
       <img class="featurette-image img-responsive center-block" 
@@ -120,7 +122,9 @@ tagline: Marijn van der Zee
     <div class="col-md-7">
       <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
 
-              
+                  <p class="lead">
+
+      </p>  
 
 
     </div>

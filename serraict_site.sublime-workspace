@@ -23,7 +23,14 @@
 			"file": "index.md",
 			"settings":
 			{
-				"buffer_size": 5446,
+				"buffer_size": 5171,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"settings":
+			{
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -206,7 +213,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 1,
 			"sheets":
 			[
 				{
@@ -214,15 +221,15 @@
 					"file": "index.md",
 					"settings":
 					{
-						"buffer_size": 5446,
+						"buffer_size": 5171,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								4211,
-								4211
+								2034,
+								2034
 							]
 						],
 						"settings":
@@ -232,7 +239,32 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 732.0,
+						"translation.y": 559.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
