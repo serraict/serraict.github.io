@@ -50,7 +50,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>Serra ICT Diensten</h2>
       <p>Serra helps organizations to grow great software teams that reliably deliver valuable software.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-default" href="#SerraICT" role="button">View details &raquo;</a></p>
     </div>
     
     <div class="col-lg-4">
@@ -60,7 +60,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>Marijn</h2>
       <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
-      <p><a class="btn btn-default" href="#" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
     </div>
     
     <div class="col-lg-4">
@@ -77,7 +77,11 @@ tagline: Marijn van der Zee
 
   <hr class="featurette-divider">
 
+  <a id="Contact"></a>
+
   {% include contact.html %}
+
+  <a id="SerraICT"></a>
 
   <hr class="featurette-divider">
 
@@ -95,6 +99,8 @@ tagline: Marijn van der Zee
            width="200" height="200">
     </div>
   </div>
+
+  <a id="Marijn"></a>
 
   <hr class="featurette-divider">
 
