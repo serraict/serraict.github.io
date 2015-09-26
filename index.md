@@ -13,14 +13,14 @@ tagline: Marijn van der Zee
   <div class="carousel-inner" role="listbox">
 
     <div class="item active">
-      <img src="{{ site.url }}/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
+      <img src="/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
       <div class="carousel-caption">
         <h1>Growing great teams</h1>
       </div>
     </div>
 
     <div class="item">
-      <img src="{{ site.url }}/assets/img/stock/Tomato_P5260299b_frontpage.jpg"
+      <img src="assets/img/stock/Tomato_P5260299b_frontpage.jpg"
       alt="Serra ICT Diensten">
       <div class="carousel-caption">
         <h1>Growing valuable software</h1>
