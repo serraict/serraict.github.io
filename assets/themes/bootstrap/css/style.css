@@ -1,4 +1,10 @@
+img[alt=attribution] { 
+  width: 400px; 
+}
 
+.page-header {
+    padding-top: 50px;
+}
 
 /* Custom container */
 .container-narrow {
