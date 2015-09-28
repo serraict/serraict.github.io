@@ -141,10 +141,11 @@ tagline: Marijn van der Zee
       <p>I'm fully booked until December 23rd 2015, but feel free to contact me anytime. <a href="#Contact">Let's get in touch!</a></p>
     </div>
     <div class="col-md-5 col-md-pull-7">
+      <a href="http://bit.do/serras-kanban-board">
       <img class="featurette-image img-responsive center-block" 
-           src="/assets/img/beeldmerk400x400.png" 
+           src="/assets/img/trello-logo-blue.png" 
            alt="Serra ICT Diensten"
-           width="200" height="200">
+           width="200" height="200"></a>
     </div>
   </div>
 
