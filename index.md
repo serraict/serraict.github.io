@@ -69,8 +69,8 @@ tagline: Marijn van der Zee
            alt="Serra ICT Diensten" 
            width="140" height="140">
       <h2>To do, doing, done</h2>
-      <p>Want to know what I'm up to? Visit my public <a href="https://trello.com/b/kY1XALyZ">Trello board</a>!</p>
-      <p><a class="btn btn-default" href="https://trello.com/b/kY1XALyZ" role="button">View details &raquo;</a></p>
+      <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
+      <p><a class="btn btn-default" href="http://bit.do/serras-kanban-board" role="button">View details &raquo;</a></p>
     </div>
   
   </div>
