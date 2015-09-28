@@ -70,7 +70,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>To do, doing, done</h2>
       <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
-      <p><a class="btn btn-default" href="http://bit.do/serras-kanban-board" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-default" href="#Availability" role="button">View details &raquo;</a></p>
     </div>
   
   </div>
@@ -107,31 +107,47 @@ tagline: Marijn van der Zee
   <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
-
-                  <p class="lead">
-
-      </p>  
-
-
+      <p class="lead"></p>  
     </div>
     <div class="col-md-5">
       <p><a href="http://stackoverflow.com/users/322283/marijn">
-<img src="http://stackoverflow.com/users/flair/322283.png" 
-     width="208" 
-   height="58" 
-   alt="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
-   title="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-</a></p>
+      <img src="http://stackoverflow.com/users/flair/322283.png" 
+           width="208" 
+         height="58" 
+         alt="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
+         title="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
+      </a></p>
 
-<p><a href="https://www.linkedin.com/in/marijnvanderzee"><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" alt="My Profile on LinkedIn"></a></p>
+      <p><a href="https://www.linkedin.com/in/marijnvanderzee"><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" alt="My Profile on LinkedIn"></a></p>
 
-<p><a href="https://twitter.com/marijnvanderzee"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow me on twitter"></a></p>
+      <p><a href="https://twitter.com/marijnvanderzee"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow me on twitter"></a></p>
 
-<p><a href="https://github.com/serra"><img src="/assets/img/github.png" alt="My profile page on github"></a></p>
+      <p><a href="https://github.com/serra"><img src="/assets/img/github.png" alt="My profile page on github"></a></p>
 
-<p><a href="https://www.scrum.org/User-Profile/userId/121566"><img src="/assets/img/PSMI.png" alt="Professional Scrum Master I"></a></p>
+      <p><a href="https://www.scrum.org/User-Profile/userId/121566"><img src="/assets/img/PSMI.png" alt="Professional Scrum Master I"></a></p>
+          </div>
+  </div>
+  
+  <a id="Availability"></a>
+
+  <hr class="featurette-divider">
+
+  <div class="row featurette">
+    <div class="col-md-7 col-md-push-5">
+      <h2 class="featurette-heading">To do, doing, done. <span class="text-muted">What am I up to?</span></h2>
+      <p class="lead">
+      Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>.
+      </p>
+      <p>I'm fully booked until December 23rd 2015, but feel free to contact me anytime. <a href="#Contact">Let's get in touch!</a></p>
+    </div>
+    <div class="col-md-5 col-md-pull-7">
+      <img class="featurette-image img-responsive center-block" 
+           src="/assets/img/beeldmerk400x400.png" 
+           alt="Serra ICT Diensten"
+           width="200" height="200">
     </div>
   </div>
+
 
   <hr class="featurette-divider">
 </div>
