@@ -6,12 +6,7 @@ group: 'navigation'
 ---
 {% include JB/setup %}
 
-<h2>All posts</h2>
+{% include JB/setup %}
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% assign posts_collate = site.posts %}
+{% include JB/posts_collate %}

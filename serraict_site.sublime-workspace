@@ -20,17 +20,10 @@
 	"buffers":
 	[
 		{
-			"file": "index.md",
+			"file": "_posts/books/2015-10-01-book-review-Implementing-Lean-Software-Development-From-Concept-to-Cash.md",
 			"settings":
 			{
-				"buffer_size": 5171,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"settings":
-			{
-				"buffer_size": 0,
+				"buffer_size": 944,
 				"line_ending": "Unix"
 			}
 		}
@@ -63,9 +56,25 @@
 	},
 	"file_history":
 	[
-		"/Users/marijn/dev/serraict.github.io/README.md",
+		"/Users/marijn/dev/serraict.github.io/blog.html",
+		"/Users/marijn/dev/serraict.github.io/archive.html",
+		"/Users/marijn/dev/serraict.github.io/_includes/contact.html",
+		"/Users/marijn/dev/serraict.github.io/pages.html",
 		"/Users/marijn/dev/serraict.github.io/index.md",
+		"/Users/marijn/dev/serraict.github.io/_includes/themes/bootstrap/default.html",
+		"/Users/marijn/dev/serraict.github.io/_includes/themes/bootstrap/post.html",
+		"/Users/marijn/dev/serraict.github.io/_posts/core-samples/2011-12-29-jekyll-introduction.md",
+		"/Users/marijn/dev/serraict.github.io/_config.yml",
+		"/Users/marijn/dev/serraict.github.io/script/cibuild.sh",
+		"/Users/marijn/dev/serraict.github.io/Gemfile",
+		"/Users/marijn/dev/serraict.github.io/.travis.yml",
+		"/Users/marijn/dev/serraict.github.io/pages/attributions.md",
 		"/Users/marijn/dev/serraict.github.io/assets/themes/bootstrap/css/style.css",
+		"/Users/marijn/dev/serraict.github.io/pages/contact.html",
+		"/Users/marijn/dev/serraict.github.io/_site/assets/img/stock/Tomato_P5260299b.jpg",
+		"/Users/marijn/dev/serraict.github.io/_site/pages/attributions.html",
+		"/Users/marijn/dev/serraict.github.io/_site/lessons/2011/12/29/jekyll-introduction/index.html",
+		"/Users/marijn/dev/serraict.github.io/README.md",
 		"/Users/marijn/dev/serraict.github.io/_site/assets/themes/bootstrap/css/style.css",
 		"/Users/marijn/dev/tf-acceptancetests/daspec/index.md",
 		"/Users/marijn/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
@@ -164,6 +173,9 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"url",
+			"//commons",
+			"sidebar",
 			"item",
 			"  (Approve Freight Document) -- :Substitute Signatory:\n",
 			"/css",
@@ -213,23 +225,23 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "index.md",
+					"file": "_posts/books/2015-10-01-book-review-Implementing-Lean-Software-Development-From-Concept-to-Cash.md",
 					"settings":
 					{
-						"buffer_size": 5171,
+						"buffer_size": 944,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								2034,
-								2034
+								433,
+								433
 							]
 						],
 						"settings":
@@ -237,31 +249,6 @@
 							"syntax": "Packages/Markdown/Markdown.tmLanguage",
 							"tab_size": 2,
 							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 559.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"settings":
-					{
-						"buffer_size": 0,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -332,6 +319,6 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 150.0,
+	"side_bar_width": 256.0,
 	"status_bar_visible": true
 }
