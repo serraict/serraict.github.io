@@ -4,7 +4,7 @@
   </div>
 
   <div class="row post-full">
-    <div class="col-md-12">
+    <div class="col-md-8">
       <div class="date">
         <span>{{ page.date | date_to_long_string }}</span>
       </div>
@@ -45,6 +45,11 @@
       </ul>
       <hr>
       {% include JB/comments %}
+    </div>
+
+    <div class="col-md-4">
+      {% assign posts_collate = site.posts %}
+      {% include JB/posts_collate %}
     </div>
   </div>
 </div>
