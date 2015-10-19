@@ -50,19 +50,9 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>Serra ICT Diensten</h2>
       <p>Serra helps organizations to grow great software teams that reliably deliver valuable software.</p>
-      <p><a class="btn btn-default" href="#SerraICT" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-success" href="#SerraICT" role="button">View details &raquo;</a></p>
     </div>
-    
-    <div class="col-lg-4">
-      <img class="img-circle" 
-           src="/assets/img/marijn-gravatar.jpg" 
-           alt="Serra ICT Diensten" 
-           width="140" height="140">
-      <h2>Marijn</h2>
-      <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
-      <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
-    </div>
-    
+        
     <div class="col-lg-4">
       <img class="img-circle" 
            src="/assets/img/trello-mark-circle.png" 
@@ -71,6 +61,16 @@ tagline: Marijn van der Zee
       <h2>To do, doing, done</h2>
       <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
       <p><a class="btn btn-default" href="#Availability" role="button">View details &raquo;</a></p>
+    </div>
+
+    <div class="col-lg-4">
+      <img class="img-circle" 
+           src="/assets/img/marijn-gravatar.jpg" 
+           alt="Serra ICT Diensten" 
+           width="140" height="140">
+      <h2>Marijn</h2>
+      <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
+      <p><a class="btn btn-primary" href="#Marijn" role="button">View details &raquo;</a></p>
     </div>
   
   </div>
