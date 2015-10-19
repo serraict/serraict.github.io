@@ -21,5 +21,5 @@ thereby installing the confidence within the team and organization
 that we will end up where we want to be,
 without knowing where that place is beforehand.
 
-As a Srum Master I shall make sure that the journey is worthwile.
+As a Scrum Master I shall make sure that the journey is worthwile.
 

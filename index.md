@@ -149,6 +149,4 @@ tagline: Marijn van der Zee
     </div>
   </div>
 
-
-  <hr class="featurette-divider">
 </div>
