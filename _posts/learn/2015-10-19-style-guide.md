@@ -17,6 +17,16 @@ I found it quite hard to pick the typefaces to use to match above goals - I gues
 
 Base font size is 18px, which I find pleasantly readable and it works well with the short headlines on the main page. For sizing all other elements, I rely on [Twitter Bootstrap's Customizer][BS] and a custom `config.json` file with LESS variables. The Bootstrap customizer sizes all other fonts relatively to this base size.
 
+```
+"@font-family-sans-serif": "\"Liberation Sans\", \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+"@font-family-serif": "\"Liberation Serif\", Garamond, Georgia, \"Times New Roman\", Times, serif",
+"@font-family-monospace": "\"Liberation Mono\", Menlo, Monaco, Consolas, \"Courier New\", monospace",
+"@font-family-base": "@font-family-serif",
+"@font-size-base": "18px",
+```
+
+I'm still not really sure about the backup fonts.
+
 ##Colors
 
 <span class="label label-default">Default</span>
@@ -36,8 +46,11 @@ I used an analoguous color scheme based on the two green colors from my company 
 "@brand-danger": "#AD1B11",
 ```
 
+I choose a grayish background and a slightly darker navbar.
+
 ##Layout
 
+I use a reponsive, 12 column grid with 30px gutters. It works well on desktops, laptops and handheld devices. Main page has a single top-down navigation flow. The blog has atop down navigation and an archive on the right.
 
 ##Notes
 
