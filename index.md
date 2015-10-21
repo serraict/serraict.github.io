@@ -50,7 +50,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>Serra ICT Diensten</h2>
       <p>Serra helps organizations to grow great software teams that reliably deliver valuable software.</p>
-      <p><a class="btn btn-success" href="#SerraICT" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-info" href="#SerraICT" role="button">View details &raquo;</a></p>
     </div>
         
     <div class="col-lg-4">
@@ -60,7 +60,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>To do, doing, done</h2>
       <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
-      <p><a class="btn btn-default" href="#Availability" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-info" href="#Availability" role="button">View details &raquo;</a></p>
     </div>
 
     <div class="col-lg-4">
@@ -70,7 +70,7 @@ tagline: Marijn van der Zee
            width="140" height="140">
       <h2>Marijn</h2>
       <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
-      <p><a class="btn btn-primary" href="#Marijn" role="button">View details &raquo;</a></p>
+      <p><a class="btn btn-info" href="#Marijn" role="button">View details &raquo;</a></p>
     </div>
   
   </div>
@@ -93,7 +93,7 @@ tagline: Marijn van der Zee
       </p>
     </div>
     <div class="col-md-5 col-md-pull-7">
-      <img class="featurette-image img-responsive center-block" 
+      <img class="featurette-image img-responsive center-block img-rounded" 
            src="/assets/img/beeldmerk400x400.png" 
            alt="Serra ICT Diensten"
            width="200" height="200">
