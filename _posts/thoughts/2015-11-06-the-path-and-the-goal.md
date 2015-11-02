@@ -17,4 +17,7 @@ title: I want YOU to take me to the goal
 
 From [Battlestar Galactica][imdb], Season 2, episode 6 @18m
 
+![Battlestar Galactica](http://ia.media-imdb.com/images/M/MV5BMTc1NTg1MDk3NF5BMl5BanBnXkFtZTYwNDYyMjI3._V1_SY317_CR16,0,214,317_AL_.jpg)
+
+
  [imdb]: http://www.imdb.com/title/tt0407362/
