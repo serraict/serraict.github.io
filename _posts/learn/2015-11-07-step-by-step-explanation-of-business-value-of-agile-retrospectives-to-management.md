@@ -42,7 +42,7 @@ Sincerely,
 ~Marijn
 
  [Agile Principle 12]: http://agilemanifesto.org/principles.html
- [contact me]: /contact.md
+ [contact me]: /pages/contact.html
  [Gonçalves 2015]: https://oikosofyseries.com/agile-retrospectives-free-program
 
 
