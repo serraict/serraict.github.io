@@ -24,7 +24,7 @@ The Retrospective is the repeating ritual that fosters the continuous improvemen
 
 Improvement in the way work can be in many areas: technical tools, the way we collaborate within the team, the way we communicate with you (our managers), the way we do our testing or the way the Product Owner collaborates with the Dev Team. In our retrospectives we refelct on how we performed and explore ways to improve. The outocome of the Retrospectives are insights and actions.
 
-Some of the benefits for your organizations you can expect from Agile Retrospectives are (from [Conçalves 2015]):
+Some of the benefits for your organizations you can expect from Agile Retrospectives are (from [Gonçalves 2015]):
 
  * Energised, motivated teams
  * Team members can let go of their frustrations
