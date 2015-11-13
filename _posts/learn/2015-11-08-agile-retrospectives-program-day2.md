@@ -27,7 +27,7 @@ Prime directive:
 
 ## How to create a safe environment
 
-Generally speaking it is advised to only have participating team memebers in the retrospective. Presence of management ofte leads to shut-down from team members.
+Generally speaking it is advised to only have participating team members in the retrospective. Presence of management often leads to shut-down from team members.
 
 Team members decide what will go public.
 
@@ -41,7 +41,7 @@ Encourage but not force participation.
 
 Location matters. Change location (terrace, bar, ... ) can really change the mood of the team.
 
-Further investigation: Design the Team Alliance and Organisational Relationship System Coaching.
+Further investigation: Design the Team Alliance and Organizational Relationship System Coaching.
 
 DTA:
 
@@ -52,15 +52,15 @@ DTA:
 
 ## The Facilitator
 
-The facilitator has several responsobilities:
+The facilitator has several responsibilities:
 
- * Create environment wehre everybody is comfortable to speak
+ * Create environment where everybody is comfortable to speak
  * Encourage everybody to speak
  * Clarify insights - make sure each insight is understood by everybody in the room
  * Challenge insights with questions
- * Make sure there is a positive atmosphere in the room, focussing on constructively improving the future.
+ * Make sure there is a positive atmosphere in the room, focusing on constructively improving the future.
  * Choose exercises that fit the situation at hand. There are several resources, including Getting Value out of Agile Retrospectives [[Gonçalves, Linders]] and the [Oikosofy Blog]
- * Summarize the restrospective
+ * Summarize the retrospective
 
 Possible pitfalls
 
@@ -69,40 +69,51 @@ Possible pitfalls
 
 ## Five stages
 
-### Stage 1: Set the Tone
+These are the well-known retrospective stages that I first learned from "Agile Retrospectives" [Derby; Larsen; Schwaber, 2006].
 
-### Stage 2: Gather Data
+##### Stage 1: Set the Tone
 
-### Stage 3: Generate Insights
+Create the right atmosphere and declare the focus (validate it with the team).
 
-### Stage 4: Determine Actions
+##### Stage 2: Gather Data
 
-### Stage 5: Close the Retrospective
+Where possible collect data during and before the sprint. Visuals speak louder than words. Visuals can be charts, cards, time-lines etcetera. Don't forget the F-word - feelings matter too and can be more accurately represented by visuals (smiley-sad faces, emotional seismographs. ...) than put in words. 
 
+##### Stage 3: Generate Insights
 
-## My learning points and questions?
+The raw information can be turned in useful insights after collaborative interpretation and discussion. It is OK to formulate possible solutions at this stage, but we should not stick to a single solution and keep our options open. 
+
+##### Stage 4: Determine Actions
+
+From the actions determine actions and commit to them - both individually and as a team.
+
+##### Stage 5: Close the Retrospective
+
+Summarize (the retro), visualize (the insights and actions) and energize (the team).
+
+## My learning points and questions
+
+Much of the topics covered here were familiar ground, but it is always good to go back to the essentials. What actions did you get out of your last retrospectives? 
+
+I know I don't always succeed in helping the team formulate the things they can start doing *tomorrow* to address their biggest improvement.
+
+I know I have a tendency to "make my point" instead of helping the team find their own insights.
+
+If it is the first retrospective with the team, it is a good idea to postulate the team values with respect to the retrospective. See for example the prime directive ad the top.
 
 It is important for the facilitator to clarify the insights and challenge them by asking questions. This is what I find the hard part - asking open questions that clarify our insights without making "my point". 
 
 What is our DTA? Is it explicit or mostly implicit?
 
-
+I should ask the team for improvements of the retrospective more often.
 
 
 
  [Oikosofy Blog]: http://blog.oikosofy.com/category/agile/agile-retrospectives/
  [Gonçalves, Linders]: http://www.infoq.com/minibooks/agile-retrospectives-value
-
-
-
-
-
-
-
-
  [Agile Principle 12]: http://agilemanifesto.org/principles.html
  [contact me]: /pages/contact.html
  [Gonçalves 2015]: https://oikosofyseries.com/agile-retrospectives-free-program
-
+ [Derby; Larsen; Schwaber, 2006]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/9781680500295
 
 
