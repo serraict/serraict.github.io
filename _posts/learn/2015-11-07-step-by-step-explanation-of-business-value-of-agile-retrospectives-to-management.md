@@ -2,7 +2,7 @@
 layout: post
 category : learn
 tagline: What's in it for the organisation?
-tags : [scrum, retrospective, management,agile-etrospectives-program]
+tags : [scrum, retrospective, management,agile-retrospectives-program]
 title: Step-by-step explanation of business value of Agile Retrospectives to management
 ---
 {% include JB/setup %}
