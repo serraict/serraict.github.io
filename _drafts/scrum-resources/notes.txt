@@ -1,0 +1,32 @@
+
+https://youtu.be/M1q6b9JI2Wc?t=1519 - start scrum based on these rules
+
+scrum master: "we'll do one-week sprints"
+team: "we can't do anything in one week"
+scrum master: "that means you can do four nothings in in a month - I'd rather find to we can't do anything in a week"
+
+Jeff Sutherland: "When the team starts correcting each other - that's when Scrum starts to work"
+
+"It's only when they commit, they get results"
+
+"Scrum is not an acronym - it is an event in Rugby where a group of like minded people come together and discuss ownership of a ball." https://youtu.be/IyNPeTn8fpo?t=128
+
+Ken Schwaber on technical debt and impact on long-term velocity: https://youtu.be/IyNPeTn8fpo?t=2469
+
+Ken Schwaber on telling the team to do more: "when we are told to do more, we cut quality without telling a soul"   https://youtu.be/IyNPeTn8fpo?t=2624
+
+"people at qa are used to doing incredible things with no authority, no respect and no hope of succes [they make excellent scrum masters]"
+
+inventory is a liability, not an asset https://youtu.be/IyNPeTn8fpo?t=3231
+
+
+
+
+---
+
+Up-indicators:
+
+ * Scrum is being followed
+ * team members are correcting each other
+ * team starts making significant decisions
+
