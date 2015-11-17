@@ -7,7 +7,7 @@ title: 95% Code Coverage
 ---
 {% include JB/setup %}
 
-Three collected thoughts of the use of code coverage as a quality metric.
+Three collected thoughts on the use of code coverage as a quality metric.
 
 > Incentives with negative consequences are called perverse incentives; asking developers to reach a particular code coverage goal is clearly a perverse incentive.
 > 
