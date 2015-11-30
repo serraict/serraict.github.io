@@ -11,9 +11,9 @@ One of the hardest parts of facilitating agile retrospectives (for me at least) 
 
 In the retrospective, we should make sure:
  
- * we commit to a single area of improvement and find the root cause
- * pick a small number of actions to take (in the next sprint) to improve in  this area
- * define success criteria for these actions
+ * we commit to a single area of improvement and find the root cause;
+ * pick a small number of actions to take (in the next sprint) to improve in  this area;
+ * define success criteria for these actions.
 
 ## Finding the root cause
 
@@ -22,10 +22,10 @@ In the retrospective, we should make sure:
 
 According to [Gonçalves 2015] it is important to find the root cause, because
 
- * only then we will address the *real* issue
- * it will save us time - if we do not fix the root cause, the problem will keep occuring, only in different forms
- * killing the root will kill a whole tree of problems
- * it will lead to action items that are not "fluffy"
+ * only then we will address the *real* issue;
+ * it will save us time - if we do not fix the root cause, the problem will keep occuring, only in different forms;
+ * killing the root will kill a whole tree of problems;
+ * it will lead to action items that are not "fluffy".
 
 This all being said I'm not really sure if there is really a single root cause for every problem. However, if there are more than a single root cause, working on one of those is always better than working on a branch of the tree.
 
@@ -35,12 +35,11 @@ We can only do so much; by defining small actions, we get better insight in the 
 
 Tips to get stuff done are:
 
- * Appoint an ambassador for an action item
- * Add action items to (the top of) the sprint backlog
- * Ask about them in the daily (an ambassador could do this too)
- * Have a dedicated Kanban board for action items
-
-## Define success criteria for the actions
+ * Appoint an ambassador for an action item;
+ * Add action items to (the top of) the sprint backlog;
+ * Ask about them in the daily (an ambassador could do this too);
+ * Have a dedicated Kanban board for action items;
+ * Define success criteria for each action and verify if they're met.
 
 
 
