@@ -66,10 +66,6 @@ This leads us to conclude that we can reduce cycle time by:
  5. limit work to capacity
  6. pull in work
 
-## Deming's 14 points
-
- * 14pts of Deming
-
 ## Measure Up!
 
 We all love measuring stuff, but often we measure many details without keeping an eye on the whole system. Often, instead of breaking stuff down (analyzing and decomposing) we should look at the whole (synthesize) and measure up. These will lead to more general questions and measurement which are actually more useful than detailed precise measurements. Just because we can measure details very precisely, does not mean we can draw conclusions wrt to the complete system; the sum of the details does *not* reflect the whole.
