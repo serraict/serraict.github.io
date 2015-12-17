@@ -12,7 +12,7 @@ title: Agile in Three Minutes
 > -- Amitai Schlair, [Amitai Schlair on the 3 levels of depth of learning, Scrum Master Toolbox podcast December 14, 2015]
 
 
-Each and every episode I listened to thus far got me engaged and thinking ... great stuff! Episodes are content-rich and thought provoking and their 3-minute length makes them very suitable to start a conversation in an agile retrospective - can't wait to try it out.
+Each and every episode I listened to thus far got me engaged and thinking ... great stuff! Episodes are content-rich and thought provoking and their **3**-minute length makes them very suitable to start a conversation in an agile retrospective - can't wait to try it out.
 
 Go ahead and subscribe to Amitai's podcast [Agile in Three Minutes].
 
