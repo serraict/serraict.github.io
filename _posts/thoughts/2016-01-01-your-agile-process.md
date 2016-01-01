@@ -10,7 +10,7 @@ title: I'm not an expert on *your* agile software development process
 
 <blockquote>
 
-    <p>Some people think they are important [...] and they feel that gives them the right to tell people what to do and how to do it. These people are Turkeys. Don't let these people tell you what to do.</p>
+    <p>Some people think they are important [...] and they feel that gives them the right to tell people what to do and how to do it. These people are turkeys. Don't let them tell you what to do.</p>
 
     <p><strong>I</strong> am a turkey. Don't let <strong>me</strong> tell you what to do either.</p> 
 
@@ -21,4 +21,4 @@ title: I'm not an expert on *your* agile software development process
 </blockquote>
 
 
-<iframe width="420" height="315" src="https://youtu.be/a-BOSpxYJ9M?t=1919" frameborder="0" allowfullscreen></iframe>
+<iframe width="420" height="315" src="https://www.youtube.com/embed/a-BOSpxYJ9M?t=1919" frameborder="0" allowfullscreen></iframe>
