@@ -111,12 +111,12 @@ JB :
   analytics :
     provider : true
   analytics :
-    provider : google
-    google :
+    provider : googleUA
+    # google :
+    #     tracking_id : 'UA-39125160-2'
+    googleUA :
         tracking_id : 'UA-39125160-2'
-  #   googleUA :
-  #       tracking_id : 'UA-***'
-  #       property_name : 'PROPERTY NAME'
+        property_name : 'serra company site'
   #   getclicky :
   #     site_id : 
   #   mixpanel :
