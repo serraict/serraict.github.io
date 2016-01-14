@@ -107,7 +107,14 @@ tagline: Marijn van der Zee
   <div class="row featurette">
     <div class="col-md-7">
       <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
-      <p class="lead"></p>  
+      <p >
+
+        I love to guide software teams on their journey to deliver valuable software and become a great team.
+
+        I consider myself a Scrum Master, agile developer, pragmatic student, team player and coach and as such have been active in the field of software development for well over ten years.
+
+
+      </p>  
     </div>
     <div class="col-md-5">
       <p><a href="http://stackoverflow.com/users/322283/marijn">
@@ -138,7 +145,7 @@ tagline: Marijn van der Zee
       <p class="lead">
       Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>.
       </p>
-      <p>I'm fully booked until December 23rd 2015, but feel free to contact me anytime. <a href="#Contact">Let's get in touch!</a></p>
+      <p>I'm partially booked until April 1st 2015, but do have some time to spare. Why wait? <a href="#Contact">Let's get in touch!</a></p>
     </div>
     <div class="col-md-5 col-md-pull-7">
       <a href="http://bit.do/serras-kanban-board">
