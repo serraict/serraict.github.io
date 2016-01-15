@@ -20,5 +20,4 @@ title: I'm not an expert on *your* agile software development process
 
 </blockquote>
 
-
-<iframe width="420" height="315" src="https://www.youtube.com/embed/a-BOSpxYJ9M?t=1919" frameborder="0" allowfullscreen></iframe>
+{% include youtube.html video-url="a-BOSpxYJ9M?t=1919" %}
