@@ -109,10 +109,9 @@ tagline: Marijn van der Zee
       <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
       <p >
 
-        I love to guide software teams on their journey to deliver valuable software and become a great team.
+        I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
 
-        I consider myself a Scrum Master, agile developer, pragmatic student, team player and coach and as such have been active in the field of software development for well over ten years.
-
+        I am a Scrum Master, agile developer, pragmatic student, team player and coach and have been active in the field of software development for well over ten years.
 
       </p>  
     </div>
