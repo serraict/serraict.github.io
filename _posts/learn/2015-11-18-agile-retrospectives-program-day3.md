@@ -7,7 +7,7 @@ title: How to make sure change happens
 ---
 {% include JB/setup %}
 
-One of the hardest parts of facilitating agile retrospectives (for me at least) is helping the team identify the most urgent problems and define actions that can be done *tomorrow*. Often, we come up with a rather long list of stuff we could or should do, but that are vague and not immediately actionable.
+One of the hardest parts of facilitating agile retrospectives (for me at least) is helping the team identify the most urgent problems and define actions that can be done *tomorrow*. Often, we come up with a rather long list of stuff we could or should do, with items that are vague and not immediately actionable.
 
 In the retrospective, we should make sure:
  

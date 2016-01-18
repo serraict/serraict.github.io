@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: It's a good thing, right?
-tags : [agile, empowerment, scrum-master]
+tags : [agile, empowerment, scrum-master, in-pulse]
 title: What is Empowerment Anyway?
 ---
 {% include JB/setup %}

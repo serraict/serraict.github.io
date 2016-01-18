@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: "What is my role on our journey through a complex domain?"
-tags : [scrum, scrum-master]
+tags : [scrum, scrum-master, in-pulse]
 title: My job as a Scrum Master
 ---
 {% include JB/setup %}

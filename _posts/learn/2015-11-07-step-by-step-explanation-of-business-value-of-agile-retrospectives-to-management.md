@@ -2,7 +2,7 @@
 layout: post
 category : learn
 tagline: What's in it for the organisation?
-tags : [scrum, retrospective, management,agile-retrospectives-program]
+tags : [scrum, retrospective, management, agile-retrospectives-program, in-pulse]
 title: Step-by-step explanation of business value of Agile Retrospectives to management
 ---
 {% include JB/setup %}
@@ -42,7 +42,7 @@ Sincerely,
 ~Marijn
 
  [Agile Principle 12]: http://agilemanifesto.org/principles.html
- [contact me]: /pages/contact.html
+ [contact me]: {{ site-url }}/pages/contact.html
  [Gonçalves 2015]: https://oikosofyseries.com/agile-retrospectives-free-program
 
 
