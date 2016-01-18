@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: I'm a turkey
-tags : [scrum, quote, agile]
+tags : [scrum, quote, agile, scrum-master]
 title: I'm not an expert on *your* agile software development process
 ---
 {% include JB/setup %}

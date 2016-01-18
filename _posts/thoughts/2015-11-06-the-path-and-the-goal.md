@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: "I can show you the path"
-tags : [scrum, quote, management]
+tags : [scrum, quote, scrum-master]
 title: I want YOU to take me to the goal
 ---
 {% include JB/setup %}

@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: 
-tags : [quote]
+tags : [quote, scrum-master]
 title: Leadership
 ---
 {% include JB/setup %}
