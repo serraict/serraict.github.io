@@ -116,19 +116,13 @@ tagline: Marijn van der Zee
       </p>  
     </div>
     <div class="col-md-5">
-      <p><a href="http://stackoverflow.com/users/322283/marijn">
-      <img src="http://stackoverflow.com/users/flair/322283.png" 
-           width="208" 
-         height="58" 
-         alt="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers" 
-         title="profile for Marijn at Stack Overflow, Q&amp;A for professional and enthusiast programmers">
-      </a></p>
+      {% include banners/so.html %}
 
-      <p><a href="https://www.linkedin.com/in/marijnvanderzee"><img src="http://www.linkedin.com/img/webpromo/btn_myprofile_160x33.gif" alt="My Profile on LinkedIn"></a></p>
+      {% include banners/linkedin.html %}
 
-      <p><a href="https://twitter.com/marijnvanderzee"><img src="http://twitter-badges.s3.amazonaws.com/follow_me-b.png" alt="Follow me on twitter"></a></p>
+      {% include banners/twitter.html %}
 
-      <p><a href="https://github.com/serra"><img src="/assets/img/github.png" alt="My profile page on github"></a></p>
+      {% include banners/github.html %}
 
       <p><a href="https://www.scrum.org/User-Profile/userId/121566"><img src="/assets/img/PSMI.png" alt="Professional Scrum Master I"></a></p>
           </div>
