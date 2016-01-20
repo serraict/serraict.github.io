@@ -10,7 +10,7 @@ After our collaboration has ended,
 I request all team members I have worked with for more than two sprints to fill out this survey. 
 On this page I present the results.
 
-Some might call it transparency, but I transparently declare this page to be honest self-promotion as well.
+Some might call it transparency, but I transparently declare this page to be self-promotion as well.
 
 Nevertheless, the request for feedback is genuine, as are the reponses. 
 This feedback as well as my day-to-day interaction with my team members help me to improve my Scrum Master play.
