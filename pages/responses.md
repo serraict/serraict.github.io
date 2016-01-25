@@ -21,6 +21,8 @@ Once I have collected more than five responses, I will present some results here
 
 ### What do others have to say about me?
 
+If I'd compare Marijn's Scrum Master play to a car, it would be a ...
+
 {% include carquotes.html %}
 
 
