@@ -42,17 +42,17 @@ tagline: Marijn van der Zee
 
 <div class="container marketing">
   <div class="row">
-    
+        
     <div class="col-lg-4">
       <img class="img-circle" 
-           src="/assets/img/beeldmerk400x400.png" 
+           src="/assets/img/marijn-gravatar.jpg" 
            alt="Serra ICT Diensten" 
            width="140" height="140">
-      <h2>Serra ICT Diensten</h2>
-      <p>Serra helps organizations to grow great software teams that reliably deliver valuable software.</p>
-      <p><a class="btn btn-default" href="#SerraICT" role="button">View details &raquo;</a></p>
+      <h2>Marijn</h2>
+      <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
+      <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
     </div>
-        
+
     <div class="col-lg-4">
       <img class="img-circle" 
            src="/assets/img/trello-mark-circle.png" 
@@ -65,13 +65,13 @@ tagline: Marijn van der Zee
 
     <div class="col-lg-4">
       <img class="img-circle" 
-           src="/assets/img/marijn-gravatar.jpg" 
+           src="/assets/img/beeldmerk400x400.png" 
            alt="Serra ICT Diensten" 
            width="140" height="140">
-      <h2>Marijn</h2>
-      <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
-      <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
-    </div>
+      <h2>Blog</h2>
+      <p>My thoughts on agile software development.</p>
+      <p><a class="btn btn-default" href="{{ site_url }}/blog.html" role="button">View details &raquo;</a></p>
+    </div>    
   
   </div>
 
@@ -116,16 +116,20 @@ tagline: Marijn van der Zee
       </p>  
     </div>
     <div class="col-md-5">
-      {% include banners/so.html %}
 
-      {% include banners/linkedin.html %}
+      <p><img class="featurette-image img-responsive center-block img-rounded" 
+           src="/assets/img/marijn-gravatar.jpg" 
+           alt="Serra ICT Diensten" 
+           width="200" height="200"></p>
 
-      {% include banners/twitter.html %}
-
-      {% include banners/github.html %}
-
-      <p><a href="https://www.scrum.org/User-Profile/userId/121566"><img src="/assets/img/PSMI.png" alt="Professional Scrum Master I"></a></p>
-          </div>
+      <p>
+        <a href="https://www.scrum.org/User-Profile/userId/121566">
+          <img src="/assets/img/PSMI.png" 
+               class="featurette-image img-responsive center-block img-rounded"
+               alt="Professional Scrum Master I, Professional Scrum Developer I, Professional Scrum Product Owner I">
+        </a>
+      </p>
+    </div>
   </div>
   
   <a id="Availability"></a>
