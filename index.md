@@ -120,7 +120,9 @@ tagline: Marijn van der Zee
         and with the organization's goals in mind. 
 
         I think I'm skillful and knowledgeable, 
-        yet I continuously find out there is tons of stuff I can do better and know little about.
+        yet I continuously find 
+        that there are better ways to go about my work
+        and that there still is much to learn.
       </p>
       <p>
         Do you think I can help you? <a href="#Contact">Let's get in touch!</a>
