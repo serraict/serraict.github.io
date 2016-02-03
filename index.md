@@ -108,12 +108,31 @@ tagline: Marijn van der Zee
     <div class="col-md-7">
       <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
       <p >
-
         I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
-
+      </p>
+      <p>
         I am a Scrum Master, agile developer, pragmatic student, team player and coach and have been active in the field of software development for well over ten years.
+      </p>
+      <p>
+        I work in an open and transparent way, 
+        sometimes confronting,
+        but always respectful towards people 
+        and with the organization's goals in mind. 
 
-      </p>  
+        I think I'm skillful and knowledgeable, 
+        yet I continuously find out there is tons of stuff I can do better and know little about.
+      </p>
+      <p>
+        Do you think I can help you? <a href="#Contact">Let's get in touch!</a>
+      </p>
+      <p>
+        Want to know a little more about me or the way I work? Read a couple of 
+        <a href="{{ site_url }}/blog.html">blog posts</a> 
+        or check out my online alter-egos below.
+      </p>
+      <p>
+        {% include banners/all-online-profiles-bar.html %}
+      </p>
     </div>
     <div class="col-md-5">
 
@@ -142,7 +161,7 @@ tagline: Marijn van der Zee
       <p class="lead">
       Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>.
       </p>
-      <p>I'm partially booked until April 1st 2015, but do have some time to spare. Why wait? <a href="#Contact">Let's get in touch!</a></p>
+      <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait? <a href="#Contact">Let's get in touch!</a></p>
     </div>
     <div class="col-md-5 col-md-pull-7">
       <a href="http://bit.do/serras-kanban-board">
