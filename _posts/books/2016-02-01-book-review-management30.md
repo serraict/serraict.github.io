@@ -32,14 +32,15 @@ a comprehensive view on agile management.
 After diving into agile software development and system complexity,
 Marty, the model of Management 3.0, is used to discuss Appelo's six views on Agile management:
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/six_mgt_views.png">
+<img src="{{ site_url }}/assets/img/blog/mgt30/six_mgt_views.png"
+     alt="Marty anf his six eyes">
 
 This book is thought-provoking and an amazing read. 
 It made me realize the immense impact managers have 
-on growing an agile culture in an origanization.
+on growing an agile culture in an organization.
 It made me appreciate their efforts even more.
 Managing software development organizations 
-is an art that requires a high level of craftmanship
+is an art that requires a high level of craftsmanship
 and does not guarantee outcomes.
 
 ### My three take-aways:
@@ -48,9 +49,10 @@ I could not resist using Jurgen's illustrations (see attribution below) for capt
 
 #### 1. A new model for system classification 
 
-Appello distinguishes *complexity* (an indication of predictability of behavior) from *complicatednes* (an indication of our ability to understand structure) and uses both to classify systems:
+Appello distinguishes *complexity* (an indication of predictability of behavior) from *complicatedness* (an indication of our ability to understand structure) and uses both to classify systems:
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/structure_vs_behavior.png">
+<img src="{{ site_url }}/assets/img/blog/mgt30/structure_vs_behavior.png"
+     alt="Structure vs behavior">
 
 This might remind you of the [Cynefin model] and the [Stacey matrix]
 which both classify systems into simple, complex, complicated or chaotic.
@@ -63,7 +65,7 @@ Like the Cynefin model, correctly classifying a system
 (be it organization, problem, situation or context) 
 allows us to to pick a good approach to managing it.
 
-#### 2. The Escher Cube of Conatraints
+#### 2. The Escher Cube of Constraints
 
 As a manager, we must be careful what we ask for from our self-organizing teams, because they are likely to deliver just that:
 crappy products to meet deadlines, 
@@ -74,18 +76,21 @@ where we can only keep one side fixed when tweaking another.
 
 Appelo suggests it can better be represented by a square: 
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/scope_time_resources_triangle.png">
+<img src="{{ site_url }}/assets/img/blog/mgt30/scope_time_resources_triangle.png"
+     alt="Iron Triangle">
 
 And in practice turns out to be something like this "Escher cube of constraints":
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/scope_time_resources_the_real_deal.png">
+<img src="{{ site_url }}/assets/img/blog/mgt30/scope_time_resources_the_real_deal.png"
+     alt="Escher's cube">
 
 #### 3. Fitness landscape
 
 Improving systems means making them more fit for their context. 
-This can be deepicted as moving upward on the fitness curve (higher means more fit):
+This can be depicted as moving upward on the fitness curve (higher means more fit):
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/improvement_in_complex_environment.png">
+<img src="{{ site_url }}/assets/img/blog/mgt30/improvement_in_complex_environment.png"
+     alt="Fitness_landscape">
 
 Improving can be done in *small steps* 
 by inspecting the near-by environment and moving up the slope.
@@ -97,7 +102,8 @@ The fitness landscape is ever changing.
 
 ### Conclusion: the Pamphlet for complex projects
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/pamphlet_for_complex_projects.png">
+<img src="{{ site_url }}/assets/img/blog/mgt30/pamphlet_for_complex_projects.png"
+     alt="Pamphlet for complex projects">
 
 ### Attributions
 
