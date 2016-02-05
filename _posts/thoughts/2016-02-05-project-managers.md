@@ -1,9 +1,11 @@
+---
 layout: post
 category : thoughts
-tagline: 
+tagline: ""
 tags : [agile, quote, management]
 title: Project Managers
 ---
+
 {% include JB/setup %}
 
 > Project managers are there to manage projects, not people. 

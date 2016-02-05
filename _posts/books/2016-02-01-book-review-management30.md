@@ -2,7 +2,7 @@
 layout: post
 category : book-review
 tagline: Not a cookbook for handling complexity
-tags : [agile,management]
+tags : [agile, management]
 title: Management 3.0
 ---
 {% include JB/setup %}
