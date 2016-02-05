@@ -1,8 +1,8 @@
 layout: post
 category : thoughts
 tagline: 
-tags : [agile, quote]
-title: One Step at a Time
+tags : [agile, quote, management]
+title: Project Managers
 ---
 {% include JB/setup %}
 
