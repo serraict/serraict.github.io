@@ -6,8 +6,6 @@ tags : [agile, quote, management]
 title: Project Managers
 ---
 
-{% include JB/setup %}
-
 > Project managers are there to manage projects, not people. 
 >
 > -- Jurgen Appelo, [Management 3.0]: Leading Agile Developers, Developing Agile Leaders
