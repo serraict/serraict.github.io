@@ -9,7 +9,7 @@ title: Style Guide
 
 After completing [Code School's Fundamentals of Design course ][FoD], I thought I'd write up a small style guide for my site. Voilà!
 
-##Typography <small>professional yet personal</small>
+## Typography <small>professional yet personal</small>
 
 The audience for my site are people who consider hiring me or are interested in what I'm currently doing. I'd like to leave a professional impression with both, with a friendly and personal tone.
 
@@ -25,7 +25,7 @@ Base font size is 18px, which I find pleasantly readable and it works well with 
 "@font-size-base": "18px",
 ```
 
-##Colors
+## Colors
 
 <span class="label label-default">Default</span>
 <span class="label label-primary">Primary</span>
@@ -46,7 +46,7 @@ I used an analogous color scheme based on the two green colors from my company l
 
 I choose a grayish background and a slightly darker navbar.
 
-##Layout
+## Layout
 
 I use a responsive, 12 column grid with 30px gutters. It works well on desktops, laptops and hand-held devices. Main page has a single top-down navigation flow. The blog has a top-down navigation and an archive on the right.
 
