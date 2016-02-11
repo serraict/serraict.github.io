@@ -35,7 +35,14 @@ Core Principles:
 
 > Stop starting, start finishing.
 
+#### Notes
+
+There are many different views on what exactly Kanban's values, principles, practices and properties are. You might be interested in reading [David Anderson's view], [kanbantool.com], [Wikipedia] or [Open Kanban].
 
   [safari-books]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/9781617291050
   [Marcus Hammarberg]: http://www.marcusoft.net/
   [Joakim Sundén]: http://joakimsunden.com/
+  [David Anderson's view]: http://www.djaa.com/principles-kanban-method-0
+  [kanbantool.com]: http://kanbantool.com/kanban-library/why-kanban/introducing-kanban-through-its-values#.Vrx3opMrLdQ
+  [Wikipedia]: https://en.wikipedia.org/wiki/Kanban_(development)
+  [Open Kanban]: https://github.com/agilelion/Open-Kanban#1-open-kanban-values
