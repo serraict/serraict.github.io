@@ -1,6 +1,6 @@
 ---
 layout: post
-category : scrum-resources
+category : learn
 tagline: 2015 Scrum Master Survey Results
 tags : [agile, learn, scrum]
 title: Scrum Master Assessment
