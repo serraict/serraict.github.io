@@ -76,7 +76,7 @@ This in fact shows an unwarranted distrust in the development team.
 
 > A good Scrum Master is wary of influencing the team.
 > A great Scrum Master can act normally 
-> and knows that the team will still make heir own decisions.
+> and knows that the team will still make their own decisions.
 >
 > -- Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership
 
