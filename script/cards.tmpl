@@ -1,0 +1,20 @@
+ <div id="cardCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      {{#card}}
+        <li data-target="#cardCarousel" data-slide-to="{{index}}"></li>
+      {{/card}}
+    </ol>
+    <div class="carousel-inner" role="listbox">
+
+      {{#card}}
+        <div class="item">
+          <div class="carousel-caption">
+            <p>
+                <a href="{{url}}">{{name}}</a>
+            </p>
+          </div>
+        </div>
+      {{/card}}
+
+    </div>
+</div>
