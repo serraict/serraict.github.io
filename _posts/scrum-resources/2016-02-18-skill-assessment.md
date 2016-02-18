@@ -9,7 +9,7 @@ title: Team Skill Assessment
 
 To deliver a done increment of working software with one team,
 all the skills needed to do so must be present within the team.
-To be resilient to schedule- or capacity changes and to be keep the tasks flowing, 
+To be resilient to schedule- or capacity changes and to keep the tasks flowing, 
 it's great if each team member is [T-shaped]: 
 each member has a deep skill level in her area of expertise,
 and has the basics covered in a broad range of other skills needed.
@@ -59,7 +59,7 @@ if there are certain areas of the application they did not touch the last couple
 They can't think of any, but they do realize that 
 Domain Driven Design and test driven development are important to them. 
 So they add DDD and TDD to the chart. 
-And their Jenkins continuous integration needs some TLC at times too.
+And their Jenkins continuous integration build server and slaves needs some TLC at times too.
 
 Then they silently group the stickies and have a short discussion on what to name the groups.
 They come up with the following skills that are required for working on their product:
