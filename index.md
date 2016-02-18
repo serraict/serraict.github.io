@@ -166,11 +166,12 @@ tagline: Marijn van der Zee
       <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait? <a href="#Contact">Let's get in touch!</a></p>
     </div>
     <div class="col-md-5 col-md-pull-7">
-      <a href="http://bit.do/serras-kanban-board">
-      <img class="featurette-image img-responsive center-block" 
-           src="/assets/img/trello-logo-blue.png" 
-           alt="Serra ICT Diensten"
-           width="200" height="200"></a>
+
+      <div>
+      {% include doing.html %}
+      </div>
+
+
     </div>
   </div>
 
