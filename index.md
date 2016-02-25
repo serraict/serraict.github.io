@@ -5,30 +5,35 @@ tagline: Marijn van der Zee
 ---
 
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!--   
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
     <li data-target="#myCarousel" data-slide-to="1"></li>
   </ol>
-    
+   -->  
   <div class="carousel-inner" role="listbox">
 
     <div class="item active">
-      <img src="/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
+      <div class="img-container">
+        <img src="/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
+      </div>
       <div class="carousel-caption">
         <h1>Growing great teams</h1>
       </div>
     </div>
 
     <div class="item">
-      <img src="assets/img/stock/Tomato_P5260299b_frontpage.jpg"
-      alt="Serra ICT Diensten">
+      <div class="img-container">
+        <img src="assets/img/stock/Tomato_P5260299b_frontpage.jpg"
+             alt="Serra ICT Diensten">
+      </div>
       <div class="carousel-caption">
         <h1>Growing valuable software</h1>
       </div>
     </div>
     
   </div>
-
+  <!-- 
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -37,44 +42,46 @@ tagline: Marijn van der Zee
     <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-
+   -->
 </div>
+<div class="marketing header">
+  <div class="container marketing">
+    <div class="row">
+          
+      <div class="col-lg-4">
+        <img class="img-circle" 
+             src="/assets/img/marijn-gravatar.jpg" 
+             alt="Serra ICT Diensten" 
+             width="140" height="140">
+        <h2>Marijn</h2>
+        <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
+        <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
+      </div>
 
-<div class="container marketing">
-  <div class="row">
-        
-    <div class="col-lg-4">
-      <img class="img-circle" 
-           src="/assets/img/marijn-gravatar.jpg" 
-           alt="Serra ICT Diensten" 
-           width="140" height="140">
-      <h2>Marijn</h2>
-      <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
-      <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
+      <div class="col-lg-4">
+        <img class="img-circle" 
+             src="/assets/img/trello-mark-circle.png" 
+             alt="Serra ICT Diensten" 
+             width="140" height="140">
+        <h2>To do, doing, done</h2>
+        <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
+        <p><a class="btn btn-success" href="#Availability" role="button">View details &raquo;</a></p>
+      </div>
+
+      <div class="col-lg-4">
+        <img class="img-circle" 
+             src="/assets/img/beeldmerk400x400.png" 
+             alt="Serra ICT Diensten" 
+             width="140" height="140">
+        <h2>Blog</h2>
+        <p>My thoughts on agile software development.</p>
+        <p><a class="btn btn-default" href="{{ site_url }}/blog.html" role="button">View details &raquo;</a></p>
+      </div>    
+    
     </div>
-
-    <div class="col-lg-4">
-      <img class="img-circle" 
-           src="/assets/img/trello-mark-circle.png" 
-           alt="Serra ICT Diensten" 
-           width="140" height="140">
-      <h2>To do, doing, done</h2>
-      <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
-      <p><a class="btn btn-success" href="#Availability" role="button">View details &raquo;</a></p>
-    </div>
-
-    <div class="col-lg-4">
-      <img class="img-circle" 
-           src="/assets/img/beeldmerk400x400.png" 
-           alt="Serra ICT Diensten" 
-           width="140" height="140">
-      <h2>Blog</h2>
-      <p>My thoughts on agile software development.</p>
-      <p><a class="btn btn-default" href="{{ site_url }}/blog.html" role="button">View details &raquo;</a></p>
-    </div>    
-  
   </div>
-
+</div>
+<div class="container marketing">
   <hr class="featurette-divider">
 
   <a id="Contact"></a>

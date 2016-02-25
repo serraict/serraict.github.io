@@ -110,16 +110,36 @@ body {
 
 /* Carousel base class */
 .carousel {
-  margin-bottom: 60px;
+  padding-bottom: 60px;
+  background-color: #962100;
 }
+.img-container:after {
+  content: " ";
+  z-index: 5;
+  display: block;
+  position: absolute;
+  height: 100%;
+  top: 0;
+  left: 0;
+  right: 0;
+  background: rgba(96, 21, 0, 0.5);
+}
+
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
   z-index: 10;
 }
 
-/* Declare heights because of positioning of img element */
+.carousel-control.left {
+  background-image: linear-gradient(to right, rgba(96,21,0,0.5) 0, rgba(96,21,0,0.0001) 100%)
+}
+
+.carousel-control.right {
+  background-image: linear-gradient(to left, rgba(96,21,0,0.5) 0, rgba(96,21,0,0.0001) 100%)
+}
+
 .carousel .item {
-  background-color: #777;
+
 }
 .carousel-inner > .item > img {
 
@@ -130,6 +150,10 @@ body {
 -------------------------------------------------- */
 
 /* Center align the text within the three columns below the carousel */
+.marketing.header {
+  background-color: #962100;
+}
+
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
