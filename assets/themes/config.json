@@ -8,19 +8,19 @@
     "@gray-lighter": "lighten(@gray-base, 93.5%)",
     "@brand-primary": "darken(#009279, 0.5%)",
     "@brand-success": "darken(#B5D334, 6.5%)",
-    "@brand-info": "#C5B4FF",
-    "@brand-warning": "#D38334",
-    "@brand-danger": "#AD1B11",
-    "@body-bg": "#f8f8f8",
+    "@brand-info": "#28447F",
+    "@brand-warning": "#f39c21",
+    "@brand-danger": "#732000",
+    "@body-bg": "#fff",
     "@text-color": "@gray-dark",
     "@link-color": "@brand-primary",
     "@link-hover-color": "darken(@link-color, 15%)",
     "@link-hover-decoration": "underline",
-    "@font-family-sans-serif": "\"Liberation Sans\", Arial, sans-serif",
+    "@font-family-sans-serif": "open-sans, \"Liberation Sans\", Arial, sans-serif",
     "@font-family-serif": "\"Liberation Serif\", \"Times New Roman\", serif",
     "@font-family-monospace": "\"Liberation Mono\", \"Courier New\", monospace",
-    "@font-family-base": "@font-family-serif",
-    "@font-size-base": "18px",
+    "@font-family-base": "@font-family-sans-serif",
+    "@font-size-base": "16px",
     "@font-size-large": "ceil((@font-size-base * 1.25))",
     "@font-size-small": "ceil((@font-size-base * 0.85))",
     "@font-size-h1": "floor((@font-size-base * 2.6))",
@@ -378,6 +378,7 @@
     "@blockquote-border-color": "@gray-lighter",
     "@page-header-border-color": "@gray-lighter",
     "@dl-horizontal-offset": "@component-offset-horizontal",
+    "@dl-horizontal-breakpoint": "@grid-float-breakpoint",
     "@hr-border": "@gray-lighter"
   },
   "css": [
@@ -430,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=07e60321ef59f2bbf7f9"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=9d0dd25dc0198d012188"
 }

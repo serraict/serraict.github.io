@@ -114,7 +114,10 @@ body {
 
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
-  z-index: 10;
+  top: 20px;
+  letter-spacing: 9px;
+  text-align: center;
+  text-transform: uppercase;
 }
 
 .carousel-control.left {
