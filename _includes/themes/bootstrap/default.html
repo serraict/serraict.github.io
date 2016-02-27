@@ -50,14 +50,37 @@
       </div>
     </nav>
 
-
       {{ content }}
+
+<div class="seperator footer">
+  &nbsp;
+</div>
+<div class="footer">
     <div class="container">
-      <hr>
+      <div class="row">
+        <div class="col-md-3">
+          <address>
+            <strong>Serra ICT Diensten</strong>
+            <small>Marijn van der Zee</small><br>
+            Westplantsoen 66<br>
+            2613 GM Delft<br><br>
+            <abbr title="Telefoon">T:</abbr> +31 (0)6 387 414 82<br>
+            <abbr title="Kamer van koophandel">KvK:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
+            <abbr title="Terms and conditions">Conditions:</abbr> <a href="/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and conditions (algemene voorwaarden) - pdf</a><br>
+          </address>
+        </div>
+        <div class="col-md-9">
+          {% include banners/all-online-profiles-bar.html %}
+        </div>
+      </div>
+    </div>
+</div>
+<div>
+    <div class="container">
       <footer>
         <p>
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          | <a href="/pages/attributions.html">Atributions</a>
+          <a href="/pages/attributions.html">Attributions</a>
 
           <span class="pull-right text-muted">
             powered by
@@ -71,6 +94,7 @@
         </p>
       </footer>
     </div>
+</div>
 
     {% include JB/analytics %}
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/jquery/jquery.min.js"></script>

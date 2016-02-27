@@ -85,38 +85,26 @@ tagline: Marijn van der Zee
   </div>
 </div>
 <div class="container marketing">
-  <hr class="featurette-divider">
-
-  <a id="Contact"></a>
-
-  {% include contact.html %}
-
-  <a id="SerraICT"></a>
 
   <hr class="featurette-divider">
 
-  <div class="row featurette">
-    <div class="col-md-7 col-md-push-5">
-      <h2 class="featurette-heading">Serra ICT Diensten. <span class="text-muted">Helping organizations to grow great software teams that reliably deliver valuable software.</span></h2>
-      <p class="lead">
+  <div class="row">
+     <div class="col-md-12">
+       <blockquote>
+         <p>The Scrum Master really knows how to keep it (mostly sessions) fun without losing sight of what's important. Seeing him work makes me want to develop myself more into Scrum Mastery.</p>
 
-      </p>
-    </div>
-    <div class="col-md-5 col-md-pull-7">
-      <img class="featurette-image img-responsive center-block img-rounded" 
-           src="/assets/img/beeldmerk400x400.png" 
-           alt="Serra ICT Diensten"
-           width="200" height="200">
-    </div>
+         <footer>Developer</footer>
+       </blockquote>
+     </div>
   </div>
+
+  <hr class="featurette-divider">
 
   <a id="Marijn"></a>
 
-  <hr class="featurette-divider">
-
-  <div class="row featurette">
-    <div class="col-md-7">
-      <h2 class="featurette-heading">Marijn van der Zee. <span class="text-muted">That's me!</span></h2>
+  <div class="row">
+    <div class="col-md-12">
+      <h2>Marijn van der Zee. <small>That's me!</small></h2>
       <p >
         I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
       </p>
@@ -146,34 +134,30 @@ tagline: Marijn van der Zee
         {% include banners/all-online-profiles-bar.html %}
       </p>
     </div>
-    <div class="col-md-5">
-
-      <p><img class="featurette-image img-responsive center-block img-rounded" 
-           src="/assets/img/marijn-gravatar.jpg" 
-           alt="Serra ICT Diensten" 
-           width="200" height="200"></p>
-
-      <p>
-        <a href="https://www.scrum.org/User-Profile/userId/121566">
-          <img src="/assets/img/PSMI.png" 
-               class="featurette-image img-responsive center-block img-rounded"
-               alt="Professional Scrum Master I, Professional Scrum Developer I, Professional Scrum Product Owner I">
-        </a>
-      </p>
-    </div>
   </div>
-  
-  <a id="Availability"></a>
 
   <hr class="featurette-divider">
 
+  <div class="row">
+     <div class="col-md-12">
+       <blockquote>
+         <p>Great help in encouraging the team to ditch a certain framework that bothered us greatly but we found hard to get rid of.</p>
+
+         <footer>Developer</footer>
+       </blockquote>
+     </div>
+  </div>
+
+  <a id="Availability"></a>
+
   <div class="row featurette">
-    <div class="col-md-7 col-md-push-5">
-      <h2 class="featurette-heading">To do, doing, done. <span class="text-muted">What am I up to?</span></h2>
-      <p class="lead">
+    <div class="col-md-12">
+      <h2>To do, doing, done. <small>What am I up to?</small></h2>
+      <p>
       Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>.
       </p>
-      <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait? <a href="#Contact">Let's get in touch!</a></p>
+      <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait?</p>
+      <p><a href="#Contact" class="btn btn-primary">Let's get in touch!</a></p>
     </div>
     <div class="col-md-5 col-md-pull-7">
 
@@ -186,3 +170,7 @@ tagline: Marijn van der Zee
   </div>
 
 </div>
+
+<a id="Contact"></a>
+
+

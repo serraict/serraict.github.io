@@ -77,6 +77,10 @@ body {
   padding-bottom: 40px;
 }
 
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  color: #28447f;
+  font-weight: 600;
+}
 
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
@@ -120,6 +124,7 @@ body {
 
 .carousel-caption h1 {
   font-weight: 700;
+  color: inherit;
 }
 
 .carousel-control.left {
@@ -155,8 +160,8 @@ body {
   margin-bottom: 20px;
   text-align: center;
 }
-.marketing h2 {
-
+.marketing.header h2 {
+  color: inherit;
 }
 .marketing .col-lg-4 p {
   margin-right: 10px;
@@ -178,6 +183,24 @@ body {
   letter-spacing: -1px;
 }
 
+.seperator.footer {
+  background-color: #f39c21;
+}
+
+.footer {
+  background-color: #009279;
+  color: #fff;
+  font-size: 12px;
+}
+
+
+.footer a {
+  color: #fff;
+}
+
+small {
+  color: inherit;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
