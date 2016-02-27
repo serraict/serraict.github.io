@@ -75,8 +75,6 @@ img[alt=attribution] {
 
 body {
   padding-bottom: 40px;
-  color: #5a5a5a;
-  background-color: #fff;
 }
 
 
@@ -120,6 +118,10 @@ body {
   text-transform: uppercase;
 }
 
+.carousel-caption h1 {
+  font-weight: 700;
+}
+
 .carousel-control.left {
   background-image: linear-gradient(to right, rgba(73,20,0,0.5) 0, rgba(73,20,0,0.0001) 100%)
 }
@@ -129,7 +131,7 @@ body {
 }
 
 .carousel .item {
-
+  color: #fff;
 }
 .carousel-inner > .item > img {
 
@@ -142,6 +144,11 @@ body {
 /* Center align the text within the three columns below the carousel */
 .marketing.header {
   background-color: #732000;
+  color: #fff;
+}
+
+.marketing {
+
 }
 
 .marketing .col-lg-4 {
@@ -149,7 +156,7 @@ body {
   text-align: center;
 }
 .marketing h2 {
-  font-weight: normal;
+
 }
 .marketing .col-lg-4 p {
   margin-right: 10px;

@@ -14,21 +14,21 @@ tagline: Marijn van der Zee
   <div class="carousel-inner" role="listbox">
 
     <div class="item active">
-      <div class="img-container">
-        <img src="/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
-      </div>
       <div class="carousel-caption">
         <h1>Growing great teams</h1>
+      </div>
+      <div class="img-container">
+        <img src="/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
       </div>
     </div>
 
     <div class="item">
+      <div class="carousel-caption">
+        <h1>Growing valuable software</h1>
+      </div>
       <div class="img-container">
         <img src="assets/img/stock/Tomato_P5260299b_frontpage.jpg"
              alt="Serra ICT Diensten">
-      </div>
-      <div class="carousel-caption">
-        <h1>Growing valuable software</h1>
       </div>
     </div>
     
@@ -49,33 +49,36 @@ tagline: Marijn van der Zee
     <div class="row">
           
       <div class="col-lg-4">
-        <img class="img-circle" 
-             src="/assets/img/marijn-gravatar.jpg" 
-             alt="Serra ICT Diensten" 
-             width="140" height="140">
+        <a href="#Marijn">
+          <img class="img-circle" 
+               src="/assets/img/marijn-gravatar.jpg" 
+               alt="Serra ICT Diensten" 
+               width="140" height="140">
+        </a>
         <h2>Marijn</h2>
         <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
-        <p><a class="btn btn-default" href="#Marijn" role="button">View details &raquo;</a></p>
       </div>
 
       <div class="col-lg-4">
-        <img class="img-circle" 
-             src="/assets/img/trello-mark-circle.png" 
-             alt="Serra ICT Diensten" 
-             width="140" height="140">
+        <a href="#Availability">
+          <img class="img-circle" 
+               src="/assets/img/trello-mark-circle.png" 
+               alt="Serra ICT Diensten" 
+               width="140" height="140">
+        </a>
         <h2>To do, doing, done</h2>
         <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
-        <p><a class="btn btn-success" href="#Availability" role="button">View details &raquo;</a></p>
       </div>
 
       <div class="col-lg-4">
-        <img class="img-circle" 
-             src="/assets/img/beeldmerk400x400.png" 
-             alt="Serra ICT Diensten" 
-             width="140" height="140">
+        <a href="{{ site_url }}/blog.html">
+          <img class="img-circle" 
+               src="/assets/img/beeldmerk400x400.png" 
+               alt="Serra ICT Diensten" 
+               width="140" height="140">
+        </a>
         <h2>Blog</h2>
         <p>My thoughts on agile software development.</p>
-        <p><a class="btn btn-default" href="{{ site_url }}/blog.html" role="button">View details &raquo;</a></p>
       </div>    
     
     </div>
