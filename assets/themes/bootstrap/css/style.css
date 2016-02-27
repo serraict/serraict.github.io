@@ -223,6 +223,11 @@ footer.page-footer {
   margin: 20px 0;
 }
 
+.footer ul.banner li {
+  font-size: 60px;
+  margin: 20px 20px;
+}
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
