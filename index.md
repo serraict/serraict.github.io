@@ -86,7 +86,7 @@ tagline: Marijn van der Zee
 </div>
 <div class="container marketing">
 
-  <hr class="featurette-divider">
+  <div class="divider"></div>
 
   <div class="row">
      <div class="col-md-12">
@@ -98,9 +98,9 @@ tagline: Marijn van der Zee
      </div>
   </div>
 
-  <hr class="featurette-divider">
-
   <a id="Marijn"></a>
+
+  <div class="divider"></div>
 
   <div class="row">
     <div class="col-md-12">
@@ -136,7 +136,7 @@ tagline: Marijn van der Zee
     </div>
   </div>
 
-  <hr class="featurette-divider">
+  <div class="divider"></div>
 
   <div class="row">
      <div class="col-md-12">
@@ -150,6 +150,8 @@ tagline: Marijn van der Zee
 
   <a id="Availability"></a>
 
+  <div class="divider"></div>
+
   <div class="row featurette">
     <div class="col-md-12">
       <h2>To do, doing, done. <small>What am I up to?</small></h2>
@@ -159,14 +161,7 @@ tagline: Marijn van der Zee
       <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait?</p>
       <p><a href="#Contact" class="btn btn-primary">Let's get in touch!</a></p>
     </div>
-    <div class="col-md-5 col-md-pull-7">
 
-      <div>
-      {% include doing.html %}
-      </div>
-
-
-    </div>
   </div>
 
 </div>
