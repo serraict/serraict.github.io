@@ -225,8 +225,24 @@ small {
 }
 
 blockquote {
-  margin-right: 20%;
-  margin-left: 20%;
+  margin-right: 15%;
+  margin-left: 15%;
+
+  padding: 30px;
+
+  font-family: 'Annie Use Your Telescope', cursive;
+  color: #732000;
+  font-size: 30px;
+  border: none;
+
+  background-image: url(/assets/img/openquote.svg);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+blockquote footer {
+  color: #28447f;
+
 }
 
 footer.page-footer {

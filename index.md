@@ -104,9 +104,8 @@ tagline: Marijn van der Zee
 
   <div class="row">
     <div class="col-md-12">
-      <a id="Marijn">
-        <h2>Marijn van der Zee. <small>That's me!</small></h2>
-      </a>
+      <a id="Marijn"></a>
+      <h2>Marijn van der Zee. <small>That's me!</small></h2> 
       <p>
         I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
       </p>
