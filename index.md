@@ -98,14 +98,16 @@ tagline: Marijn van der Zee
      </div>
   </div>
 
-  <a id="Marijn"></a>
-
   <div class="divider"></div>
+
+  </a>
 
   <div class="row">
     <div class="col-md-12">
-      <h2>Marijn van der Zee. <small>That's me!</small></h2>
-      <p >
+      <a id="Marijn">
+        <h2>Marijn van der Zee. <small>That's me!</small></h2>
+      </a>
+      <p>
         I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
       </p>
       <p>

@@ -83,6 +83,15 @@ h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   font-weight: 600;
 }
 
+
+/* empty anchors: adjust position for fixed navbar */
+a[id]:before {
+    content:"";
+    display:block;
+    height: 50px;
+    margin:-10px 0 0;
+}
+
 /* CUSTOMIZE THE NAVBAR
 -------------------------------------------------- */
 
