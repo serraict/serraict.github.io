@@ -74,6 +74,7 @@ img[alt=attribution] {
 /* Padding below the footer and lighter body text */
 
 body {
+  padding-top: 50px;
   padding-bottom: 40px;
   font-family: 'Open Sans', sans-serif;
 }
@@ -137,8 +138,10 @@ a[id]:before {
 .carousel .item {
   color: #fff;
 }
-.carousel-inner > .item > img {
 
+/* Resize carousel */
+.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+    width: 100%;
 }
 
 
@@ -149,7 +152,7 @@ a[id]:before {
 .marketing.header {
   background-color: #732000;
   color: #fff;
-  margin-top: -165px;
+  margin-top: -135px;
 }
 
 .marketing {
