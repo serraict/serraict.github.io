@@ -38,7 +38,7 @@ For each of the RE-TRAINED characteristics, he comes up with several gems like t
 >
 > A great Scrum Master will become both dispensable and wanted.
 >
-> -- Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership
+> <footer>Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership</footer>
 
 The book contains some twenty or so comparisons.
 Reading all of them was really inspiring on where I can go as a Scrum Master.
@@ -57,7 +57,7 @@ What does it take for me to be great? What makes a great Scrum Master? Is there 
 > They build successors rather than
 > try to set people up to fail to make themselves look good. 
 >
-> -- Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership
+> <footer>Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership</footer>
 
 #### On sharing opinions as a Scrum Master
 
@@ -65,7 +65,7 @@ What does it take for me to be great? What makes a great Scrum Master? Is there 
 > A great Scrum Master can act normally 
 > and knows that the team will still make their own decisions.
 >
-> -- Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership
+> <footer>Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership</footer>
 
 I referred to this quote in my 
 [2015 Scrum Master evaluation]({% post_url /learn/2016-02-12-scrummaster-assessment %})

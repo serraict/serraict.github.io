@@ -12,7 +12,7 @@ title: What is Empowerment Anyway?
 >  * to give power to (someone)
 >  * to give official authority or legal power to (someone)
 > 
-> -- Merriam-Webster [online dictionary]
+> <footer>Merriam-Webster <a href="http://www.merriam-webster.com/dictionary/empower">online dictionary</a></footer>
 
 I don't get empowerment - what does it mean for me to empower you? Is there some "power" over there that I can magically transfer to you thereby empowering you? Who am I to "empower" anybody. Why do you need empowerment? 
 

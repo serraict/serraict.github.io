@@ -11,7 +11,7 @@ Three collected thoughts on the use of code coverage as a quality metric.
 
 > Incentives with negative consequences are called perverse incentives; asking developers to reach a particular code coverage goal is clearly a perverse incentive.
 > 
-> -- *[Mark Seemann, 2015]* 
+> <footer>[Mark Seemann, 2015]</footer> 
 
 What are possible negative consequences of setting a specific code coverage as a target?
 
@@ -20,13 +20,13 @@ What are possible negative consequences of setting a specific code coverage as a
 >  * You rarely get bugs that escape into production, and
 >  * You are rarely hesitant to change some code for fear it will cause production bugs.
 > 
-> -- *Martin Fowler, [bliki, 2012]*
+> <footer>Martin Fowler, [bliki, 2012]</footer>
 
 Are you doing enough testing?
 
 > If a part of your test suite is weak in a way that coverage can detect, it's likely also weak in a way coverage can't detect.
 > 
-> -- *Brian Marick, from [bliki, 2012]*
+> <footer>Brian Marick, from [bliki, 2012]</footer>
 
 Can you give some examples of ways your suite can be weak which code coverage can not detect?
 

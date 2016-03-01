@@ -34,6 +34,8 @@ Core Principles:
  * Manage flow
 
 > Stop starting, start finishing.
+>
+> <footer>Marcus Hammarberg, Joakim Sundén</footer>
 
 #### Notes
 
