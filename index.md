@@ -18,7 +18,7 @@ tagline: Marijn van der Zee
         <h1>Growing great teams</h1>
       </div>
       <div class="img-container">
-        <img src="/assets/img/stock/Westland_kassen_frontpage.jpg" alt="Serra ICT Diensten">
+        <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
       </div>
     </div>
 
@@ -27,7 +27,26 @@ tagline: Marijn van der Zee
         <h1>Growing valuable software</h1>
       </div>
       <div class="img-container">
-        <img src="assets/img/stock/Tomato_P5260299b_frontpage.jpg"
+        <img src="assets/img/stock/header_desktop.jpg"
+             alt="Serra ICT Diensten">
+      </div>
+    </div>
+    
+    <div class="item">
+      <div class="carousel-caption">
+        <h1>Growing great teams</h1>
+      </div>
+      <div class="img-container">
+        <img src="/assets/img/stock/header_shadow.jpg" alt="Serra ICT Diensten">
+      </div>
+    </div>
+
+    <div class="item">
+      <div class="carousel-caption">
+        <h1>Growing valuable software</h1>
+      </div>
+      <div class="img-container">
+        <img src="assets/img/stock/header_connect.jpg"
              alt="Serra ICT Diensten">
       </div>
     </div>

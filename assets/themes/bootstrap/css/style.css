@@ -112,17 +112,6 @@ a[id]:before {
   padding-bottom: 60px;
   background-color: #732000;
 }
-.img-container:after {
-  content: " ";
-  z-index: 5;
-  display: block;
-  position: absolute;
-  height: 100%;
-  top: 0;
-  left: 0;
-  right: 0;
-  background: rgba(73,20,0,0.5);
-}
 
 /* Since positioning the image, we need to help out the caption */
 .carousel-caption {
