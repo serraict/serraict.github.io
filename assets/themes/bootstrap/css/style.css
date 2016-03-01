@@ -152,7 +152,7 @@ a[id]:before {
 .marketing.header {
   background-color: #732000;
   color: #fff;
-  margin-top: -135px;
+  margin-top: -165px;
 }
 
 .marketing {
@@ -265,8 +265,17 @@ footer.page-footer {
   }
 }
 
+
 @media (min-width: 992px) {
   .featurette-heading {
     margin-top: 120px;
   }
 }
+
+@media (max-width: 992px) {
+  .marketing.header {
+    margin-top: 0px;
+  }
+}
+
+
