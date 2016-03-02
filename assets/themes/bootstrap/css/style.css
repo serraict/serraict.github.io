@@ -69,21 +69,28 @@ img[alt=attribution] {
   border: 1px solid #4c964d;
   color: #FFF; }
 
-  /* GLOBAL STYLES
+/* GLOBAL STYLES
 -------------------------------------------------- */
-/* Padding below the footer and lighter body text */
 
+/* Padding below the footer and lighter body text */
 body {
   padding-top: 50px;
   padding-bottom: 40px;
   font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
 }
 
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
   color: #28447f;
-  font-weight: 600;
+  font-weight: bold;
 }
 
+.btn {
+  text-transform: uppercase;
+  font-weight: normal;
+  font-size: 14px;
+  padding: 6px 24px;
+}
 
 /* empty anchors: adjust position for fixed navbar */
 a[id]:before {
@@ -276,6 +283,11 @@ footer.page-footer {
   .marketing.header {
     margin-top: 0px;
   }
+
+  .carousel-caption h1 {
+    font-size: 18px;
+  }
+
 }
 
 
