@@ -182,6 +182,10 @@ a[id]:before {
 /* Featurettes
 ------------------------- */
 
+.featurette {
+  text-align: center;
+}
+
 .featurette-divider {
   margin: 80px 0; /* Space out the Bootstrap <hr> more */
 }
@@ -197,12 +201,16 @@ a[id]:before {
   margin: 40px 0;
 }
 
+/* Footer */
+
 .divider.footer {
   margin: 40px 0 0 0;
   background-color: #f39c21;
   padding-top: 5px;
   padding-bottom: 5px;
 }
+
+/* Footers */
 
 .footer {
   background-color: #009279;
@@ -215,13 +223,26 @@ a[id]:before {
   font-weight: 300;
 }
 
+footer.page-footer {
+  font-size: 12px;
+  margin: 20px 0;
+}
+
+.footer ul.banner li {
+  font-size: 60px;
+  margin: 20px 20px;
+}
+
 .footer a {
   color: #fff;
 }
 
+
 small {
   color: inherit;
 }
+
+/* quotes */
 
 blockquote {
   margin-right: 15%;
@@ -237,6 +258,7 @@ blockquote {
   background-image: url(/assets/img/openquote.svg);
   background-position: top left;
   background-repeat: no-repeat;
+  text-align: center;
 }
 
 blockquote footer {
@@ -244,15 +266,6 @@ blockquote footer {
 
 }
 
-footer.page-footer {
-  font-size: 12px;
-  margin: 20px 0;
-}
-
-.footer ul.banner li {
-  font-size: 60px;
-  margin: 20px 20px;
-}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
