@@ -82,7 +82,6 @@ body {
 
 .btn {
   text-transform: uppercase;
-  font-weight: normal;
   font-size: 14px;
   padding: 6px 24px;
 }
@@ -223,11 +222,15 @@ footer.page-footer {
 }
 
 .footer ul.banner li {
-  font-size: 60px;
-  margin: 20px 20px;
+  font-size: 40px;
+/*  border-radius: 50%;
+  background-color: #13B193;
+  width: 80px;
+  height: 80px; 
+  text-align: center;*/
 }
 
-.footer a {
+.footer address a {
   color: #fff;
 }
 
