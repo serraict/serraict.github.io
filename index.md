@@ -136,7 +136,7 @@ tagline: Marijn van der Zee
         and that there still is much to learn.
       </p>
       <p>
-        Do you think I can help you? <a href="pages/Contact.html">Let's get in touch!</a>
+        Do you think I can help you? <a href="pages/contact.html">Let's get in touch!</a>
       </p>
       <p>
         Want to know a little more about me or the way I work? Read a couple of 
@@ -172,7 +172,7 @@ tagline: Marijn van der Zee
       Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>.
       </p>
       <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait?</p>
-      <p><a href="pages/Contact.html" class="btn btn-primary">Let's get in touch!</a></p>
+      <p><a href="pages/contact.html" class="btn btn-primary">Let's get in touch!</a></p>
     </div>
 
   </div>
