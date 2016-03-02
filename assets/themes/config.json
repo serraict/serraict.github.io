@@ -6,9 +6,9 @@
     "@gray": "lighten(@gray-base, 33.5%)",
     "@gray-light": "lighten(@gray-base, 46.7%)",
     "@gray-lighter": "lighten(@gray-base, 93.5%)",
-    "@brand-primary": "darken(#009279, 0.5%)",
+    "@brand-primary": "#13B193",
     "@brand-success": "darken(#B5D334, 6.5%)",
-    "@brand-info": "#28447F",
+    "@brand-info": "lighten(#28447F,15%)",
     "@brand-warning": "#f39c21",
     "@brand-danger": "#732000",
     "@body-bg": "#fff",
@@ -32,9 +32,9 @@
     "@line-height-base": "1.428571429",
     "@line-height-computed": "floor((@font-size-base * @line-height-base))",
     "@headings-font-family": "@font-family-sans-serif",
-    "@headings-font-weight": "500",
+    "@headings-font-weight": "600",
     "@headings-line-height": "1.1",
-    "@headings-color": "inherit",
+    "@headings-color": "darken(@brand-info, 18%)",
     "@icon-font-path": "\"../fonts/\"",
     "@icon-font-name": "\"glyphicons-halflings-regular\"",
     "@icon-font-svg-id": "\"glyphicons_halflingsregular\"",
@@ -48,9 +48,9 @@
     "@padding-xs-horizontal": "5px",
     "@line-height-large": "1.33",
     "@line-height-small": "1.5",
-    "@border-radius-base": "4px",
-    "@border-radius-large": "6px",
-    "@border-radius-small": "3px",
+    "@border-radius-base": "0px",
+    "@border-radius-large": "0px",
+    "@border-radius-small": "0px",
     "@component-active-color": "#fff",
     "@component-active-bg": "@brand-primary",
     "@caret-width-base": "4px",
@@ -431,5 +431,5 @@
     "scrollspy.js",
     "transition.js"
   ],
-  "customizerUrl": "http://getbootstrap.com/customize/?id=9d0dd25dc0198d012188"
+  "customizerUrl": "http://getbootstrap.com/customize/?id=b2a989c82b7897c29954"
 }

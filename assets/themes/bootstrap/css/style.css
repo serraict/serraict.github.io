@@ -80,11 +80,6 @@ body {
   font-weight: 300;
 }
 
-h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
-  color: #28447f;
-  font-weight: bold;
-}
-
 .btn {
   text-transform: uppercase;
   font-weight: normal;
