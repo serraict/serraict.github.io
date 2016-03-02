@@ -203,17 +203,9 @@ a[id]:before {
 
 /* Footer */
 
-.divider.footer {
-  margin: 40px 0 0 0;
-  background-color: #f39c21;
-  padding-top: 5px;
-  padding-bottom: 5px;
-}
-
-/* Footers */
-
 .footer {
   background-color: #009279;
+  background: linear-gradient(135deg, #13B193, #009279);
   color: #fff;
   padding-top: 10px;
   padding-bottom: 10px;
@@ -221,6 +213,13 @@ a[id]:before {
   font-size: 12px;
   text-align: left;
   font-weight: 300;
+}
+
+.footer-divider {
+  margin: 40px 0 0 0;
+  background-color: #f39c21;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
 footer.page-footer {
