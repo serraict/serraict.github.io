@@ -61,34 +61,31 @@ tagline: Marijn van der Zee
     <div class="row">
           
       <div class="col-lg-4">
-        <a href="#Marijn">
-          <img class="img-circle" 
-               src="/assets/img/marijn-gravatar.jpg" 
-               alt="Serra ICT Diensten" 
-               width="140" height="140">
-        </a>
+        <div class="circle">
+          <a href="#Marijn">
+            <i class="fa fa-user"></i>
+          </a>
+        </div>
         <h2>Marijn</h2>
         <p>Scrum Master, agile developer, pragmatic student, team player, coach. That's me.</p>
       </div>
 
       <div class="col-lg-4">
-        <a href="#Availability">
-          <img class="img-circle" 
-               src="/assets/img/trello-mark-circle.png" 
-               alt="Serra ICT Diensten" 
-               width="140" height="140">
-        </a>
+        <div class="circle">
+          <a href="#Availability">
+            <i class="fa fa-trello"></i>
+          </a>
+        </div>
         <h2>To do, doing, done</h2>
-        <p>Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>!</p>
+        <p>Want to know what I'm up to?</a>!</p>
       </div>
 
       <div class="col-lg-4">
-        <a href="{{ site_url }}/blog.html">
-          <img class="img-circle" 
-               src="/assets/img/beeldmerk400x400.png" 
-               alt="Serra ICT Diensten" 
-               width="140" height="140">
-        </a>
+        <div class="circle">
+          <a href="{{ site_url }}/blog.html">
+                  <i class="fa fa-rss-square"></i>
+                </a>
+        </div>
         <h2>Blog</h2>
         <p>My thoughts on agile software development.</p>
       </div>    

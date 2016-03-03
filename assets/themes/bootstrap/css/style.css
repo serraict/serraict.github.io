@@ -129,11 +129,11 @@ a[id]:before {
 }
 
 .carousel-control.left {
-  background-image: linear-gradient(to right, rgba(73,20,0,0.5) 0, rgba(73,20,0,0.0001) 100%)
+  background-image: linear-gradient(to right, rgba(115,32,0,0.5) 0, rgba(115,32,0,0.0001) 100%)
 }
 
 .carousel-control.right {
-  background-image: linear-gradient(to left, rgba(73,20,0,0.5) 0, rgba(73,20,0,0.0001) 100%)
+  background-image: linear-gradient(to left, rgba(115,32,0,0.5) 0, rgba(115,32,0,0.0001) 100%)
 }
 
 .carousel .item {
@@ -164,6 +164,24 @@ a[id]:before {
   margin-bottom: 20px;
   text-align: center;
 }
+
+.marketing .col-lg-4 .circle {
+    width: 150px; 
+    height: 150px;
+    background-color: rgba(115,32,0,0.78);
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.marketing .circle a {
+  font-size: 80px;
+  color: #f39c21;
+}
+
+.marketing .circle a:hover {
+  color: #cd7600;
+}
+
 .marketing.header h2 {
   color: inherit;
 }
@@ -172,6 +190,11 @@ a[id]:before {
   margin-left: 10px;
 }
 
+/* navbar brand */
+
+img.logo {
+  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
+}
 
 /* Featurettes
 ------------------------- */
