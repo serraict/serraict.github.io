@@ -201,8 +201,8 @@ a[id]:before {
   background-color: #009279;
   background: linear-gradient(135deg, #13B193, #009279);
   color: #fff;
-  padding-top: 10px;
-  padding-bottom: 10px;
+  padding-top: 30px;
+  padding-bottom: 30px;
   line-height: 22px;
   font-size: 12px;
   text-align: left;
@@ -221,19 +221,39 @@ footer.page-footer {
   margin: 20px 0;
 }
 
-.footer ul.banner li {
-  font-size: 40px;
-/*  border-radius: 50%;
-  background-color: #13B193;
+.footer ul.banner li a {
+  font-size: 30px;
+}
+
+
+ul.banner .img-circle {
+  width: 42px;
+  height: 42px;
+  padding: 1px;
+}
+
+
+.footer ul.banner .img-circle {
   width: 80px;
-  height: 80px; 
-  text-align: center;*/
+  height: 80px;
+  padding: 5px;
+}
+
+ul.banner li p:nth-child(2) {
+  display: none;
+}
+
+.footer ul.banner li p {
+  text-align: center;
+  text-transform: uppercase;
+  padding: 0px;
+  margin: 0px;
+  display: block;
 }
 
 .footer address a {
   color: #fff;
 }
-
 
 small {
   color: inherit;

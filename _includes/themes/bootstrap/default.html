@@ -56,18 +56,18 @@
 <div class="footer">
     <div class="container">
       <div class="row">
-        <div class="col-md-3">
+        <div class="col-md-2">
           <address>
-            <strong>Serra ICT Diensten</strong>
-            <small>Marijn van der Zee</small><br>
+            Serra ICT Diensten<br>
+            Marijn van der Zee<br>
             Westplantsoen 66<br>
-            2613 GM Delft<br><br>
-            <abbr title="Telefoon">T:</abbr> +31 (0)6 387 414 82<br>
-            <abbr title="Kamer van koophandel">KvK:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
-            <abbr title="Terms and conditions">Conditions:</abbr> <a href="/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and conditions (algemene voorwaarden) - pdf</a><br>
+            2613 GM Delft<br>
+            <abbr title="Phone">T:</abbr> +31 (0)6 387 414 82<br>
+            <abbr title="Chambre of Commerce">CoC:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
+            <br>
           </address>
         </div>
-        <div class="col-md-9">
+        <div class="col-md-10">
           {% include banners/all-online-profiles-bar.html %}
         </div>
       </div>
@@ -75,20 +75,26 @@
 </div>
 <div>
     <div class="container">
-      <footer class="page-footer">
-        <p class="muted"> 
+      <footer class="page-footer text-center">
+        <p> 
           &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+          , design by <a href="http://www.dtpublishing.nl/">dtpublishing.nl</a>
+        </p>
+        <p>
+          powered by
+          <a href="http://jekyllbootstrap.com/" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
+          and <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>          
+        </p>
+        <p>
           <a href="/pages/attributions.html">Attributions</a>
-
-          <span class="pull-right text-muted">
-            powered by
-            <a href="http://jekyllbootstrap.com/" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
-            and <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>
-
-            <a href="http://validator.w3.org/check?uri=referer"><img
-             src="http://www.w3.org/Icons/valid-html40"
-             alt="Valid XHTML 4.0!" height="31" width="88" /></a>
-          </span>
+          <a href="/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and conditions</a></p>
+        </p>
+        <p class="text-center">
+          <a href="http://validator.w3.org/check?uri=referer">
+          <img src="http://www.w3.org/Icons/valid-html40"
+               alt="Valid XHTML 4.0!" 
+               height="31" />
+          </a>
         </p>
       </footer>
     </div>
