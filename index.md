@@ -72,12 +72,12 @@ tagline: Marijn van der Zee
 
       <div class="col-lg-4">
         <div class="circle">
-          <a href="#Availability">
+          <a href="#Services">
             <i class="fa fa-trello"></i>
           </a>
         </div>
-        <h2>To do, doing, done</h2>
-        <p>Want to know what I'm up to?</a>!</p>
+        <h2>Services</h2>
+        <p>I can help you to grow great teams that reliably deliver valuable software.</p>
       </div>
 
       <div class="col-lg-4">
@@ -107,14 +107,41 @@ tagline: Marijn van der Zee
      </div>
   </div>
 
+  <div class="quotes">
+    <img src="{{ site_url }}/assets/img/quotes.png"
+         alt="quotes"
+         width="100%">
+  </div>
+
+  <div class="row featurette">
+    <div class="col-md-12">
+      <a id="Services"></a>
+      <h1>Services <small>How I can help you</small></h1> 
+      <p>You can hire me as an Agile Coach or Scrum Master to serve-slash-lead your Scrum team, take your agile teams to the next level or help your organization adapt to agile software delivery.
+      I am a PSM I certified Scrum Master and a certified Professional Scrum Practicioner.</p>
+      <p>At this point in time, my professional focus is on coaching and guiding software teams, but I do like to deliver value as an agile developer from time to time.
+      I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a highly critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
+    </div>
+  </div>
+
   <div class="divider"></div>
 
-  </a>
+  <div class="row">
+     <div class="col-md-12">
+       <blockquote>
+         <p>Working on this team felt really good and gave me the opportunity to expand my role from "just" a tester to a developer.</p>
+
+         <footer>Developer</footer>
+       </blockquote>
+     </div>
+  </div>
+
+  <div class="divider"></div>
 
   <div class="row">
     <div class="col-md-12">
       <a id="Marijn"></a>
-      <h2>Marijn van der Zee. <small>That's me!</small></h2> 
+      <h1>Marijn van der Zee. <small>That's me!</small></h1> 
       <p>
         I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
       </p>
@@ -158,10 +185,9 @@ tagline: Marijn van der Zee
      </div>
   </div>
 
-  <a id="Availability"></a>
-
   <div class="divider"></div>
 
+  <a id="Availability"></a>
   <div class="row featurette">
     <div class="col-md-12">
       <h2>To do, doing, done. <small>What am I up to?</small></h2>
