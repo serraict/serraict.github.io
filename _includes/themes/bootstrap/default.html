@@ -105,5 +105,15 @@
     {% include JB/analytics %}
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/jquery/jquery.min.js"></script>
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/bootstrap/js/bootstrap.min.js"></script>
+
+    <script type="text/javascript">
+      $(".scroll-to").click(function() {
+          var target = $(this).attr('href');
+          $('html, body').animate({
+              scrollTop: $(target).offset().top
+          }, 2000);
+      });
+    </script>
+
   </body>
 </html>

@@ -56,13 +56,14 @@ tagline: Marijn van der Zee
   </a>
    -->
 </div>
+
 <div class="marketing header">
   <div class="container marketing">
     <div class="row">
           
       <div class="col-lg-4">
         <div class="circle">
-          <a href="#Marijn">
+          <a href="#Marijn" class="scroll-to">
             <i class="fa fa-user"></i>
           </a>
         </div>
@@ -72,7 +73,7 @@ tagline: Marijn van der Zee
 
       <div class="col-lg-4">
         <div class="circle">
-          <a href="#Services">
+          <a href="#Services" class="scroll-to">
             <i class="fa fa-trello"></i>
           </a>
         </div>
@@ -93,6 +94,13 @@ tagline: Marijn van der Zee
     </div>
   </div>
 </div>
+
+<div class="container text-center">
+  <a href="#Availability" 
+     class="btn btn-primary scroll-to"
+     style="margin-top: -20px;">Read more</a>
+</div>
+
 <div class="container marketing">
 
   <div class="divider"></div>
@@ -120,7 +128,7 @@ tagline: Marijn van der Zee
       <p>You can hire me as an Agile Coach or Scrum Master to serve-slash-lead your Scrum team, take your agile teams to the next level and help your organization adapt to agile software delivery.
       I am a PSM I certified Scrum Master and a certified Professional Scrum Practicioner.</p>
       <p>At this point in time, my professional focus is on coaching and guiding software teams, but I do like to deliver value as an agile developer from time to time.
-      I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a highly critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
+      I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
       <p class="text-center">
         <a href="https://www.scrum.org/User-Profile/userId/121566"
            title="scrum.org - Professional Sticky Master">
