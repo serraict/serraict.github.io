@@ -100,7 +100,6 @@ a[id]:before {
 .navbar {
   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
   background-color: #fff;
-  height: 50px;
 }
 
 .navbar-fixed-top {
@@ -198,11 +197,8 @@ a[id]:before {
 /* navbar brand */
 
 img.logo {
-  box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
-}
-
-.navbar-brand {
-  float: none;
+  /*box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);*/
+  height: 21px;
 }
 
 .about {
