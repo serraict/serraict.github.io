@@ -3,7 +3,6 @@ layout: default
 title: Home
 tagline: Marijn van der Zee
 ---
-
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!--   
   <ol class="carousel-indicators">

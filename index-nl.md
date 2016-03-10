@@ -136,7 +136,7 @@ tagline: Marijn van der Zee
       I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
       -->
       <p>U kunt mij inhuren als Agile Coach/Scrum Master om jullie agile teams te helpen/leiden, 
-      jullie team naar het volgende niveau te brengen,
+      jullie team naar het volgende niveau te brengen
       en uw organisatie te helpen aanpassen aan agile werkwijzen 
       en het iteratief en incrementeel opleveren van waardevolle software.
       Ik ben PSM1 gecertificeerd Scrum Master en een gecertificeerd professioneel Scrum beoefenaar (PSP)</p>
@@ -216,7 +216,7 @@ tagline: Marijn van der Zee
       </p>
       <p>
        Ik ben een Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach.
-       Ik ben meer da tien jaar actief in het ontwikkelen van sofware.
+       Ik ben meer da tien jaar actief in het ontwikkelen van software.
       </p>
       <p>
         Ik werk op een open en transparante manier,
@@ -248,10 +248,11 @@ tagline: Marijn van der Zee
   <div class="row">
      <div class="col-md-12">
        <blockquote>
-         <!-- <p>Great help in encouraging the team to ditch a certain framework that bothered us greatly but we found hard to get rid of.</p>         
+         <!-- 
+         <p>Great help in encouraging the team to ditch a certain framework that bothered us greatly but we found hard to get rid of.</p>         
          -->
          <p>Geweldige hulp bij het aanmoedigen en steunen van het team
-         bij het zich ontdoen van een framework dat ons enorm in de weg zat,
+         bij het dumpen van een framework dat ons enorm in de weg zat,
          maar waar we zeer veel moeite mee hadden om vanaf te komen.</p>
 
          <footer>Ontwikkelaar</footer>
