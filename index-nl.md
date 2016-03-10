@@ -216,7 +216,7 @@ tagline: Marijn van der Zee
       </p>
       <p>
        Ik ben een Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach.
-       Ik ben meer da tien jaar actief in het ontwikkelen van software.
+       Ik ben meer dan tien jaar actief in het ontwikkelen van software.
       </p>
       <p>
         Ik werk op een open en transparante manier,
