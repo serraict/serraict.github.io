@@ -2,7 +2,7 @@
 layout: post
 category : scrum-resources
 tagline: "Measure Up!"
-tags : [scrum, transparency]
+tags : [scrum, transparency, 'technical debt']
 title: Visualizing Technical Debt
 ---
 {% include JB/setup %}
