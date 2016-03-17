@@ -1,6 +1,6 @@
 ---
 layout: post
-category : scrum-resources
+category : scrum-toolbox
 tagline: "Essential and quick"
 tags : [scrum, planning, transparency]
 title: Some simple planning tools

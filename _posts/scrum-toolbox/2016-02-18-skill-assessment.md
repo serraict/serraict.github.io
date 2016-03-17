@@ -1,6 +1,6 @@
 ---
 layout: post
-category : scrum-resources
+category : scrum-toolbox
 tagline: Does your team have what it takes to repeatedly deliver a done increment?
 tags : [scrum, agile, team, skills]
 title: Team Skill Assessment

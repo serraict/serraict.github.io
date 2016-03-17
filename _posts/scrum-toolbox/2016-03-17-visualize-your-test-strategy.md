@@ -1,6 +1,6 @@
 ---
 layout: post
-category : scrum-resources
+category : scrum-toolbox
 tagline: "pyramid or ice cream?"
 tags : [scrum, exercise, transparency, 'technical debt']
 title: Visualize your test strategy

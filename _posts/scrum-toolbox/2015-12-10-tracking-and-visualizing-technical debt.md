@@ -1,6 +1,6 @@
 ---
 layout: post
-category : scrum-resources
+category : scrum-toolbox
 tagline: "Measure Up!"
 tags : [scrum, transparency, 'technical debt']
 title: Visualizing Technical Debt
