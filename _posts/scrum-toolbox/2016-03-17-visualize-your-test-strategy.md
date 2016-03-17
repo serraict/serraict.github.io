@@ -10,7 +10,7 @@ title: Visualize your test strategy
 
 I found this to be a great (and fun) way to create a shared understanding 
 of the team's current and/or desired test strategy
-and to surface diffences in insights between team members.
+and to surface differences in insights between team members.
 
 ### Background
 
