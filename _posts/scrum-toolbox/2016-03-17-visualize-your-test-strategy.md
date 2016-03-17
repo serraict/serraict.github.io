@@ -8,9 +8,9 @@ title: Visualize your test strategy
 
 {% include JB/setup %}
 
-I found this to be a great and fun way to create a shared understanding 
-of the current and or desired test strategy
-and to surface change in insights between team members.
+I found this to be a great (and fun) way to create a shared understanding 
+of the team's current and/or desired test strategy
+and to surface diffences in insights between team members.
 
 ### Background
 
