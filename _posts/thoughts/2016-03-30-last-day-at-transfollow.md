@@ -18,14 +18,14 @@ while going through the organizational transitions
 required by the ever changing environment,
 whilst staying true to your mission of being 
 an independent service provider to all logistic parties involved.
-I wish you all the best on your journey ahead!
+I wish you all the best on the journey ahead!
 
 It has been a great experience for me personally,
-giving me a unique opportunity to 
-uncover new ways of developing software 
-by doing it and helping others to do it. 
+giving me a unique opportunity to uncover
+better ways of developing software 
+by doing it and helping others do it [...](http://www.agilemanifesto.org)
 
-Thank you Rob for hiring me and showing what an agile manager might look like.
+Thank you Rob for hiring me and showing what a true agile manager might look like.
 
 Thank you Ernst for challenging me and showing me what a great product owner might look like.
 
@@ -33,7 +33,7 @@ Thank you Youri for showing me what it means to create space where others can sh
 
 I would like to thank the Scrum teams I served
 for their humbleness and sense of humor,
-wonderfully illustrated by the T-shirt you presented me last Tuesday:
+illustrated by the T-shirt you presented me last Tuesday:
 
 ![img]({{ site_url }}/assets/img/blog/20160329-tf-shirt-front.png)
 
