@@ -1,9 +1,9 @@
 ---
 layout: post
 category : learn
-tagline: And because it works every team eventually will stop doing pure Scrum
+tagline: that have helped me improve my Scrum Master play
 tags : [scrum-resources, agile, scrum]
-title: Why does Scrum work?
+title: Scrum Resources
 ---
 {% include JB/setup %}
 
@@ -52,7 +52,7 @@ There's even more stuff I want to explore but simply haven't found the time for 
 On this board, I intend to only list resources I actually have used, found useful and highly recommend.
 
 If there is stuff you think I should explore, or wonder why resources got left out, 
-please let me know at marijn@serraict.com.
+please let me know in the comments below.
 
 
  [this Trello board]: http://bit.do/serras-scrum-resources
