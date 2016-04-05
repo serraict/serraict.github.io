@@ -13,11 +13,11 @@ If so, that's not strange, because the
 [Manifesto for Agile Software Development]
 almost got that name:
 
-> ... we spend about an hour doing a word search [...]
+> ... we spent about an hour doing a word search [...]
 > what word would characterize this thing that we're doing
 > that would give it a positive label [...]
 > the top-two words were "Agile" and "Adaptive".
-> Two a narrow vote we chose Agile,
+> To a narrow vote we chose Agile,
 > and it was the right choice,
 > but in fact you need both.
 >
