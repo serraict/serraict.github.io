@@ -1,6 +1,6 @@
 ---
 layout: post
-category : scrum-resources
+category : learn
 tagline: agile gems
 tags : [agile, learn]
 title: Agile in Three Minutes

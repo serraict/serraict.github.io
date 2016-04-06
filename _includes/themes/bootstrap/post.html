@@ -1,6 +1,9 @@
 <div class="post-header">
-
-  <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
+  {% if page.categories == empty %}
+    <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
+  {% else %}
+    <img src="/assets/img/blog/categories/{{ page.categories[0] }}.jpg" alt="Serra ICT Diensten"> 
+  {% endif %}
   <div class="carousel-caption post-caption">
     <h1>{{ page.title }}</h1>
     {% if page.tagline %}<p>{{page.tagline}}</p>{% endif %}
