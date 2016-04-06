@@ -1,7 +1,7 @@
-<div class="">
+<div class="post-header">
 
   <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
-  <div class="carousel-caption">
+  <div class="carousel-caption post-caption">
     <h1>{{ page.title }}</h1>
     {% if page.tagline %}<p>{{page.tagline}}</p>{% endif %}
   </div>
@@ -9,14 +9,17 @@
 
 <div class="container">
   <div class="page-header">
-    <h4>
-      <span>{{ page.date | date_to_long_string }}</span>
-      {% if page.author %}
-       - {{page.author}}
-      {% else %}
-       - Marijn van der Zee
-      {% endif %}
-    </h4>
+    <h2>
+      {{ page.title }}
+      <small>
+        {% if page.author %}
+        by {{page.author}},
+        {% else %}
+        by Marijn van der Zee,
+        {% endif %}
+        <span>{{ page.date | date_to_long_string }}</span>
+      </small>
+    </h2>
   </div>
 
   <div class="row post-full">

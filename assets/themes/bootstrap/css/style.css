@@ -144,7 +144,9 @@ a[id]:before {
 }
 
 /* Resize carousel */
-.carousel-inner > .item > img, .carousel-inner > .item > a > img {
+.carousel-inner > .item > img, 
+.carousel-inner > .item > a > img,
+.post-header img {
     width: 100%;
     min-height: 150px;
 }
@@ -152,6 +154,7 @@ a[id]:before {
 /* post headers */
 
 .post-caption {
+  top: 50px;
   text-align: center;
 }
 
