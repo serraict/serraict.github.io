@@ -271,7 +271,7 @@ tagline: Marijn van der Zee
       Op de hoogte blijven van mijn reilen en zeilen? 
       Bezoek mijn publieke <a href="http://bit.do/serras-kanban-board">Trello bord</a>.
       </p>
-      <p>Ik ben gedeeltelijk bezet t/m 1 April 2016, maar heb wat tijd om handen. Waarom wachten?</p>
+      <p>Ik ben op zoek naar een nieuwe klus als freelance Scrum Master of Agile Coach. Waarom wachten?</p>
       <p><a href="pages/contact.html" class="btn btn-primary">Laten we in contact komen!</a></p>
     </div>
 

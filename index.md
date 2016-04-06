@@ -209,7 +209,7 @@ tagline: Marijn van der Zee
       <p>
       Want to know what I'm up to? Visit my public <a href="http://bit.do/serras-kanban-board">Trello board</a>.
       </p>
-      <p>I'm partially booked until April 1st 2016, but do have some time to spare. Why wait?</p>
+      <p>I'm looking for new opportunities as a freelance Scrum Master or Agile Coach. Why wait?</p>
       <p><a href="pages/contact.html" class="btn btn-primary">Let's get in touch!</a></p>
     </div>
 
