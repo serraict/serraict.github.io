@@ -7,23 +7,27 @@ title: One Step at a Time
 ---
 {% include JB/setup %}
 
+Create assessment for nokia test.
 
-> Coaching is the process of facilitating a reflective thought process 
-> within somebody else 
-> in order to enable them to make some progress towards a goal. 
->
-> <footer>[Geoff Watts, Inspect and Adapt blog]</footer>
+Are you doing Scrum?
 
 
-<!--
+Changes:
 
-Other ideas:
+ * profit, make money => generate valuable outcomes
+ * rephrased estimated velocity within actual velocity
+ * Team commits to sprint backlog at or below a realistic expected Velocity 
+ * points scored on product backlog should add up to 11
+ * estimation: left out ream representatives, points should add up to 10 (or 11)
+ * PO attends all Planning, Review and Retrospective meetings, attends most Standups and is available for refinement
 
- * What is teaching
- * What is mentoring
- * What is advising
- 
--->
+Do it with the team. everbody fills out questionaire.
+Present aggregated results.
+Identify disputed groups or individual questions (e.g. a spread chart)
 
- [Geoff Watts, Inspect and Adapt blog]: https://inspectandadapt.com/blog/pair-coaching/
- [Growing Agile blog on coaching roles]: http://www.growingagile.co.za/2016/03/the-9-coaching-roles/
+https://www.scruminc.com/nokia-test-where-did-it-come-from/
+
+ [latest version]: http://www.scruminc.com/wp-content/uploads/2015/12/Nokia-Test-CSM-slides.pdf
+
+
+https://www.scruminc.com/official-scrumbutt-test-otherwise-known/
