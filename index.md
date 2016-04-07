@@ -197,7 +197,7 @@ tagline: Marijn van der Zee
     <a href="{{ site_url }}/blog.html">blog posts</a>
     or check out my online alter-egos below.
   </p>
-  <p>{% include banners/all-online-profiles-bar.html %}</p>
+  <p></p>
 </div>
 </div>
 
