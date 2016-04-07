@@ -121,7 +121,7 @@ tagline: Marijn van der Zee
 <div class="quotes">
 <img src="{{ site_url }}/assets/img/quotes.png"
          alt="quotes"
-         width="100%"></div>
+         style="width: 100%;"></div>
 
 <div class="row about">
 <div class="col-md-12">
@@ -143,7 +143,7 @@ tagline: Marijn van der Zee
            title="scrum.org - Professional Sticky Master">
       <img src="/assets/img/PSMI.png"
                alt="PSP, PSMI, PSDI, PSPOI"
-               width="200px"></a>
+               width="200"></a>
   </p>
 </div>
 </div>
