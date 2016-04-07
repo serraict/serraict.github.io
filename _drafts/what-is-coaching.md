@@ -22,6 +22,7 @@ Other ideas:
  * What is teaching
  * What is mentoring
  * What is advising
+ * what is leading by example
  
 -->
 
