@@ -25,10 +25,13 @@ This `epub` version can be easily converted to a `mobi` version
 using [KindleGen].
 
 I've created a simple makefile to do this.
-You can download the makefile in this [public Google Drive folder].
+You can download the makefile and the mobile versions of the guide
+in this [public Google Drive folder].
+
+The makefile is available also available as a [Github gist].
 
 
-
+ [Github gist]: https://gist.github.com/serra/e5499e9723410fefe369ad64d643eade
  [public Google Drive folder]: https://drive.google.com/open?id=0B6jUQ8RVhYDgMGNqdkZOLTJSVms
  [KindleGen]: https://www.amazon.com/gp/feature.html?docId=1000765211
  [Pandoc]: http://pandoc.org/
