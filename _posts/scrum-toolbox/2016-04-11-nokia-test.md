@@ -96,12 +96,14 @@ If you're in a hurry, give me a call and I'll see what I can do.
 #### Word of notice
 
 It might seem tempting to use the test as a way to 
-measure your teams as they mature.
-So you'd run the tests a couple of times per year and score and compare your teams.
+measure the "agile maturity" of your teams.
+So you'd run the tests a couple of times per year 
+to measure progression of your teams.
 If you do this, you're very likely to get teams that score great on the Nokia Test.
 
-[![Agile Mindset](/assets/img/blog/doing_vs_being_agile.png)](http://www.linkedin.com/hp/update/6123506738625855489)
+But is that what you're after?
 
+[![Agile Mindset](/assets/img/blog/doing_vs_being_agile.png)](http://www.linkedin.com/hp/update/6123506738625855489)
 
 
 <!--
