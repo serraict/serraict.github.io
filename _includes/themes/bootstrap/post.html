@@ -1,15 +1,3 @@
-<div class="post-header">
-  {% if page.categories == empty %}
-    <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
-  {% else %}
-    <img src="/assets/img/blog/categories/{{ page.categories[0] }}.jpg" alt="Serra ICT Diensten"> 
-  {% endif %}
-  <div class="carousel-caption post-caption">
-    <h1>{{ page.title }}</h1>
-    {% if page.tagline %}<p>{{page.tagline}}</p>{% endif %}
-  </div>
-</div>
-
 <div class="container">
   <div class="page-header">
     <h2>
@@ -23,6 +11,7 @@
         <span>{{ page.date | date_to_long_string }}</span>
       </small>
     </h2>
+    {% if page.tagline %}<h3><small>{{page.tagline}}</small></h3>{% endif %}
   </div>
 
   <div class="row post-full">
