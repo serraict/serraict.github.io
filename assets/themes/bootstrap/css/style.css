@@ -336,6 +336,7 @@ blockquote {
   background-image: url(/assets/img/openquote.svg);
   background-position: top left;
   background-repeat: no-repeat;
+  background-size: auto 50%;
   text-align: center;
 }
 
@@ -343,6 +344,10 @@ blockquote footer {
   color: #28447f;
 }
 
+.video-container {
+  text-align: center;
+  margin: 20px 0;
+}
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
