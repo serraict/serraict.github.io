@@ -58,5 +58,5 @@ and some academic critisism in this research paper by [Carol Smith].
  [Carol Smith]: http://www.carolsmith.us/downloads/640greenleaf.pdf
  [Greenleaf]: http://www.benning.army.mil/infantry/199th/ocs/content/pdf/The%20Servant%20as%20Leader.pdf
  [The Scrum Master as servant leader]: http://blog.scrum.org/the-scrum-master-as-a-servant-leader/#_ftn7
- [Scrum Mastery]: /books/2016-02-19-book-review-scrum-mastery.md
+ [Scrum Mastery]: /book-review/2016/02/19/book-review-scrum-mastery
  [adaptagility]: http://adaptagility.co.uk/scrum-master-the-servant-leader

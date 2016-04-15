@@ -27,7 +27,7 @@ So that's what I ended up doing.
 > promoting a sense of community;
 > and the sharing of power in decision making.
 >
-> <footer>Rober K. Greenleaf</footer>
+> <footer>Robert K. Greenleaf</footer>
 
 More than *knowing and understanding* what servant leadership is about,
 *being* a servant-leader is about
@@ -95,14 +95,4 @@ I will be persuasive but never forceful.
 These were my takes - what are yours?
 
 
-
-
- [google]: https://www.google.nl/webhp?hl=en#hl=en&q=greenleaf+servant+leadership+1970+paper
- [Scrum Guide]: http://scrumguides.org/scrum-guide.html#team-sm
- [not understand empowerment]: /thoughts/2016/01/17/what-is-empowerment-anyway
- [greanleaf.org]: https://www.greenleaf.org/what-is-servant-leadership/
- [Carol Smith]: http://www.carolsmith.us/downloads/640greenleaf.pdf
- [Greenleaf]: http://www.benning.army.mil/infantry/199th/ocs/content/pdf/The%20Servant%20as%20Leader.pdf
- [The Scrum Master as servant leader]: http://blog.scrum.org/the-scrum-master-as-a-servant-leader/#_ftn7
- [Scrum Mastery, Watts]: book-review
- [adaptagility]: http://adaptagility.co.uk/scrum-master-the-servant-leader
+ [not understand empowerment]: {{ site_url }}/thoughts/2016/01/17/what-is-empowerment-anyway
