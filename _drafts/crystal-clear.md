@@ -7,7 +7,7 @@ title: One Step at a Time
 ---
 {% include JB/setup %}
 
-Software is a cooperative, economical game [find exact quote]. People and Trust ... These are fluffy (tiger and scread team lead facing fluffy the first time) https://youtu.be/Se0P2z2UiVg?t=1019
+Software is a cooperative, economical game [find exact quote]. People and Trust ... These are fluffy (tiger and scared team lead facing fluffy the first time) https://youtu.be/Se0P2z2UiVg?t=1019
 
 Comparison of methodologies (scrum and rup).
 
