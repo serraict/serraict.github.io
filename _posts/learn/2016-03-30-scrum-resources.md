@@ -14,6 +14,20 @@ It is available as [this Trello board].
 On the board I list resources I found useful to learn and improve my Scrum Master Play. 
 I only list resources I actually have used, found useful and highly recommend. 
 
+<div class="pull-right">
+        <div class="panel-body">
+          <a href="http://bit.do/serras-scrum-resources">
+            <img alt="Scrum Master resources that helped me to better serve the ..."
+                 src="/assets/img/blog/trello-scrum-resources.png"
+                 width="300" /></a>
+        </div>
+        <div class="text-center">
+            <a class="btn btn-primary"
+               href="http://bit.do/serras-scrum-resources">To the board &raquo;</a>
+        </div>
+    </div>
+</div>
+
 As Scrum Masters, we are servant leaders providing services to the 
 Product Owner, 
 the Development Team, 
