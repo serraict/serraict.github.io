@@ -74,7 +74,9 @@ I will lead by looking ahead, anticipating, inspecting and adapting.
 
 I will credit others for their contributions and effort. 
 
-I will speak out if effort is not good enough. 
+I will help the team reflect on its own behavior,
+its working agreement, its values and its principles
+ -- and help the team adjust either one if appropriate.
 
 I will empathize.
 
