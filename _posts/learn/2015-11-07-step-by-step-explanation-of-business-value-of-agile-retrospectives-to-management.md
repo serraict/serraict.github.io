@@ -46,6 +46,6 @@ Sincerely,
  [Agile Principle 12]: http://agilemanifesto.org/principles.html
  [contact me]: {{ site-url }}/pages/contact.html
  [Gonçalves 2015]: https://oikosofyseries.com/agile-retrospectives-free-program
-
+ [Mitch Lacey]: https://www.mitchlacey.com/blog/the-case-for-retrospectives
 
 

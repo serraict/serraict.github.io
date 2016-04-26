@@ -1,6 +1,6 @@
 
 
-The ultimate Product Owner? Study Ferran Adrià in "El Bulli - Cooking in Progress". One film ervery product owner should watch.
+Want to be a great Product Owner? Study Ferran Adrià in "El Bulli - Cooking in Progress". One film ervery product owner should watch. https://www.youtube.com/watch?v=iaeZqIhCfXo
 
 Visionary, collaborative, experimenting, raising the bar, demanding quality, learning from failure, exploratory, knowledgable, open minded, love of the craft, result oriented, entrepeneur, observer, aware, curious, give pleasure and enjoyment to customers in unforseen ways, delight, 
 
