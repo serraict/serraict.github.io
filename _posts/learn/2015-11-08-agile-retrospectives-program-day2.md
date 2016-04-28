@@ -1,7 +1,7 @@
 ---
 layout: post
 category : learn
-tagline: No homework 😢
+tagline: ""
 tags : [scrum, retrospective, management, agile-retrospectives-program]
 title: Agile Retrospectives Program Day 2
 ---
@@ -13,7 +13,7 @@ This is my personal summary of what I took from Day 2 of this program.
 
 ## Pre-requisites to agile retrospectives
 
-Prime directive:
+[Prime directive]:
 
 > “Regardless of what we discover, we must understand and truly believe that
 > everyone does the best job he or she could, given what was known at the time,
