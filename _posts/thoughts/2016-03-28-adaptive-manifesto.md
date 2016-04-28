@@ -23,6 +23,6 @@ almost got that name:
 >
 > <footer>Alistair Cockburn, November 2014</footer>
 
-{% include youtube.html video-url="S_7hsfwe5ms?t=732" %}
+{% include youtube.html video-url="S_7hsfwe5ms?start=732" %}
 
   [Manifesto for Agile Software Development]: http://www.agilemanifesto.org

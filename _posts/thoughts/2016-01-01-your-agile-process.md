@@ -20,4 +20,4 @@ title: I'm not an expert on *your* agile software development process
 
 </blockquote>
 
-{% include youtube.html video-url="a-BOSpxYJ9M?t=1919" %}
+{% include youtube.html video-url="a-BOSpxYJ9M?start=1919" %}

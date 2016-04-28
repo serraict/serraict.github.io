@@ -24,7 +24,7 @@ To achieve results we need to package our medicine.
 And eventually, we need cut 
 
 
-{% include youtube.html video-url="S_7hsfwe5ms?t=960" %}
+{% include youtube.html video-url="S_7hsfwe5ms?start=960" %}
 
   [Manifesto for Agile Software Development]: http://www.agilemanifesto.org
 

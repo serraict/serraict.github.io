@@ -20,7 +20,7 @@ Who are you to empower me?
 
 At best, empowerment means helping yourself or others realize that the power comes from within. [I've got the power in me, you've got the power in you][power in me]. As a manager, or leader, we should create the environment for our teams to unlock their powers. If that's what you mean by empowerment, then I'm in. 
 
-{% include youtube.html video-url="cZfLbsV7knQ?t=0" %}
+{% include youtube.html video-url="cZfLbsV7knQ" %}
 
 
  [power in me]: https://www.youtube.com/watch?v=cZfLbsV7knQ

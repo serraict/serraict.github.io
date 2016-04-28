@@ -12,4 +12,4 @@ title: Is Scrum an acronym?
   <footer>Ken Schwaber in <cite title="Source Title"><a href="https://youtu.be/IyNPeTn8fpo?t=128">the Google TechTalk "Scrum et al.", September 5, 2006</a></cite></footer>
 </blockquote>
 
-{% include youtube.html video-url="IyNPeTn8fpo?t=130" %}
+{% include youtube.html video-url="IyNPeTn8fpo?start=130" %}
