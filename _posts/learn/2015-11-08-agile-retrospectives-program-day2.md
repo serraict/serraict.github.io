@@ -19,7 +19,8 @@ Prime directive:
 > everyone does the best job he or she could, given what was known at the time,
 > his or her skills and abilities, the resources available, and the situation at
 > hand.”
-> *-- [Gonçalves 2015]*
+>
+> <footer>[Gonçalves 2015]</footer>
 
  * Create a safe environment
  * Complaints are expressions of thing bothering people, when we formulate complaints as wishes we can create a constructive discussion
@@ -75,7 +76,7 @@ These are the well-known retrospective stages that I first learned from "Agile R
 
 Create the right atmosphere and declare the focus (validate it with the team).
 
-##### Stage 2: Gather Data
+##### Stage 2: Gather Data (share context)
 
 Where possible collect data during and before the sprint. Visuals speak louder than words. Visuals can be charts, cards, time-lines etcetera. Don't forget the F-word - feelings matter too and can be more accurately represented by visuals (smiley-sad faces, emotional seismographs. ...) than put in words. 
 
@@ -108,7 +109,7 @@ What is our DTA? Is it explicit or mostly implicit?
 I should ask the team for improvements of the retrospective more often.
 
 
-
+ [Prime directive]: http://www.retrospectives.com/pages/retroPrimeDirective.html
  [Oikosofy Blog]: http://blog.oikosofy.com/category/agile/agile-retrospectives/
  [Gonçalves, Linders]: http://www.infoq.com/minibooks/agile-retrospectives-value
  [Agile Principle 12]: http://agilemanifesto.org/principles.html
