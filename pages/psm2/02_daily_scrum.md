@@ -35,11 +35,3 @@ But strictly speaking this should not be part of the daily scrum.
 ---
 
 {% include JB/comments %}
-
- [these preparation questions on Simon Kneafsey's blog]: http://www.thescrummaster.co.uk/assessments/professional-scrum-master-ii-psm-ii-practice-assessment/
-
-
-
-
-
-

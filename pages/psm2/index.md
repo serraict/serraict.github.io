@@ -21,9 +21,3 @@ they took me slightly over 45 minutes.
 
 
  [these preparation questions on Simon Kneafsey's blog]: http://www.thescrummaster.co.uk/assessments/professional-scrum-master-ii-psm-ii-practice-assessment/
-
-
-
-
-
-

@@ -42,12 +42,3 @@ is what shows the truly professional Scrum Team.
 ---
 
 {% include JB/comments %}
-
-
- [these preparation questions on Simon Kneafsey's blog]: http://www.thescrummaster.co.uk/assessments/professional-scrum-master-ii-psm-ii-practice-assessment/
-
-
-
-
-
-
