@@ -6,6 +6,8 @@ tags : [agile, scrum, product-owner]
 title: So you want to be a product owner?
 ---
 
+{% include JB/setup %}
+
 Within a Scrum Team, the Product Owner is the voice of the business. 
 The Product Owner communicates the needs and desires of a stakeholder community to an agile delivery team.
 His primary responsibility is to maximize the value of the product and the work the development team does.
@@ -41,7 +43,4 @@ I hope you'll find these resources helpful.
  [37 tasks]: http://agiletrail.com/2011/11/29/37-tasks-for-a-product-owner%E2%80%99s-job/
  [checklist]: https://lekman.fi/productownerchecklist/
  [jobs]: http://www.yodiz.com/blog/agile-product-owner-job-description/
-
-
-{% include JB/setup %}
 
