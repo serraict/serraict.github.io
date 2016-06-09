@@ -2,7 +2,7 @@
 layout: post
 category : learn
 tagline: keep listening
-tags : [agile, scrum, product-owner]
+tags : [agile]
 title: My top 5 podcasts on agile software development
 ---
 
