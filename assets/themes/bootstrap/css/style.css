@@ -186,6 +186,7 @@ a[id]:before {
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
+  z-index: 20;
 }
 
 .marketing .col-lg-4 .circle {
