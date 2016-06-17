@@ -8,7 +8,7 @@ title: On Failure
 {% include JB/setup %}
 
 > **Jon Snow**: I don't know how to do that. 
-> I though I did, but ...
+> I thought I did, but ...
 > I failed.
 > 
 > **Davos Seaworth**: Good. Now go fail again.
