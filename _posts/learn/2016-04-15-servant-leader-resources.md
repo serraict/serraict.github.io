@@ -27,6 +27,8 @@ where James Scrimshire covers similar ground.
 Reading [Scrum Mastery] by Geoff Watts 
 triggered me to investigate servant leadership a bit further.
 
+A comprehensive guide on servant leadership is provided here on [cleverism].
+
 ## Ri
 
 Of course, the canonical resource on servant-leadership is the essay 
@@ -60,3 +62,5 @@ and some academic critisism in this research paper by [Carol Smith].
  [The Scrum Master as servant leader]: http://blog.scrum.org/the-scrum-master-as-a-servant-leader/#_ftn7
  [Scrum Mastery]: /book-review/2016/02/19/book-review-scrum-mastery
  [adaptagility]: http://adaptagility.co.uk/scrum-master-the-servant-leader
+ [cleverism]: https://www.cleverism.com/servant-leadership-guide/
+ 
