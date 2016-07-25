@@ -230,7 +230,7 @@ tagline: Marijn van der Zee
     .
   </p>
   <p>
-    I'm looking for new opportunities as a freelance Scrum Master or Agile Coach. Why wait?
+    Right now, I'm not looking for new opportunities as a freelance Scrum Master or Agile Coach as I'm booked until this year's end. But I always have time to meet new people. Why wait?
   </p>
   <p>
     <a href="pages/contact.html" class="btn btn-primary">Let's get in touch!</a>
