@@ -14,7 +14,7 @@ title: On Failure
 > **Davos Seaworth**: Good. Now go fail again.
 
 
-From [Game of Thrones, Season 6, episode 3][imdb] @05m
+From [Game of Thrones, Season 6, episode 3][imdb] @05:00
 
 [![Game of Thrones](/assets/img/blog/got.jpg)][imdb]
 
