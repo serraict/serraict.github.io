@@ -25,7 +25,6 @@ I only list resources I actually have used, found useful and highly recommend.
             <a class="btn btn-primary"
                href="http://bit.do/serras-scrum-resources">To the board &raquo;</a>
         </div>
-    </div>
 </div>
 
 As Scrum Masters, we are servant leaders providing services to the 
