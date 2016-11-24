@@ -31,7 +31,7 @@ Integendeel - managers hebben zeer veel invloed
 op het succes dat de Scrum Teams kunnen hebben.
 
 Managers binnen organisaties met Scrum Teams
-zijn dienende leiders met de verantwoordelijkheden
+zijn dienende leiders met verantwoordelijkheden
 richting hun Product Owners, Scrum Masters, 
 ontwikkelteams en de organisatie als geheel.
 
@@ -79,7 +79,7 @@ kunnen floreren en duurzaam kunnen opereren.
 Zodat jouw organisatie nu en in de toekomst waardevolle producten
 voor jullie eindgebruikers kan realiseren.
 
-## ...
+## En nu?
 
 Wat heb jij gedaan voor je ontwikkelteams, je Scrum Masters, je Product Owners en je organisatie?
 
