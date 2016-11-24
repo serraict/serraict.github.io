@@ -7,25 +7,32 @@ je wil de software sneller in handen van je gebruikers,
 je wil beter kunnen zien wat de teams doen
 of je wil dat geleverde software beter aansluit bij de wensen van je gebruikers.
 Eigenlijk wil je dat allemaal trouwens.
-Je besluit eruit dat je teams "Scrum moeten gaan doen".
+Je besluit dat je teams "Scrum moeten gaan doen".
 
 Wat zijn jouw verantwoordelijkheden?
 
-Binnen Scrum is geen rol voor de manager vastgelegd, maar dit betekent niet dat de manager
-geen rol heeft bij het helpen groeien van geweldige, zelf-sturende Scrum teams. 
-Integendeel - managers hebben zeer veel invloed op het succes dat de Scrum teams kunnen hebben.
+Binnen Scrum is geen rol voor de manager vastgelegd, 
+maar dit betekent niet dat de manager
+geen rol heeft bij het laten groeien van geweldige, zelf-sturende Scrum Teams. 
+Integendeel - managers hebben zeer veel invloed 
+op het succes dat de Scrum Teams kunnen hebben.
 
-Managers binnen organisaties met Scrum teams hebben de volgende verantwoordelijkheden:
+Managers binnen organisaties met Scrum Teams
+zijn dienende leiders met de verantwoordelijkheden
+richting hun Product Owners, Scrum Masters, 
+ontwikkelteams en de organisatie als geheel.
 
 ## Richting de Product Owners
 
-Zorg dat Product Owners toegang hebben tot marktinformatie, gebruikers en belanghebbenden
-zodat zij gefundeerde beslissingen kunnen nemen bij het maximaliseren van het product 
-en het werk van de ontwikkelteams.
+Zorg dat Product Owners toegang hebben tot 
+marktinformatie, gebruikers en belanghebbenden
+zodat zij gefundeerde beslissingen kunnen nemen 
+bij het maximaliseren van de waarde 
+van het product en het werk van de ontwikkelteams.
 
-Management accepteert deze beslissingen zonder meer 
-en vertrouwt erop dat de empirische werkwijze van de teams 
-snel zullen laten zien of deze beslissingen daadwerkelijk leiden 
+Management accepteert de beslissingen van de Product Owners zonder meer 
+en vertrouwt erop dat door de empirische werkwijze van de teams 
+het snel zullen zichtbaar wordt of deze beslissingen daadwerkelijk leiden 
 tot waarde voor de gebruikers van het product.
 
 ## Richting de Scrum Masters
@@ -44,21 +51,23 @@ en de ontwikkeling die je teams kunnen doormaken.
 
 ## Richting de ontwikkelteams
 
-Faciliteer team samenstelling met de juiste ontwikkelaars
+Faciliteer teamsamenstelling met de juiste ontwikkelaars
 en geef ze een omgeving waarin ze zichzelf kunnen organiseren
-en met volledige aandacht, zonder afleiding
+en waarin ze met onverdeelde aandacht, 
 aan het product kunnen werken 
 en zich zelf kunnen verbeteren.
 
 ## Richting de organisatie
 
-Creeer een omgeving gebaseerd op gemeenschappelijke waarden
+Creëer een omgeving gebaseerd op gemeenschappelijke waarden
 die transparantie, openheid en samenwerking stimuleren
 zodat agile teams en hun empirische werkwijzen
-kunnen floreren duurzaam kunnen opereren.
+kunnen floreren en duurzaam kunnen opereren.
+Zodat jouw organisatie nu en in de toekomst waardevolle producten
+voor jullie eindgebruikers kan realiseren.
 
-## Wat te doen?
+## ...
 
-Hoe sluit jouw organisatie op dit moment aan
 Wat heb jij gedaan voor je ontwikkelteams, je Scrum Masters, je Product Owners en je organisatie?
+
 Wat ga je doen?
