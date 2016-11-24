@@ -1,3 +1,16 @@
+---
+layout: post
+category : thoughts
+tagline: "What is my role on our journey through a complex domain?"
+tags : [scrum, management, Dutch]
+title: Management en Scrum
+---
+{% include JB/setup %}
+
+<div class="alert alert-warning">
+This post is in Dutch. If you'd like to see an English version, let me know.
+</div>
+
 # Management en Scrum
 
 Jij bent als manager verantwoordelijkheid voor een organisatie 
