@@ -67,8 +67,8 @@ en de ontwikkeling die je teams kunnen doormaken.
 
 ### Richting de ontwikkelteams
 
-Faciliteer teamsamenstelling met door de juiste mensen bij elkaar te brengen
-en geef ze een omgeving waarin ze zichzelf kunnen organiseren
+Faciliteer teamsamenstelling door de juiste mensen bij elkaar te brengen
+en schep een omgeving waarin ze zichzelf kunnen organiseren
 en waarin ze met onverdeelde aandacht
 aan het product kunnen werken 
 en zich zelf kunnen verbeteren.
