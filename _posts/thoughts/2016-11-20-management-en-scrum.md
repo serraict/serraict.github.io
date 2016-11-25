@@ -87,3 +87,16 @@ voor jullie eindgebruikers kan realiseren.
 Wat heb jij gedaan om voor je ontwikkelteams, je Scrum Masters, 
 je Product Owners en je organisatie een omgeving te scheppen waarin ze succesvol kunnen zijn?
 Wat ga je doen?
+
+#### Verder lezen
+
+Meer lezen over management en Scrum? Ik vond de volgende artikelen ineteressant:
+
+ * Blogpost: Coaches, managers, collaboration and agile [part 1][cmca-1], [part 2][cmca-2] and [part 3][cmca-3]
+ * Blogpost: [What agile project managers do not do](http://www.jrothman.com/mpd/agile/2016/10/what-agile-project-managers-do-not-do-part-2/)
+ * Boek: [Management 3.0, by Jurgen Apello](https://management30.com/product/management30/)
+
+
+ [cmca-1]: http://www.jrothman.com/mpd/agile/2016/10/coaches-managers-collaboration-and-agile-part-1/
+ [cmca-2]: http://www.jrothman.com/mpd/agile/2016/10/coaches-managers-collaboration-and-agile-part-2/
+ [cmca-3]: http://www.jrothman.com/mpd/agile/2016/10/coaches-managers-collaboration-and-agile-part-3/
