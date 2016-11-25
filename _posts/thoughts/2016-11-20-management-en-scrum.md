@@ -1,7 +1,7 @@
 ---
 layout: post
 category : thoughts
-tagline: "What is my role on our journey through a complex domain?"
+tagline: "Als er in Scrum geen manager rol is, waar ben ik dan als manager voor nodig?"
 tags : [scrum, management, Dutch]
 title: Management en Scrum
 ---
@@ -35,7 +35,7 @@ zijn dienende leiders met verantwoordelijkheden
 richting hun Product Owners, Scrum Masters, 
 ontwikkelteams en de organisatie als geheel.
 
-## Richting de Product Owners
+### Richting de Product Owners
 
 Zorg dat Product Owners toegang hebben tot 
 marktinformatie, gebruikers en belanghebbenden
@@ -48,12 +48,12 @@ en vertrouwt erop dat door de empirische werkwijze van de teams
 het snel zullen zichtbaar wordt of deze beslissingen daadwerkelijk leiden 
 tot waarde voor de gebruikers van het product.
 
-## Richting de Scrum Masters
+### Richting de Scrum Masters
 
 Help de Scrum Masters bij het identificeren en wegwerken 
 van organisatorische belemmeringen 
-die de empirische werkwijzen van de Scrum Teams
-of de continue verbetering van de Scrum Teams
+die de empirische werkwijze van de Scrum Teams
+of de continue verbetering van de Scrum Teams en de organisatie als geheel
 in de weg staan.
 
 Scrum stopt niet bij de grenzen van de Scrum Teams - 
@@ -62,15 +62,15 @@ zijn in sterke mate bepalend voor
 het succes van het werk dat je teams kunnen realiseren
 en de ontwikkeling die je teams kunnen doormaken.
 
-## Richting de ontwikkelteams
+### Richting de ontwikkelteams
 
-Faciliteer teamsamenstelling met de juiste ontwikkelaars
+Faciliteer teamsamenstelling met door de juiste mensen bij elkaar te brengen
 en geef ze een omgeving waarin ze zichzelf kunnen organiseren
-en waarin ze met onverdeelde aandacht, 
+en waarin ze met onverdeelde aandacht
 aan het product kunnen werken 
 en zich zelf kunnen verbeteren.
 
-## Richting de organisatie
+### Richting de organisatie
 
 Creëer een omgeving gebaseerd op gemeenschappelijke waarden
 die transparantie, openheid en samenwerking stimuleren
@@ -79,8 +79,8 @@ kunnen floreren en duurzaam kunnen opereren.
 Zodat jouw organisatie nu en in de toekomst waardevolle producten
 voor jullie eindgebruikers kan realiseren.
 
-## En nu?
+### En nu?
 
-Wat heb jij gedaan voor je ontwikkelteams, je Scrum Masters, je Product Owners en je organisatie?
-
+Wat heb jij gedaan om voor je ontwikkelteams, je Scrum Masters, 
+je Product Owners en je organisatie een omgeving te scheppen waarin ze succesvol kunnen zijn?
 Wat ga je doen?
