@@ -48,7 +48,8 @@ en vertrouwt erop dat door de empirische werkwijze van de teams:
 
 * het snel zichtbaar wordt of deze beslissingen daadwerkelijk leiden 
   tot waarde voor de gebruikers van het product
-* dat de Product Owner en zijn teams hun volgende acties daarop zullen afstemmen.
+* de Product Owner en zijn teams hun volgende acties 
+  op deze nieuwe inzichten zullen kiezen.
 
 ### Richting de Scrum Masters
 
