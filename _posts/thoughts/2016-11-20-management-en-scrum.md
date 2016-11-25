@@ -44,10 +44,11 @@ bij het maximaliseren van de waarde
 van het product en het werk van de ontwikkelteams.
 
 Management accepteert de beslissingen van de Product Owners zonder meer 
-en vertrouwt erop dat door de empirische werkwijze van de teams 
-het snel zichtbaar wordt of deze beslissingen daadwerkelijk leiden 
-tot waarde voor de gebruikers van het product
-en dat de Product Owner en zijn teams hun volgende acties daarop zullen afstemmen.
+en vertrouwt erop dat door de empirische werkwijze van de teams: 
+
+* het snel zichtbaar wordt of deze beslissingen daadwerkelijk leiden 
+  tot waarde voor de gebruikers van het product
+* dat de Product Owner en zijn teams hun volgende acties daarop zullen afstemmen.
 
 ### Richting de Scrum Masters
 
