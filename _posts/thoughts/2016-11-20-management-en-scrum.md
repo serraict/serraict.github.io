@@ -17,7 +17,7 @@ Jij bent als manager verantwoordelijkheid voor een organisatie
 die een software product realiseert.
 Je wil kwalitatief betere software, 
 je wil de software sneller in handen van je gebruikers,
-je wil beter kunnen zien wat de teams doen
+je wil dat je teams nauwer samenwerken met de eindgebruikers
 of je wil dat geleverde software beter aansluit bij de wensen van je gebruikers.
 Eigenlijk wil je dat allemaal trouwens.
 Je besluit dat je teams "Scrum moeten gaan doen".
