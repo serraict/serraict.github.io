@@ -94,7 +94,7 @@ Meer lezen over management en Scrum? Ik vond de volgende artikelen interessant:
 
  * Blogpost: Coaches, managers, collaboration and agile [part 1][cmca-1], [part 2][cmca-2] and [part 3][cmca-3]
  * Blogpost: [What agile project managers do not do](http://www.jrothman.com/mpd/agile/2016/10/what-agile-project-managers-do-not-do-part-2/)
- * Boek: [Management 3.0, by Jurgen Apello](https://management30.com/product/management30/)
+ * Boek: [Management 3.0, by Jurgen Appelo](https://management30.com/product/management30/)
 
 
  [cmca-1]: http://www.jrothman.com/mpd/agile/2016/10/coaches-managers-collaboration-and-agile-part-1/
