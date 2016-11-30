@@ -90,7 +90,7 @@ Wat ga je doen?
 
 #### Verder lezen
 
-Meer lezen over management en Scrum? Ik vond de volgende artikelen ineteressant:
+Meer lezen over management en Scrum? Ik vond de volgende artikelen interessant:
 
  * Blogpost: Coaches, managers, collaboration and agile [part 1][cmca-1], [part 2][cmca-2] and [part 3][cmca-3]
  * Blogpost: [What agile project managers do not do](http://www.jrothman.com/mpd/agile/2016/10/what-agile-project-managers-do-not-do-part-2/)
