@@ -44,7 +44,7 @@ a beautiful, winged, dare I say agile, horse.
 
 ---
 
-### Futher resources
+### Further resources
 
 The legend of [Medusa], on wikipedia.
 
