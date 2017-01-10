@@ -16,7 +16,7 @@ title: Our Organization Is Like Medusa
 > -- Gunther Verheyen, [the essence of reversify][Medusa effect], at 9:09
 
 I often find that people think of their own organization as a [Medusa],
-originally beatiful, but by some evil twist of faith 
+originally beautiful, but by some evil twist of faith 
 turned into a hideous monster, deadly to look at.
 They explicitly state 
 that they do not want to look at certain aspects of their organization
