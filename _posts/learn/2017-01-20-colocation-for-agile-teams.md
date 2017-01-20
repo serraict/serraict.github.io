@@ -9,7 +9,7 @@ title: Colocated agile teams
 {% include JB/setup %}
 
 Co-locating your agile team is common advice given by agile coaches.
-I strongly subscribe to the benefits of co-locations 
+I strongly subscribe to the benefits of co-location 
 and think we should do it whenever possible.
 
 Strong collaboration and alignment between team members 
