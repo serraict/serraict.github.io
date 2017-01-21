@@ -11,8 +11,17 @@
         <span>{{ page.date | date_to_long_string }}</span>
       </small>
     </h2>
-    {% if page.tagline %}<h3><small>{{page.tagline}}</small></h3>{% endif %}
-    <a href="{{site.github.repository_url}}/blob/master/{{page.path}}">Edit this page on Github</a>
+    {% if page.tagline %}
+    <h3>
+      <small>
+        {{page.tagline}}
+        <a href="{{site.github.repository_url}}/blob/master/{{page.path}}"
+           title="Edit this page on Github">
+           <i class="fa fa-pencil"></i>
+        </a>
+      </small>
+    </h3>
+    {% endif %}
   </div>
 
   <div class="row post-full">

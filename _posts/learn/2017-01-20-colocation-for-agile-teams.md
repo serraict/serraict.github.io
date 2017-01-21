@@ -1,7 +1,7 @@
 ---
 layout: post
 category : learn
-tagline: some resources
+tagline: An opinion and some resources
 tags : [agile, scrum, product-owner]
 title: Colocated agile teams
 ---
