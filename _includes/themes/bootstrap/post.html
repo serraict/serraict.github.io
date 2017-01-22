@@ -1,5 +1,20 @@
+{% if site.github.repository_url %}
+{% assign base_url = site.github.repository_url %}
+{% endif %}
+
+{% unless site.github.repository_url %}
+{% assign base_url = "http://www.example.com" %}
+{% endunless %}
+
 <div class="container">
   <div class="page-header">
+    <small>
+      <a href="{{base_url}}/blob/master/{{page.path}}"
+         title="Edit this page on Github">
+         <i class="fa fa-pencil"></i>
+         Feel free to contribte to this article
+      </a>
+    </small>
     <h2>
       {{ page.title }}
       <small>
@@ -15,10 +30,6 @@
     <h3>
       <small>
         {{page.tagline}}
-        <a href="{{site.github.repository_url}}/blob/master/{{page.path}}"
-           title="Edit this page on Github">
-           <i class="fa fa-pencil"></i>
-        </a>
       </small>
     </h3>
     {% endif %}

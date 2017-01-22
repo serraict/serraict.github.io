@@ -141,6 +141,3 @@ JB :
   # where [HELPER] is the name of the helper you are overriding.
 
 exclude: [vendor]
-
-github:
-  repository_url: "https://www.example.com/"
