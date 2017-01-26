@@ -105,6 +105,7 @@
     {% include JB/analytics %}
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/jquery/jquery.min.js"></script>
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ site_url }}/assets/themes/bootstrap/resources/clipboard/clipboard.min.js"></script>
 
     <script type="text/javascript">
       $(".scroll-to").click(function() {
@@ -115,7 +116,8 @@
       });
 
       $(function () {
-        $('[data-toggle="tooltip"]').tooltip()
+        $('[data-toggle="tooltip"]').tooltip();
+        new Clipboard('.btn');
       })
     </script>
 
