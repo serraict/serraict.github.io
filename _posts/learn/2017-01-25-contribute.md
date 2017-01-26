@@ -10,9 +10,9 @@ title: Contribute
 
 If you see an opportunity to improve posts on my blog,
 you can now do so easily by hitting the 
-<a href="#"
-       class="btn btn-default">
-       <i class="fa fa-pencil"> </i></a>
+<button class="btn btn-default">
+       <i class="fa fa-pencil"> </i>
+</button>
 edit button on the top of each post.
 That will bring you to this site's source code repository on 
 [Github]({{ site.github.repository_url }}).
