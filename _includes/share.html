@@ -1,0 +1,44 @@
+{% if site.github.repository_url %}
+{% assign edit_base_url = site.github.repository_url %}
+{% endif %}
+
+{% unless site.github.repository_url %}
+{% assign edit_base_url = "http://www.example.com" %}
+{% endunless %}
+
+{% assign my_url = site.url | append: page.url %}
+
+<div class="btn-toolbar">
+  <div class="btn-group">
+    <a href="{{edit_base_url}}/blob/master/{{page.path}}"
+       class="btn btn-default"
+       title="Edit this page on Github"
+       data-toggle="tooltip">
+       <i class="fa fa-pencil"> </i></a>
+  <!--<a href="https://twitter.com/share?
+              url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&
+              via=twitterdev&
+              related=twitterapi%2Ctwitter&
+              hashtags=example%2Cdemo&
+              text=custom%20share%20text">
+            <i class="fa fa-twitter"></i> 
+            </a>-->
+  </div>
+  <div class="btn-group">
+    <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ my_url | url_encode }}&title={{ page.title | url_encode }}"
+       class="btn btn-default"
+       data-toggle="tooltip"
+       title="Share this article on LinkedIn">
+      <i class="fa fa-linkedin"></i> </a>
+    <a href="mailto:?subject={{ page.title }}&body={{ "I thought you might be interested in this: " }}{{ my_url }}"
+       data-toggle="tooltip"
+       class="btn btn-default"
+       title="Share this article through email">
+      <i class="fa fa-envelope-o"></i> </a>
+    <a href="#"
+       data-toggle="tooltip"
+       title="Copy permalink to this page"
+       class="btn btn-default">
+      <i class="fa fa-link"></i> </a>
+  </div>
+</div>
