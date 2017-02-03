@@ -271,7 +271,8 @@ tagline: Marijn van der Zee
       Op de hoogte blijven van mijn reilen en zeilen? 
       Bezoek mijn publieke <a href="http://bit.do/serras-kanban-board">Trello bord</a>.
       </p>
-      <p>Ik ben nu niet op zoek naar een nieuwe klus als freelance Scrum Master of Agile Coach. 
+      <p>Ik ben tot juni 2017 niet op zoek naar een nieuwe klus als freelance Scrum Master of Agile Coach, 
+      omdat mijn huidige opdrachten mijn volle aandacht vragen. 
       Maar ik heb altijd tijd om nieuwe mensen te ontmoeten.
       Waarom wachten?</p>
       <p><a href="pages/contact.html" class="btn btn-primary">Laten we in contact komen!</a></p>
