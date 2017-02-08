@@ -139,7 +139,8 @@ tagline: Marijn van der Zee
       jullie team naar het volgende niveau te brengen
       en uw organisatie te helpen aanpassen aan agile werkwijzen 
       en het iteratief en incrementeel opleveren van waardevolle software.
-      Ik ben PSM II gecertificeerd Scrum Master en een gecertificeerd professioneel Scrum beoefenaar (PSP).
+      Ik ben PSM III gecertificeerd Scrum Master, gek op Scrum 
+      en geïnterresseerd om binnen elk Agile raamwerk met teams aan de slag te gaan.
       </p>
       <p>Op dit moment ligt mijn professionele focus op het begeleiden van software teams,
       maar ik houd ervan om van tijd tot tijd waardevolle software te bouwen.
