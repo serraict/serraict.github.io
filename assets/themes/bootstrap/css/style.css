@@ -341,8 +341,13 @@ blockquote {
   text-align: center;
 }
 
-blockquote footer {
+blockquote footer, blockquote > :last-child {
   color: #28447f;
+  font-size: 80%;
+}
+
+blockquote > :last-child:before {
+    content: '\2014 \00A0';
 }
 
 .video-container {

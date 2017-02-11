@@ -9,7 +9,7 @@ title: Leadership
 
 > Leadership starts the moment you leave.
 > 
-> <footer>[David L. Marquet], [Key Note] Agile Leadership Event in Rotterdam, December 1st 2015</footer>
+> [David L. Marquet], [Key Note] Agile Leadership Event in Rotterdam, December 1st 2015
 
 
 

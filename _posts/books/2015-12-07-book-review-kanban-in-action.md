@@ -35,7 +35,7 @@ Core Principles:
 
 > Stop starting, start finishing.
 >
-> <footer>Marcus Hammarberg, Joakim Sundén</footer>
+> Marcus Hammarberg, Joakim Sundén
 
 #### Notes
 

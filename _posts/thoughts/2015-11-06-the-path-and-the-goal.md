@@ -14,8 +14,8 @@ title: I want YOU to take me to the goal
 > *Roslin*: No, you do better than your best. And I want to know where the Tomb is and you either know or you don't.
 > 
 > *Sharon*: We all know about the Tomb and I can show you the path. I don't know where the path leads to and how long it will take, but I do know you need to move very, very quickly.
-
-From [Battlestar Galactica, Season 2, episode 6][imdb] @18m
+>
+> From [Battlestar Galactica, Season 2, episode 6][imdb] @18m
 
 [![Battlestar Galactica](/assets/img/blog/battlestar_galactica.png)][imdb]
 
