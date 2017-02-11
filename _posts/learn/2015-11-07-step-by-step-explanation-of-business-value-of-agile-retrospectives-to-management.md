@@ -20,7 +20,7 @@ That's why we have chosen to make some time for engaged and focused reflection o
 > At regular intervals, the team reflects on how to become more effective, 
 > then tunes and adjusts its behavior accordingly.
 >
-> <footer>Manifesto for Agile Software Development</footer>
+> [Manifesto for Agile Software Development](http://www.agilemanifesto.org)
 
 The Retrospective is the repeating ritual that fosters the continuous improvement we strive for. It aims to develop a sustainable value stream to our customers and users.
 
