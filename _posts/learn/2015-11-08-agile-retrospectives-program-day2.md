@@ -20,7 +20,7 @@ This is my personal summary of what I took from Day 2 of this program.
 > his or her skills and abilities, the resources available, and the situation at
 > hand.”
 >
-> <footer>[Gonçalves 2015]</footer>
+> [Gonçalves 2015]
 
  * Create a safe environment
  * Complaints are expressions of thing bothering people, when we formulate complaints as wishes we can create a constructive discussion
