@@ -44,8 +44,8 @@ That is hiding work or deferring learning that at some point needs to be done.
 
 You don't go fast by doing *more* work 
 than is needed to meet the adopted level of quality.
-Then you're doing work that is not needed 
-- stuff that *is not* of value to someone important.
+Then you're doing work that is not needed - 
+stuff that *is not* of value to someone important.
 Doing unneeded stuff is number 2 on the list of of 
 [the seven wastes of our industry]. 
 Number 1 on that list is partially done work.
