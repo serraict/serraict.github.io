@@ -8,8 +8,6 @@ title: On Quality and Speed
 
 {% include JB/setup %}
 
-### Quality in Scrum
-
 For some reason,
 there appears to be tension between speed of delivery 
 and perceived (lack of) quality awareness [1], [2].
@@ -67,7 +65,7 @@ then you'll go as fast as you responsibly can go.
 
 ---
 
-### Resources
+### Resources and Further Reading
 
 These are the resources used in this post:
 
