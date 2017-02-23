@@ -5,8 +5,8 @@ tagline: "Don't look at her our you'll be cast to stone!"
 tags : [scrum, management, organization]
 title: Our Organization Is Like Medusa
 ---
-{% include JB/setup %}
 
+{% include JB/setup %}
 
 > That is what I call the 'Medusa effect' [...]
 > don't look at that system, it's so ugly [...]
