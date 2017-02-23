@@ -46,8 +46,8 @@ You don't go fast by doing *more* work
 than is needed to meet the adopted level of quality.
 Then you're doing work that is not needed;
 stuff that *is not* of value to someone important.
-Doing unneeded stuff is number 2 on the list of of 
-[the seven wastes of our industry]. 
+Doing unneeded stuff is number 2 on the list of the 
+[seven wastes of our industry]. 
 Number 1 on that list is partially done work.
 
 In Scrum, as an organization and as a Development Team,
