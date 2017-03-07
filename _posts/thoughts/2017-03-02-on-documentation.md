@@ -34,7 +34,7 @@ Formal documentation is documentation too
 and thus it has to be easily accessible, up-to-date and maintainable.
 
 When developing software in an agile way, 
-you write this formal documentation as you go along [Lacey 2015] -
+you write this formal documentation as you go along ([Lacey 2015]) -
 not all up front, not one big push at the end. 
 We gradually grow and weed our documentation 
 like we grow and weed our software.
@@ -95,7 +95,7 @@ by the following picture from ([Rüping 2003]):
 
 It requires deliberate writing and weeding effort
 to stay on the left side of the curve.
-This deliberate effort keeps your from wandering 
+This deliberate effort keeps you from wandering 
 of on the right side of the curve,
 where it is easy to get lost.
 Keeping your documentation light but sufficient
@@ -134,7 +134,7 @@ These are some resources you might enjoy exploring:
 These are some personal preferences of mine.
 You might like them too, or you might not.
 
- * Treat documentation as code. 
+ * Treat formal documentation as code. 
    Put it under source control. 
    Create an automated build.
    Publish intermediate documentation 
