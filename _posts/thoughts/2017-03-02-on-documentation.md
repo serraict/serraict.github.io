@@ -11,13 +11,30 @@ title: On Documenting Software
 The [Manifesto for Agile Software Development] values 
 working software over comprehensive documentation.
 While we value documentation, we value working software more.
-There *is* some value in documenting software and we cannot use
+There *is* some value in documenting software and we cannot use the statement
 "We do Agile Development" as an excuse for not writing proper documentation.
 
-For most software some documentation is needed.
-Without documentation your software simply is not [Done].
+[Big visible charts] and hand-drawn flip or whiteboard diagrams on the wall 
+are low-cost information radiators that 
+are excellent communication tools
+that are highly visible, thereby increasing transparency.
+They are an indispensable part of the [informative workspace], 
+because of their power to solicit communication and trigger feedback loops.
+Often however this powerful means of documentation 
+is not sufficient as formal documentation for most organizations I work with.
+
+> Documentation is easily accessible information
+> that is up-to-date and maintainable.
+>
+> Arie van Bennekum, on the [Agile Uprising Podcast], @44:30
+
+For most software some formal documentation is needed.
+Without this documentation your software simply is not [Done].
+Formal documentation is documentation too 
+and thus it has to be easily accessible, up-to-date and maintainable.
+
 When developing software in an agile way, 
-you write documentation as you go along [Lacey 2015] -
+you write this formal documentation as you go along [Lacey 2015] -
 not all up front, not one big push at the end. 
 We gradually grow and weed our documentation 
 like we grow and weed our software.
@@ -166,4 +183,8 @@ You might like them too, or you might not.
  [MkDocs]: http://www.mkdocs.org/
  [AsciiDoc]: http://asciidoctor.org/docs/what-is-asciidoc/
  [Sphinx]: http://www.sphinx-doc.org/
+ [Agile Uprising Podcast]: http://agileuprising.libsyn.com/manifesto-co-author-interview-arie-van-bennekum
+ [Big visible charts]: http://ronjeffries.com/xprog/articles/bigvisiblecharts/
+ [information radiators]: https://www.agilealliance.org/glossary/information-radiators/
+ [informative workspace]: http://agilexp.com/informativeworkspace/
 
