@@ -60,7 +60,7 @@ to grow documentation in an agile context:
 To me, key is to write each part of the documentation 
 with a target reader and his or her goal in mind.
 To help me focus on the audience and their purpose while writing,
-I add a the target reader and the intended goal to the title of the section.
+I add the target reader and the intended goal to the title of the section.
 It helps the reader to determine if he wants to read the section,
 thus saving time reading documentation he is not interested in.
 
