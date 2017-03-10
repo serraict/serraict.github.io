@@ -135,12 +135,12 @@ tagline: Marijn van der Zee
       <p>At this point in time, my professional focus is on coaching and guiding software teams, but I do like to deliver value as an agile developer from time to time.
       I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
       -->
-      <p>U kunt mij inhuren als Agile Coach/Scrum Master om jullie agile teams te helpen/leiden, 
-      jullie team naar het volgende niveau te brengen
+      <p>U kunt mij inhuren als Scrum Master om uw agile teams te dienen/leiden, 
+      uw team naar het volgende niveau te brengen
       en uw organisatie te helpen aanpassen aan agile werkwijzen 
       en het iteratief en incrementeel opleveren van waardevolle software.
       Ik ben PSM III gecertificeerd Scrum Master, gek op Scrum 
-      en geïnteresseerd om binnen elk Agile raamwerk met teams aan de slag te gaan.
+      en geïnteresseerd om binnen elk agile raamwerk met teams aan de slag te gaan.
       </p>
       <p>Op dit moment ligt mijn professionele focus op het begeleiden van software teams,
       maar ik houd ervan om van tijd tot tijd waardevolle software te bouwen.
@@ -183,33 +183,6 @@ tagline: Marijn van der Zee
     <div class="col-md-12">
       <a id="Marijn"></a>
       <h1>Marijn van der Zee. <small>Dat ben ik!</small></h1> 
-      <!--
-      <p>
-        I love to guide software teams on their journey to deliver valuable software and becoming a great team. 
-      </p>
-      <p>
-        I am a Scrum Master, agile developer, pragmatic student, team player and coach and have been active in the field of software development for well over ten years.
-      </p>
-      <p>
-        I work in an open and transparent way, 
-        sometimes confronting,
-        but always respectful towards people 
-        and with the organization's goals in mind. 
-
-        I think I'm skillful and knowledgeable, 
-        yet I continuously find 
-        that there are better ways to go about my work
-        and that there still is much to learn.
-      </p>
-      <p>
-        Do you think I can help you? <a href="pages/contact.html">Let's get in touch!</a>
-      </p>
-      <p>
-        Want to know a little more about me or the way I work? Read a couple of 
-        <a href="{{ site_url }}/blog.html">blog posts</a> 
-        or check out my online alter-egos below.
-      </p>
-      -->
       <p>
         Ik houd ervan om software teams te begeleiden 
         op hun reis 
@@ -217,7 +190,8 @@ tagline: Marijn van der Zee
         en een geweldig team te worden.
       </p>
       <p>
-       Ik ben een Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach.
+       Ik ben een Scrum Master, agile ontwikkelaar, 
+       pragmatische student, teamspeler en coach.
        Ik ben meer dan tien jaar actief in het ontwikkelen van software.
       </p>
       <p>
