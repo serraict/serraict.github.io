@@ -131,12 +131,22 @@ tagline: Marijn van der Zee
     <small>How I can help you</small>
   </h1>
   <p>
-    You can hire me as an Agile Coach or Scrum Master to serve-slash-lead your Scrum team, take your agile teams to the next level and help your organization adapt to agile software delivery.
-    I am a PSM III certified Scrum Master, love Scrum and curious about to any agile framework.
+    You can hire me as an Agile Coach or Scrum Master 
+    to serve-slash-lead your Scrum team, 
+    take your agile teams to the next level 
+    and help your organization adapt to agile software delivery.
+    I am a PSM III certified Scrum Master, love Scrum 
+    and curious to work with any agile software delivery team.
   </p>
   <p>
-    At this point in time, my professional focus is on coaching and guiding software teams, but I do like to deliver value as an agile developer from time to time.
-    I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.
+    At this point in time, my professional focus 
+    is on coaching and guiding software teams, 
+    but I do like to deliver value as an agile developer from time to time.
+    I am a professional Scrum developer, 
+    comfortable in .NET, JavaScript and Python. 
+    As a developer, I am a critical, analytical and creative team player 
+    with a passion for high quality code, 
+    automated testing and writing documentation.
   </p>
   <p class="text-center">
     <a href="https://www.scrum.org/User-Profile/userId/121566"
