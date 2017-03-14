@@ -13,7 +13,7 @@ title: Get on with it
 > Get on with it and stop ranting on about 'Agile'.
 >
 > Stephen Mellor (Manifesto for Agile Software Development co-author), 
-> on the [Agile Uprising podcast], [episode February 19, 2017]
+> on the [Agile Uprising podcast], [episode February 19, 2017] @36:40
 
 
 <iframe 
