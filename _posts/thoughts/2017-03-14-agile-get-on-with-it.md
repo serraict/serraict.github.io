@@ -15,8 +15,6 @@ title: Get on with it
 > Stephen Mellor (Manifesto for Agile Software Development co-author), 
 > on the [Agile Uprising podcast], [episode February 19, 2017] @36:40
 
-Hallo!
-
 <iframe 
   style="border: none" 
   src="//html5-player.libsyn.com/embed/episode/id/5097888/height/90/width/700/theme/custom/autonext/no/thumbnail/yes/autoplay/no/preload/no/no_addthis/no/direction/forward/render-playlist/no/custom-color/13b193/" 
