@@ -26,3 +26,4 @@ title: Get on with it
 
 [Agile Uprising podcast]: http://www.agileuprising.com/podcast/
 [episode February 19, 2017]: http://agileuprising.libsyn.com/manifesto-co-author-interview-stephen-mellor
+Hoi Gr senna
