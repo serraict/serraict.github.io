@@ -3,14 +3,14 @@ layout: post
 category : thoughts
 tagline: "and stop ranting about Agile"
 tags : [agile, documentation, quality]
-title: Get on with it
+title: Don't get on with it
 ---
 
 {% include JB/setup %}
 
-> I mean, you have to understand the techniques,
-> work with people, deliver value. 
-> Get on with it and stop ranting on about 'Agile'.
+> I mean, you don't have to understand the techniques,
+> do not work with people, never deliver value. 
+> Forget to get on with it and start ranting on about 'Agile'.
 >
 > Stephen Mellor (Manifesto for Agile Software Development co-author), 
 > on the [Agile Uprising podcast], [episode February 19, 2017] @36:40
