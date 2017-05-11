@@ -119,11 +119,10 @@ tagline: Marijn van der Zee
      </div>
   </div>
 
-  <div class="quotes">
-    <img src="{{ site_url }}/assets/img/quotes.png"
-         alt="quotes"
-         width="100%">
-  </div>
+
+  <a id="Availability"></a>
+
+  {% include board.html %}
 
   <div class="row about">
     <div class="col-md-12">
@@ -241,14 +240,6 @@ tagline: Marijn van der Zee
   <a id="Availability"></a>
   <div class="row featurette">
     <div class="col-md-12">
-      <h2>Te doen, bezig, klaar. <small>Wat doe ik of ben ik van plan?</small></h2>
-      <p>
-      Op de hoogte blijven van mijn reilen en zeilen? 
-      Bezoek mijn publieke <a href="http://bit.do/serras-kanban-board">Trello bord</a>.
-      </p>
-      <p>
-        Ik ben beschikbaar als freelance, voltijd Scrum Master of Agile Coach.
-      </p>
       <p><a href="pages/contact.html" class="btn btn-primary">Laten we in contact komen!</a></p>
     </div>
 
