@@ -240,7 +240,7 @@ tagline: Marijn van der Zee
     .
   </p>
   <p>
-    Right now, I'm not looking for new opportunities as a freelance Scrum Master or Agile Coach as I'm fully booked until June 2017. But I always have time to meet new people. Why wait?
+    I'm open for new opportunities as a freelance, full time Scrum Master or Agile Coach.
   </p>
   <p>
     <a href="pages/contact.html" class="btn btn-primary">Let's get in touch!</a>
