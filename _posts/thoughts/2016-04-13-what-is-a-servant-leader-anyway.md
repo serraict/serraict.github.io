@@ -97,5 +97,5 @@ I will be persuasive but never forceful.
 These were my takes - what are yours?
 
 
- [not understand empowerment]: {{ site_url }}/thoughts/2016/01/17/what-is-empowerment-aaaanyway
+ [not understand empowerment]: {{ site_url }}/thoughts/2016/01/17/what-is-empowerment-anyway
  [Scrum Guide]: http://scrumguides.org/scrum-guide.html#team-sm
