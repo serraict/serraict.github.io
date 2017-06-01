@@ -15,14 +15,6 @@
        title="Edit this page on Github"
        data-toggle="tooltip">
        <i class="fa fa-pencil"> </i></a>
-  <!--<a href="https://twitter.com/share?
-              url=https%3A%2F%2Fdev.twitter.com%2Fweb%2Ftweet-button&
-              via=twitterdev&
-              related=twitterapi%2Ctwitter&
-              hashtags=example%2Cdemo&
-              text=custom%20share%20text">
-            <i class="fa fa-twitter"></i> 
-            </a>-->
   </div>
   <div class="btn-group">
     <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ my_url | url_encode }}&title={{ page.title | url_encode }}"
@@ -30,7 +22,7 @@
        data-toggle="tooltip"
        title="Share this article on LinkedIn">
       <i class="fa fa-linkedin"></i> </a>
-    <a href="mailto:someone@example.com?subject={{ page.title | url_encode }}&body={{ "I thought you might be interested in this: " }}{{ my_url }}"
+    <a href="mailto:someone@example.com?subject={{ page.title | url_encode }}&body={{ my_url }}"
        data-toggle="tooltip"
        class="btn btn-default"
        title="Share this article through email">
