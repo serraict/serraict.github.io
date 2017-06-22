@@ -1,14 +1,14 @@
 ---
 layout: post
 category : thoughts
-tagline: "Speed is the absence of waste"
+tagline: "The Mythical Man-Month; on how to deliver a baby in one month"
 tags : [visualized, loopy, management]
 title: On Adding New People - Brooks's Law visualized
 ---
 
 {% include JB/setup %}
 
-Here are two possible causal effect diagrams
+Here are two possible cause-effect diagrams
 of the relations between adding people to a software project
 and relative progress.
 

@@ -8,7 +8,7 @@ title: On Quality and Speed - visualized
 
 {% include JB/setup %}
 
-Here's a possible causal effect diagram
+Here's a possible cause-effect diagram
 of the relations between pressuring the team,
 collaboratively working on 
 a shared understanding of the required quality levels
