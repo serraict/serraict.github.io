@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: "Speed is the absence of waste"
-tags : [scrum, organization, quality, speed]
+tags : [scrum, organization, quality, speed, visualized, loopy]
 title: On Quality and Speed - visualized
 ---
 
