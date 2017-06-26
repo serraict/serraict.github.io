@@ -111,6 +111,12 @@ All illustrations in this posts are actual images from the book,
 which are available for download on the [Management 3.0 website][m30]. 
 © Jurgen Appelo, Creative Commons 3.0 BY http://www.management30.com/ 
 
+<a title="I'm Certified Management 3.0 Owner" 
+   href="https://management30.com" >
+   <img src="/assets/img/blog/mgt30/CertifiedOwnerBadge.png" 
+   width="150" height="150"/>
+</a>
+
 
   [safari-books]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/9780321719027
   [Jurgen Appelo]: http://noob.nl
