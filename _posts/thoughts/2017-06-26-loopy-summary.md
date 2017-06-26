@@ -11,6 +11,10 @@ title: Using interactive causal loop diagrams
 In a short series of posts I'll try to illustrate some dynamics
 in the software development process
 using interactive [causal loop diagrams].
+Below is an example of a simple causal loop diagram,
+relating a team's happiness to the value it delivers and the impact it has.
+
+<iframe width="700" height="440" frameborder="0" src="http://ncase.me/loopy/v1.1/?embed=1&data=[[[11,240,166,0.5,%22Team's%2520Hapiness%22,3],[12,535,164,0.5,%22Team's%2520Impact%22,3],[13,389,331,0.5,%22Delivered%2520Value%22,3]],[[11,13,-3,1,0],[13,12,-23,1,0],[12,11,-8,1,0]],[],13%5D"></iframe>
 
 I found it incredibly insightful 
 to use causal loop diagrams with my software teams 
