@@ -8,7 +8,7 @@ title: Long Release Cycles (part 1 of 2) visualized
 
 {% include JB/setup %}
 
-Here is a cause-effect diagram on long release cycles.
+Here is a causal loop diagram on long release cycles.
 
 Use the up and down arrows in the nodes in the model to:
 
@@ -21,10 +21,8 @@ Use the up and down arrows in the nodes in the model to:
 What happens to Delayed Revenue? What changes do you see? 
 Do you like all the changes you see?
 
-These are models and thus they're wrong.
-You can remix a model to make it more closely represent *your* real world.
+{% include on-causal-loops.md %}
 
-Please share your model!
 
 ---
 

@@ -42,10 +42,8 @@ You might recognize this as Brooks's Law:
 >
 > [[Brooks, 1995]]: The Mythical Man-Month: Essays on Software Engineering
 
-These are models and thus they're wrong.
-You can remix a model to make it more closely represent *your* real world.
+{% include on-causal-loops.md %}
 
-Please share!
 
 ---
 
