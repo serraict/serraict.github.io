@@ -67,7 +67,7 @@ tagline: Marijn van der Zee
             <i class="fa fa-user"></i>
           </a>
         </div>
-        <h2>Marijn</h2>
+        <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
         <p>Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach. Dat ben ik.</p>
       </div>
 
@@ -77,7 +77,7 @@ tagline: Marijn van der Zee
             <i class="fa fa-trello"></i>
           </a>
         </div>
-        <h2>Diensten</h2>
+        <h2><a href="#Services" class="scroll-to">Diensten</a></h2>
         <p>Ik kan jullie helpen geweldige teams te laten groeien die betrouwbaar waardevolle software opleveren.</p>
       </div>
 
@@ -87,7 +87,7 @@ tagline: Marijn van der Zee
                   <i class="fa fa-rss-square"></i>
                 </a>
         </div>
-        <h2>Blog</h2>
+        <h2><a href="blog.html">Blog</a></h2>
         <p>Mijn gedachte over Agile Software Development, in het Engels.</p>
       </div>    
     

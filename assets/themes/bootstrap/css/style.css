@@ -209,6 +209,11 @@ a[id]:before {
 .marketing.header h2 {
   color: inherit;
 }
+
+.marketing.header h2 a {
+  color: inherit;
+}
+
 .marketing .col-lg-4 p {
   margin-right: 10px;
   margin-left: 10px;
