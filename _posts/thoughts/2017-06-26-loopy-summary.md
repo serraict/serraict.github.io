@@ -25,6 +25,10 @@ Without exception this tool has generated valuable discussion and insight.
 The diagrams in this series are created using [loopy].
 With loopy, the static models from the whiteboard come to life,
 which allows for quick simulation and experimentation.
+What alway stuns me is the timing of our actions -
+often the effects of ouraction are only observed later,
+by which time our system is raging out of control.
+This becomes obvious by playing with the loopy models.
 
 {% include on-causal-loops.md %}
 
