@@ -1,7 +1,7 @@
 ---
 layout: post
 category : thoughts
-tagline: "The Mythical Man-Month; on how to deliver a baby in one month"
+tagline: "Release sooner, not later"
 tags : [visualized, loopy, management]
 title: Long Release Cycles (part 1 of 2) visualized
 ---
