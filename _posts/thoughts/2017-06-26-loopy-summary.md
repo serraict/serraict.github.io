@@ -38,7 +38,10 @@ This becomes obvious by playing with the loopy models.
 These are the posts in the series:
 
 {% for post in site.tags.loopy %}
- * [{{ post.title }}]({{ post.url }}) - {{ post.tagline }}
+ * {{ post.date | date: "%B %e, %Y" }} &raquo; 
+   [{{ post.title }}]({{ BASE_PATH }}{{ post.url }}) - 
+   {{ post.tagline }}
+
 {% endfor %}
 
 ### References
