@@ -469,6 +469,16 @@ div.lane h5
   -o-transform-origin: 50% 100%;
 }
 
+/* Loopy
+-------------------------------------------------- */
+
+iframe.loopy {
+  border: none;
+  width: 500px;
+  height: 440px;
+}
+
+
 /* RESPONSIVE CSS
 -------------------------------------------------- */
 
