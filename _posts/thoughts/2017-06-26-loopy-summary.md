@@ -41,7 +41,6 @@ These are the posts in the series:
  * {{ post.date | date: "%B %e, %Y" }} &raquo; 
    [{{ post.title }}]({{ BASE_PATH }}{{ post.url }}) - 
    {{ post.tagline }}
-
 {% endfor %}
 
 ### References
