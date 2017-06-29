@@ -8,8 +8,8 @@ title: Using interactive causal loop diagrams
 
 {% include JB/setup %}
 
-In a short series of posts I'll try to illustrate some dynamics
-in the software development process
+In a short series of posts I'll try to illustrate
+system dynamics in the software development process
 using interactive [causal loop diagrams].
 Below is an example of a simple causal loop diagram,
 relating a team's happiness to the value it delivers and the impact it has.
@@ -26,8 +26,8 @@ Without exception this tool has generated valuable discussion and insight.
 The diagrams in this series are created using [loopy].
 With loopy, the static models from the whiteboard come to life,
 which allows for quick simulation and experimentation.
-What alway stuns me is the timing of our actions -
-often the effects of ouraction are only observed later,
+What always stuns me is the timing of our actions -
+often the effects of our actions are only observed later,
 by which time our system is raging out of control.
 This becomes obvious by playing with the loopy models.
 
