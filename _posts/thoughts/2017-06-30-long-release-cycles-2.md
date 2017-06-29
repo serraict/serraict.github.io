@@ -9,8 +9,8 @@ title: Long Release Cycles (part 2 of 2) visualized
 {% include JB/setup %}
 
 Here is a causal loop diagram on long release cycles, 
-taken form "Lean from the Trenches" 
-[[Kniberg, 2011]].
+taken from "Lean from the Trenches" 
+[[Kniberg, 2011]] and slightly modified.
 
 Use the up and down arrows in the nodes in the model to:
 
