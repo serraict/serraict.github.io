@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: Complex dynamic systems visualized
-tags : [visualized, loopy, management]
+tags : [visualized, loopy]
 title: Using interactive causal loop diagrams
 ---
 
