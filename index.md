@@ -62,23 +62,26 @@ tagline: Marijn van der Zee
 
   <div class="col-lg-4">
     <div class="circle">
-      <a href="#Marijn" class="scroll-to"> <i class="fa fa-user"></i>
-      </a>
-    </div>
-    <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
-    <p>
-      Scrum Master, agile developer, pragmatic student, team player, coach. That's me.
-    </p>
-  </div>
-
-  <div class="col-lg-4">
-    <div class="circle">
       <a href="#Services" class="scroll-to"> <i class="fa fa-trello"></i>
       </a>
     </div>
     <h2><a href="#Services" class="scroll-to">Services</a></h2>
     <p>
       I can help you to grow great teams that reliably deliver valuable software.
+    </p>
+  </div>
+
+  <div class="col-lg-4">
+    <div class="circle">
+      <a href="#Marijn" class="scroll-to">
+          <img class="img-circle img-responsive center-block" 
+         src="/assets/img/marijn-z2.png" 
+         alt="Marijn"></a>
+      </a>
+    </div>
+    <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
+    <p>
+      Scrum Master, agile developer, pragmatic student, team player, coach. That's me.
     </p>
   </div>
 
@@ -208,7 +211,12 @@ tagline: Marijn van der Zee
     <a href="{{ site_url }}/blog.html">blog posts</a>
     or check out my online alter-egos below.
   </p>
-  <p></p>
+  <p>
+    <img class="img-circle img-responsive center-block" 
+         src="/assets/img/marijn-z2.png" 
+         width="20%"
+         alt="Serra ICT Diensten"></a>
+  </p>
 </div>
 </div>
 

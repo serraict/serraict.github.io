@@ -60,17 +60,7 @@ tagline: Marijn van der Zee
 <div class="marketing header">
   <div class="container marketing">
     <div class="row">
-          
-      <div class="col-lg-4">
-        <div class="circle">
-          <a href="#Marijn" class="scroll-to">
-            <i class="fa fa-user"></i>
-          </a>
-        </div>
-        <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
-        <p>Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach. Dat ben ik.</p>
-      </div>
-
+ 
       <div class="col-lg-4">
         <div class="circle">
           <a href="#Services" class="scroll-to">
@@ -79,6 +69,18 @@ tagline: Marijn van der Zee
         </div>
         <h2><a href="#Services" class="scroll-to">Diensten</a></h2>
         <p>Ik kan jullie helpen geweldige teams te laten groeien die betrouwbaar waardevolle software opleveren.</p>
+      </div>
+         
+      <div class="col-lg-4">
+        <div class="circle">
+          <a href="#Marijn" class="scroll-to">
+            <img class="img-circle img-responsive center-block" 
+         src="/assets/img/marijn-z2.png" 
+         alt="Marijn">
+          </a>
+        </div>
+        <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
+        <p>Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach. Dat ben ik.</p>
       </div>
 
       <div class="col-lg-4">
@@ -213,7 +215,10 @@ tagline: Marijn van der Zee
         of verken één van mijn online alter ego's hieronder.
       </p>
       <p>
-        {% include banners/all-online-profiles-bar.html %}
+        <img class="img-circle img-responsive center-block" 
+             src="/assets/img/marijn-z2.png" 
+             width="20%"
+             alt="Marijn">
       </p>
     </div>
   </div>
