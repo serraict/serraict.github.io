@@ -215,7 +215,7 @@ tagline: Marijn van der Zee
     <img class="img-circle img-responsive center-block" 
          src="/assets/img/marijn-z2.png" 
          width="20%"
-         alt="Serra ICT Diensten"></a>
+         alt="Marijn">
   </p>
 </div>
 </div>
