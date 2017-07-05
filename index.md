@@ -77,7 +77,6 @@ tagline: Marijn van der Zee
           <img class="img-circle img-responsive center-block" 
          src="/assets/img/marijn-z2.png" 
          alt="Marijn"></a>
-      </a>
     </div>
     <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
     <p>
