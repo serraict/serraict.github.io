@@ -40,11 +40,20 @@
         </div>
 
         <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <form class="navbar-form navbar-right"
+                action="/search.html" method="get">
+            <div class="form-group">
+              <input type="text" 
+                     class="form-control" placeholder="Search Blog"
+                     id="search-box" name="query">
+            </div>
+          </form>
+
           <ul class="nav navbar-nav navbar-right">
+            <li><a href="/index-nl.html" ><img src="/assets/img/nl.png" alt="NL"></a></li>          
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
-            <li><a href="/index-nl.html" ><img src="/assets/img/nl.png" alt="NL"></a></li>
             <li>&nbsp;</li>
           </ul>
         </div>
