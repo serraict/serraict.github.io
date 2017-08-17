@@ -7,7 +7,7 @@ title: 'Product owner: How will you decide?'
 ---
 {% include JB/setup %}
 
-Great product realize that they often have to make 
+Great product owners realize that they often have to make 
 decisions based on imperfect or incomplete information.
 They are decisive: they delay decisions when they can
 and will decide when they must.
