@@ -1,7 +1,7 @@
 ---
 layout: post
 category : thoughts
-tagline: "Don't look at her our you'll be cast to stone!"
+tagline: "Don't look at her or you'll be cast to stone!"
 tags : [scrum, management, organization]
 title: Our Organization Is Like Medusa
 ---
