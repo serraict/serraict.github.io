@@ -1,3 +1,15 @@
+{% if page.featured %}
+
+<div class="featured" 
+     style="background-image:url('{{ page.featured.image }}');">
+  <div class="placeholder"></div>
+</div>
+<div class="attribution">
+  image: <a href="{{ page.featured.attribution_url }}">{{ page.featured.attribution }}</a>
+</div>
+
+{% endif %}
+
 <div class="container">
   <div class="page-header">
     <h2>
@@ -11,6 +23,7 @@
         <span>{{ page.date | date_to_long_string }}</span>
       </small>
     </h2>
+
     {% if page.tagline %}
     <h3>
       <small>
@@ -18,6 +31,7 @@
       </small>
     </h3>
     {% endif %}
+
   </div>
 
   <div class="row post-full">
@@ -28,34 +42,34 @@
       </div>
 
       {% unless page.categories == empty %}
-        <ul class="tag_box inline">
-          <li><i class="icon-folder-open"></i></li>
-          {% assign categories_list = page.categories %}
-          {% include JB/categories_list %}
-        </ul>
+      <ul class="tag_box inline">
+        <li><i class="icon-folder-open"></i></li>
+        {% assign categories_list = page.categories %}
+        {% include JB/categories_list %}
+      </ul>
       {% endunless %}
 
       {% unless page.tags == empty %}
-        <ul class="tag_box inline">
-          <li><i class="icon-tags"></i></li>
-          {% assign tags_list = page.tags %}
-          {% include JB/tags_list %}
-        </ul>
+      <ul class="tag_box inline">
+        <li><i class="icon-tags"></i></li>
+        {% assign tags_list = page.tags %}
+        {% include JB/tags_list %}
+      </ul>
       {% endunless %}
 
       <hr>
       
       <ul class="pagination">
         {% if page.previous %}
-          <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
+        <li class="prev"><a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}">&larr; Previous</a></li>
         {% else %}
-          <li class="prev disabled"><a href="/blog.html">&larr; Previous</a></li>
+        <li class="prev disabled"><a href="/blog.html">&larr; Previous</a></li>
         {% endif %}
-          <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
+        <li><a href="{{ BASE_PATH }}{{ site.JB.archive_path }}">Archive</a></li>
         {% if page.next %}
-          <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
+        <li class="next"><a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}">Next &rarr;</a></li>
         {% else %}
-          <li class="next disabled"><a href="/blog.html">Next &rarr;</a></li>
+        <li class="next disabled"><a href="/blog.html">Next &rarr;</a></li>
         {% endif %}
       </ul>
       <hr>
