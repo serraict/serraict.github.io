@@ -4,6 +4,13 @@ category : learn
 tagline: "imagine this"
 tags : [agile, SAFe]
 title: Nine Principles
+
+featured:
+  image: "https://c1.staticflickr.com/7/6077/6041827297_5232717570_b.jpg"
+  attribution: © sirenbrian (CC BY-NC)
+  attribution_url: https://www.flickr.com/photos/sirenbrian/6041827297/
+
+
 ---
 
 {% include JB/setup %}
