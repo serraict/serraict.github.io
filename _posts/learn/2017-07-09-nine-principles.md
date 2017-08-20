@@ -10,7 +10,6 @@ featured:
   attribution: © sirenbrian (CC BY-NC)
   attribution_url: https://www.flickr.com/photos/sirenbrian/6041827297/
 
-
 ---
 
 {% include JB/setup %}

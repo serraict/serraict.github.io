@@ -4,6 +4,10 @@ category : thoughts
 tagline: "Aim for light, but sufficient"
 tags : [agile, documentation, quality]
 title: On Documenting Software
+featured:
+  image: "https://c1.staticflickr.com/3/2360/2197507288_f262ff7075_b.jpg"
+  attribution: © cardoso (CC BY)
+  attribution_url: https://www.flickr.com/photos/cardoso/2197507288/
 ---
 
 {% include JB/setup %}
