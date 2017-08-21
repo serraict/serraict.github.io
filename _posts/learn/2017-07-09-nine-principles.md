@@ -21,7 +21,7 @@ and talking to them makes you feel the same way.
 They tell you about the way they work. 
 It all seems very big at first, but several people tell you 
 it works well for them and they have come to 
-this execution scheme point by continuous inspection and adaptations,
+this execution scheme by continuous inspection and adaptation,
 made possible by one of the company values "Be Transparent".
 
 One of your colleagues tells you:
