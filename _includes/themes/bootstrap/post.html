@@ -66,10 +66,13 @@
       {% include JB/comments %}
     </div>
 
-    <div class="col-md-4">
+    <div class="col-md-4 blog-sidebar">
       {% include share.html %}
-      {% assign posts_collate = site.posts %}
+      {% assign posts_collate = site.posts | slice: 0, 10 %}
       {% include JB/posts_collate %}
+      <div>
+        <a href="/blog.html"> All posts ...</a>
+      </div>
     </div>
   </div>
 </div>

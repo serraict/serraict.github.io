@@ -383,6 +383,16 @@ blockquote > :last-child:before {
   font-size: x-small;
 }
 
+/* Blog sidebar
+-------------------------------------------------- */
+
+div.blog-sidebar,
+div.blog-sidebar h4,
+div.blog-sidebar h5
+{
+  font-size: 0.9em;
+}
+
 /* Kanban Board
 -------------------------------------------------- */
 
