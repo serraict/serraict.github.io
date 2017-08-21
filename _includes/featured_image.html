@@ -1,0 +1,43 @@
+<!-- featured image -->
+
+{% if page.featured %}
+
+{% assign featured_image = page.featured.image %}
+{% assign image_attribution_url = page.featured.attribution_url %}
+{% assign attribution = page.featured.attribution %}
+
+
+{% else %}
+
+{% case page.categories[0] %}
+    {% when 'thoughts' %}
+        {% assign featured_image = "https://c1.staticflickr.com/3/2730/4508900823_b32e4279ac_b.jpg" %}
+        {% assign image_attribution_url = "https://www.flickr.com/photos/jamesnord/4508900823/" %}
+        {% assign attribution = "© jamesnord (CC BY-NC-ND)" %}    {% when 'learn' %}
+    {% when 'book-review' %}
+        {% assign featured_image = "https://c2.staticflickr.com/6/5254/5536897105_a2071581c0_b.jpg" %}
+        {% assign image_attribution_url = "https://www.flickr.com/photos/dollarside/5536897105/" %}
+        {% assign attribution = "© Thanakrit Gu (CC BY-ND)" %}    {% when 'learn' %}                
+    {% when 'scrum-toolbox' %}
+        {% assign featured_image = "https://c1.staticflickr.com/9/8157/7263382550_002a49be33_b.jpg" %}
+        {% assign image_attribution_url = "https://www.flickr.com/photos/florianric/7263382550/" %}
+        {% assign attribution = "© Florian Richter (CC BY)" %}    
+    {% when 'learn' %}
+        {% assign featured_image = "https://c1.staticflickr.com/9/8673/15903347764_95f9ebd007_b.jpg" %}
+        {% assign image_attribution_url = "https://www.flickr.com/photos/cogdog/15903347764/" %}
+        {% assign attribution = "© Alan Levine (CC 0 Public Domain)" %}  
+    {% else %}
+        {% assign featured_image = "https://c1.staticflickr.com/3/2730/4508900823_b32e4279ac_b.jpg" %}
+        {% assign image_attribution_url = "https://www.flickr.com/photos/jamesnord/4508900823/" %}
+        {% assign attribution = "© jamesnord (CC BY-NC-ND)" %}
+{% endcase %}
+
+{% endif %}
+
+<div class="featured" 
+     style="background-image:url('{{ featured_image }}');">
+  <div class="placeholder"></div>
+</div>
+<div class="attribution">
+  image: <a href="{{ image_attribution_url }}">{{ attribution }}</a>
+</div>
