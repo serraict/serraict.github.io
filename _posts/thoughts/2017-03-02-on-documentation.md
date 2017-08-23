@@ -68,30 +68,17 @@ I add the target reader and their goal above the title of the section.
 It helps the reader to determine if he wants to read the section.
 
 --- 
-*example 1*
 
-**Target readers:** Developers, Operations
+*Target readers:* Developers, Operations
 
-**Goal:** Get an overview of our software, 
+*Goal:* Get an overview of our software, 
 its main subsystems and their relations.
 
-##### Logical View
+***Logical View***
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, ...
-
----
-
-*example 2*
-
-**Target readers:** Operations
-
-**Goal:** Get a high level overview on how the 
-system components map to the physical nodes in different environments.
-
-##### Physical View
-quis nostrud exercitation ullamco 
-laboris nisi ut aliquip ex ea commodo consequat. 
 
 ---
 
