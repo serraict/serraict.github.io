@@ -393,6 +393,11 @@ div.blog-sidebar h5
   font-size: 0.9em;
 }
 
+div.blog-sidebar .btn-toolbar
+{
+  margin-bottom: 22px;  
+}
+
 /* Kanban Board
 -------------------------------------------------- */
 
