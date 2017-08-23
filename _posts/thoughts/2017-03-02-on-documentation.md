@@ -18,6 +18,7 @@ While we value documentation, we value working software more.
 There *is* some value in documenting software.
 We cannot use "We do Agile Development" 
 as an excuse for writing poor documentation.
+How to do it?
 
 [Big visible charts] and hand-drawn diagrams on the wall 
 are low-cost information radiators.
