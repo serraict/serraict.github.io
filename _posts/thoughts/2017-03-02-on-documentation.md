@@ -15,39 +15,39 @@ featured:
 The [Manifesto for Agile Software Development] values 
 working software over comprehensive documentation.
 While we value documentation, we value working software more.
-There *is* some value in documenting software and we cannot use the statement
-"We do Agile Development" as an excuse for not writing proper documentation.
+There *is* some value in documenting software.
+We cannot use "We do Agile Development" 
+as an excuse for writing poor documentation.
 
-[Big visible charts] and hand-drawn flip or whiteboard diagrams on the wall 
-are low-cost information radiators that 
-are excellent communication tools
-that are highly visible, thereby increasing transparency.
-They are an indispensable part of the [informative workspace], 
-because of their power to solicit communication and trigger feedback loops.
-Often however this powerful means of documentation 
-is not sufficient as formal documentation for most organizations I work with.
+[Big visible charts] and hand-drawn diagrams on the wall 
+are low-cost information radiators.
+These are excellent communication tools
+that are highly visible, increasing transparency.
+They are an indispensable part of the [informative workspace]. 
+They solicit communication and trigger feedback loops.
+
+For most software some formal documentation is needed
+in addition to these information radiators.
+Without this formal documentation your software simply is not [Done].
+Formal as well as informal documentation has to be 
+easily accessible, up-to-date and maintainable.
 
 > Documentation is easily accessible information
 > that is up-to-date and maintainable.
 >
 > Arie van Bennekum, on the [Agile Uprising Podcast], @44:30
 
-For most software some formal documentation is needed.
-Without this documentation your software simply is not [Done].
-Formal documentation is documentation too 
-and thus it has to be easily accessible, up-to-date and maintainable.
-
 When developing software in an agile way, 
-you write this formal documentation as you go along ([Lacey 2015]) -
-not all up front, not one big push at the end. 
+you write this formal documentation as you go along ([Lacey 2015]).
+Not all up front, not one big push at the end. 
 We gradually grow and weed our documentation 
 like we grow and weed our software.
 We continually balance the effort 
-between writing and maintaining the documentation
+between writing and maintaining
 with the value it delivers to its readers.
 
 In "Documenting Software Architectures in an Agile World" 
-([Clements et al. 2003]), the authors describe a possible method 
+([Clements et al. 2003]), the authors describe a method 
 to grow documentation in an agile context:
 
  1. Write a concise outline of your documentation, leaving each section blank.
@@ -63,10 +63,9 @@ to grow documentation in an agile context:
 
 To me, key is to write each part of the documentation 
 with a target reader and his or her goal in mind.
-To help me focus on the audience and their purpose while writing,
-I add the target reader and the intended goal to the title of the section.
-It helps the reader to determine if he wants to read the section,
-thus saving time reading documentation he is not interested in.
+To help me focus on the audience and their purpose,
+I add the target reader and their goal above the title of the section.
+It helps the reader to determine if he wants to read the section.
 
 --- 
 *example 1*
@@ -77,6 +76,11 @@ thus saving time reading documentation he is not interested in.
 its main subsystems and their relations.
 
 ##### Logical View
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
+sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+Ut enim ad minim veniam, ...
+
+---
 
 *example 2*
 
@@ -86,12 +90,14 @@ its main subsystems and their relations.
 system components map to the physical nodes in different environments.
 
 ##### Physical View
+quis nostrud exercitation ullamco 
+laboris nisi ut aliquip ex ea commodo consequat. 
 
 ---
 
 All in all, it is critical to write the right amount of documentation.
-If you keep your documentation light, but sufficient,
-your documentation will be more accessible and thereby more useful to your readers.
+By keep your documentation light, but sufficient,
+it will be more accessible and more useful to your readers.
 This concept of light but sufficient is nicely illustrated 
 by the following picture from ([Rüping 2003]):
 
@@ -100,11 +106,10 @@ by the following picture from ([Rüping 2003]):
 It requires deliberate writing and weeding effort
 to stay on the left side of the curve.
 This deliberate effort keeps you from wandering 
-of on the right side of the curve,
-where it is easy to get lost.
+of on the right side of the curve.
+On the right it is easy to get lost.
 Keeping your documentation light but sufficient
-will help you to reduce the total effort spend on writing documentation,
-leaving more time to deliver working software.
+will leave you more time to deliver working software.
 
 > The correct amount of documentation is exactly 
 > that needed for the receiver to make her next move in the game. 
