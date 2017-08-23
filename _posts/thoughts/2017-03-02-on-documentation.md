@@ -65,7 +65,7 @@ To me, key is to write each part of the documentation
 with a target reader and his or her goal in mind.
 To help me focus on the audience and their purpose,
 I add the target reader and their goal above the title of the section.
-It helps the reader to determine if he wants to read the section.
+It helps the reader to determine if he wants to read the section:
 
 --- 
 
