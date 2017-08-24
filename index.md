@@ -2,6 +2,7 @@
 layout: default
 title: Home
 tagline: Marijn van der Zee
+image: /assets/img/logo.png
 ---
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!--   
