@@ -19,6 +19,8 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     {% seo %}
+
+    {% include JB/analytics %}
   </head>
 
   <body>
@@ -117,7 +119,6 @@
     </div>
 </div>
 
-    {% include JB/analytics %}
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/jquery/jquery.min.js"></script>
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/bootstrap/js/bootstrap.min.js"></script>
     <script src="{{ site_url }}/assets/themes/bootstrap/resources/clipboard/clipboard.min.js"></script>
