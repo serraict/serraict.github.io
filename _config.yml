@@ -13,6 +13,9 @@ redcarpet:
 
 future: false
 
+plugins:
+  - jekyll-seo-tag
+
 # Themes are encouraged to use these universal variables
 # so be sure to set them if your theme uses them.
 #
@@ -24,6 +27,17 @@ author :
   github : serra
   twitter : marijnvanderzee
   feedburner : feedname
+
+# additional SEO-tag items
+description: Serra ICT website and blog on agile software development
+logo: /assets/img/logo.png
+social:
+  name: Marijn van der Zee
+  links:
+    - https://twitter.com/marijnvanderzee
+    - https://www.linkedin.com/in/marijnvanderzee
+    - https://plus.google.com/+marijnvanderzee
+    - https://github.com/serra
 
 # The production_url is only used when full-domain names are needed
 # such as sitemap.txt
