@@ -4,8 +4,8 @@ category : thoughts
 tagline: "Aim for light, but sufficient"
 tags : [agile, documentation, quality]
 title: How to Document Software the Agile Way
+image: "https://c1.staticflickr.com/3/2360/2197507288_f262ff7075_b.jpg"
 featured:
-  image: "https://c1.staticflickr.com/3/2360/2197507288_f262ff7075_b.jpg"
   attribution: © cardoso (CC BY)
   attribution_url: https://www.flickr.com/photos/cardoso/2197507288/
 ---

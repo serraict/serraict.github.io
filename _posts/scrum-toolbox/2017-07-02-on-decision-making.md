@@ -4,8 +4,8 @@ category : scrum-toolbox
 tagline: 'A decision matrix can help you determine how to decide and who to involve'
 tags : [scrum, product-owner]
 title: 'Product owner: How will you decide?'
+image: "https://c1.staticflickr.com/9/8483/8275165638_0c8f7765d1_b.jpg"
 featured:
-  image: "https://c1.staticflickr.com/9/8483/8275165638_0c8f7765d1_b.jpg"
   attribution: © thomashawk (CC BY-NC)
   attribution_url: https://www.flickr.com/photos/thomashawk/8275165638/
 ---

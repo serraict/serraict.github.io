@@ -4,8 +4,8 @@ category : learn
 tagline: "open your mind"
 tags : [agile, SAFe]
 title: Scaled Agile Framework
+image: "https://c2.staticflickr.com/6/5277/14081627548_aa13159684_b.jpg"
 featured:
-  image: "https://c2.staticflickr.com/6/5277/14081627548_aa13159684_b.jpg"
   attribution: © garshna (CC BY-NC-ND)
   attribution_url: https://www.flickr.com/photos/coplanar/14081627548/
 ---

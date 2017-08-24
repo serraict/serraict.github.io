@@ -4,8 +4,8 @@ category : thoughts
 tagline: "Don't look at her or you'll be cast to stone!"
 tags : [scrum, management, organization]
 title: Our Organization Is Like Medusa
+image: "https://c2.staticflickr.com/4/3238/3113321339_6375197367_o.jpg"
 featured:
-  image: "https://c2.staticflickr.com/4/3238/3113321339_6375197367_o.jpg"
   attribution: © mfvazquez63 (CC BY-SA)
   attribution_url: https://www.flickr.com/photos/32567444@N07/
 ---
