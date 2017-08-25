@@ -2,3 +2,26 @@
 
 This is my company website and blog.
 
+### Prerequisites
+
+Ruby 2.3
+
+### Dev
+
+Clone the repo.
+
+Build for the first time:
+
+```
+make bootstrap
+make build
+```
+
+To run a local server:
+```
+make server
+```
+
+Then simply edit the files.
+The sit is hosted on http://127.0.0.1:4000
+
