@@ -69,7 +69,8 @@ image: /assets/img/logo.png
           </a>
         </div>
         <h2><a href="#Services" class="scroll-to">Diensten</a></h2>
-        <p>Ik kan jullie helpen geweldige teams te laten groeien die betrouwbaar waardevolle software opleveren.</p>
+        <p>Ik help geweldige teams groeien en
+           waardevolle software opleveren.</p>
       </div>
          
       <div class="col-lg-4">
@@ -81,7 +82,8 @@ image: /assets/img/logo.png
           </a>
         </div>
         <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
-        <p>Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach. Dat ben ik.</p>
+        <p>Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach. 
+           Dat ben ik.</p>
       </div>
 
       <div class="col-lg-4">
@@ -91,7 +93,7 @@ image: /assets/img/logo.png
                 </a>
         </div>
         <h2><a href="blog.html">Blog</a></h2>
-        <p>Mijn gedachte over Agile Software Development, in het Engels.</p>
+        <p>Mijn gedachten over Agile Software Development, hoofdzakelijk in het Engels.</p>
       </div>    
     
     </div>
