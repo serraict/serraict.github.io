@@ -52,6 +52,8 @@ production_url : http://serraict.github.io
 
 url: http://www.serraict.com
 
+google_tag_manager_id: GTM-PDD39JJ
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :

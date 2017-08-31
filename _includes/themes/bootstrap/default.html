@@ -19,11 +19,12 @@
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     {% seo %}
-
     {% include JB/analytics %}
+    {% include google_tag_manager %}
   </head>
 
   <body>
+    {% include google_tag_manager %}
 
     <nav class="navbar  navbar-default navbar-fixed-top" role="navigation">
       <div class="container">
