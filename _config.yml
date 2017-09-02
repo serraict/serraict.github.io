@@ -54,6 +54,13 @@ url: http://www.serraict.com
 
 google_tag_manager_id: GTM-PDD39JJ
 
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+    values:
+      language: "en"
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
