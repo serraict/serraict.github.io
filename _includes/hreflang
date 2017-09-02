@@ -1,0 +1,10 @@
+{% comment %}<!--
+Output hreflang tags.
+
+
+
+Background: https://trello.com/c/z23XOe0F/5-hreflang-tags
+-->{% endcomment %}
+<!-- Begin hreflang tags -->
+<link rel="alternate" hreflang="{{ page.language }}" href="{{ site.url }}{{ page.url }}" />
+<!-- End hreflang tags -->
