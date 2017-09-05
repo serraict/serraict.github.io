@@ -44,7 +44,7 @@ I asked everybody I served for more than two sprints to fill out the survey.
 
 #### Overview of my performance
 
-![Performance Radar Chart]( {{ site_url }}/assets/img/blog/SMAssessment2015.png )
+![Performance Radar Chart]( {{ site.url }}/assets/img/blog/SMAssessment2015.png )
 
 #### Other results:
 

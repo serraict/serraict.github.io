@@ -32,7 +32,7 @@ a comprehensive view on agile management.
 After diving into agile software development and system complexity,
 Marty, the model of Management 3.0, is used to discuss Appelo's six views on Agile management:
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/six_mgt_views.png"
+<img src="{{ site.url }}/assets/img/blog/mgt30/six_mgt_views.png"
      alt="Marty anf his six eyes">
 
 This book is thought-provoking and an amazing read. 
@@ -51,7 +51,7 @@ I could not resist using Jurgen's illustrations (see attribution below) for capt
 
 Appello distinguishes *complexity* (an indication of predictability of behavior) from *complicatedness* (an indication of our ability to understand structure) and uses both to classify systems:
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/structure_vs_behavior.png"
+<img src="{{ site.url }}/assets/img/blog/mgt30/structure_vs_behavior.png"
      alt="Structure vs behavior">
 
 This might remind you of the [Cynefin model] and the [Stacey matrix]
@@ -76,12 +76,12 @@ where we can only keep one side fixed when tweaking another.
 
 Appelo suggests it can better be represented by a square: 
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/scope_time_resources_triangle.png"
+<img src="{{ site.url }}/assets/img/blog/mgt30/scope_time_resources_triangle.png"
      alt="Iron Triangle">
 
 And in practice turns out to be something like this "Escher cube of constraints":
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/scope_time_resources_the_real_deal.png"
+<img src="{{ site.url }}/assets/img/blog/mgt30/scope_time_resources_the_real_deal.png"
      alt="Escher's cube">
 
 #### 3. Fitness landscape
@@ -89,7 +89,7 @@ And in practice turns out to be something like this "Escher cube of constraints"
 Improving systems means making them more fit for their context. 
 This can be depicted as moving upward on the fitness curve (higher means more fit):
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/improvement_in_complex_environment.png"
+<img src="{{ site.url }}/assets/img/blog/mgt30/improvement_in_complex_environment.png"
      alt="Fitness_landscape">
 
 Improving can be done in *small steps* 
@@ -102,7 +102,7 @@ The fitness landscape is ever changing.
 
 ### Conclusion: the Pamphlet for complex projects
 
-<img src="{{ site_url }}/assets/img/blog/mgt30/pamphlet_for_complex_projects.png"
+<img src="{{ site.url }}/assets/img/blog/mgt30/pamphlet_for_complex_projects.png"
      alt="Pamphlet for complex projects">
 
 ### Attributions

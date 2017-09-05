@@ -87,7 +87,7 @@ image: /assets/img/logo.png
 
   <div class="col-lg-4">
     <div class="circle">
-      <a href="{{ site_url }}/blog.html">
+      <a href="{{ site.url }}/blog.html">
         <i class="fa fa-rss-square"></i>
       </a>
     </div>
@@ -208,7 +208,7 @@ image: /assets/img/logo.png
   </p>
   <p>
     Want to know a little more about me or the way I work? Read a couple of
-    <a href="{{ site_url }}/blog.html">blog posts</a>
+    <a href="{{ site.url }}/blog.html">blog posts</a>
     or check out my online alter-egos below.
   </p>
   <p>

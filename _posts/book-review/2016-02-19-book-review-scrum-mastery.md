@@ -68,7 +68,7 @@ What does it take for me to be great? What makes a great Scrum Master? Is there 
 > <footer>Geoff Watts, Scrum Mastery: From Good to Great Servant Leadership</footer>
 
 I referred to this quote in my 
-[2015 Scrum Master evaluation]({{ site_url }} /learn/2016/02/12/scrummaster-assessment)
+[2015 Scrum Master evaluation]({{ site.url }} /learn/2016/02/12/scrummaster-assessment)
 with respect to helping the team with technical practices; 
 it really struck a chord with me.
 

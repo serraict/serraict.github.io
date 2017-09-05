@@ -88,7 +88,7 @@ image: /assets/img/logo.png
 
       <div class="col-lg-4">
         <div class="circle">
-          <a href="{{ site_url }}/blog.html">
+          <a href="{{ site.url }}/blog.html">
                   <i class="fa fa-rss-square"></i>
                 </a>
         </div>
@@ -214,7 +214,7 @@ image: /assets/img/logo.png
       </p>
       <p>
         Wilt u meer van mij of mijn werkwijze weten? Lees enkele van mijn 
-        <a href="{{ site_url }}/blog.html">blog posts</a> 
+        <a href="{{ site.url }}/blog.html">blog posts</a> 
         of verken één van mijn online alter ego's hieronder.
       </p>
       <p>
