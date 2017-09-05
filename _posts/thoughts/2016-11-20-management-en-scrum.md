@@ -4,6 +4,7 @@ category : thoughts
 tagline: "Als er in Scrum geen manager rol is, waar ben ik dan als manager voor nodig?"
 tags : [scrum, management, Dutch]
 title: Management en Scrum
+language: nl
 ---
 {% include JB/setup %}
 

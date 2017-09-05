@@ -3,6 +3,11 @@ layout: default
 title: Home
 tagline: Marijn van der Zee
 image: /assets/img/logo.png
+language: en
+alternate_languages:
+ -
+  language: nl
+  url: /index-nl
 ---
 <div id="myCarousel" class="carousel slide" data-ride="carousel">
   <!--   

@@ -72,8 +72,19 @@
         {% endif %}
       </ul>
 
-      {% assign posts_collate = site.posts | slice: 0, 10 %}
-      {% include JB/posts_collate %}
+
+{% for category in site.categories %}
+  {% if page.categories contains category[0] %}
+    <div>
+      <h4>Other <span class="tag_box inline"><a>{{ category[0] }}</a></span> pages</h4>
+      <ul>
+        {% assign pages_list = category[1] %}  
+        {% include JB/pages_list %}
+      </ul>
+    </div>
+  {% endif %}
+{% endfor %}
+
       <div>
         <a href="/blog.html"> All posts ...</a>
       </div>
