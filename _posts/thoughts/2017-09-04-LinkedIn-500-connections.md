@@ -8,6 +8,10 @@ title: You want 500+ LinkedIn connections
 description:
   I want 500+ LInkedIn connections, but until recently I did not care.
   I changed my mind and these are the reasons why I care now.
+image: https://c1.staticflickr.com/3/2202/4278432941_5cb085182e_b.jpg
+featured:
+  attribution: © Nan Palmero (CC BY)
+  attribution_url: https://flickr.com/photos/nanpalmero/4278432941
 ---
 
 {% include JB/setup %}
