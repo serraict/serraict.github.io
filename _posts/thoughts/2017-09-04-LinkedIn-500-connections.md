@@ -103,7 +103,7 @@ As long as you're honest about this, it's OK.
 Your network will reflect your personal brand.
 It pays to be put together with care. 
 If you're an honest, transparent, caring and awesome person
-you're network will reflect that.
+your network will reflect that.
 It can still be a big network.
 Just grow it the right way.
 
