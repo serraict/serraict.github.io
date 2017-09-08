@@ -1,0 +1,1 @@
+This `_data` folder will hold data stored by staticman.
