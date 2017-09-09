@@ -65,10 +65,18 @@ en voorzien van een stof en UV bestendige coating.
     
     {% for p in page.paintings %}
     <div class="aad64 item {% if forloop.first %}active{% endif %}" >
-        <input type="hidden" value="{{ p.url }}"/>
         <img alt="Painting" src="{{ p.img }}" />
         <div class="carousel-caption">
         {{ p.sze }}
+
+        <form method="POST" action="https://api.staticman.net/v2/entry/serraict/serraict.github.io/master/contact">
+            <input name="options[redirect]" type="hidden" value="{{ site.url }}/pages/aad64/success">
+            <input type="hidden" name="fields[name]" value="cadeau kiezer Aad">
+            <input type="hidden" name="fields[email]" value="info@serraict.com">
+            <input type="hidden" name="fields[message]" 
+                   value="Aad wil {{ p.url }} want hij koos plaatje {{ p.img }}">
+            <button type="submit" class="btn btn-primary">Kies dit schilderij</button>
+        </form>
         </div>   
     </div>
     {% endfor %}
@@ -85,29 +93,5 @@ en voorzien van een stof en UV bestendige coating.
     <span class="sr-only">Next</span>
   </a>
 </div>
-
-<!--
-{% for p in page.paintings %}
-<div>
-    <input type="hidden" value="{{ p.url }}"/>
-    <img alt="Painting" src="{{ p.img }}" />
-    {{ p.sze }}
-</div>
-{% endfor %}
-
-
-    <div class="item active">
-      <img src="..." alt="...">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div>
-    <div class="item">
-      <img src="..." alt="...">
-      <div class="carousel-caption">
-        ...
-      </div>
-    </div> 
--->
 
 
