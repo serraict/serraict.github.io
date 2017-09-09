@@ -570,4 +570,11 @@ iframe.loopy {
 
 }
 
+/**
+ * Aad 64
+ */
 
+.aad64 img {
+  height: 400px;
+  padding: 20%;
+}
