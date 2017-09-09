@@ -6,4 +6,5 @@ tagline: van Floor, Marijn, Iris, Joost en Koen
 
 Hier heb je alvast een plaatje van een leuk katje:
 
-<img src="http://thecatapi.com/api/images/get?format=src&type=gif">
+<img src="http://thecatapi.com/api/images/get?format=src&type=gif" 
+     alt="Random funy cat image">
