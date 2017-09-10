@@ -49,7 +49,9 @@ en voorzien van een stof en UV bestendige coating.
 
 
 
-<div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
+<div id="carousel-example-generic" 
+     class="carousel slide" 
+     data-ride="carousel" data-interval="false">
   <!-- Indicators -->
   <ol class="carousel-indicators">
     {% for p in page.paintings %}
