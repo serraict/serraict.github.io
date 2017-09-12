@@ -2,9 +2,13 @@
 
   <h4>Comments</h4>
 
-  {% assign comments = site.data.comment[page.slug] | sort %}
+  {% assign comments = site.data.comment[page.slug]%}
+  
+  
+
   {% for comment in comments %}
-  <div>a comment</div>
+  {% assign data = comment[1] %}
+    {% include comment.html name=data.name message=data.message date=data.date %}
   {% endfor %}
 
 </div>
