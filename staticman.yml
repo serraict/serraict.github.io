@@ -75,3 +75,21 @@ contact:
   # the name of the field and values are possible transformation types.
   transforms:
     email: md5
+comment:
+  allowedFields: ["name", "email", "message"]
+  branch: "master"
+  commitMessage: "Add Staticman comment"
+  filename: "comment{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "timestamp-seconds"
+
+  moderation: true
+  name: "www.serraict.com"
+  path: "_data/comment/{options.slug}"
+  requiredFields: ["name", "email", "message"]
+  transforms:
+    email: md5
