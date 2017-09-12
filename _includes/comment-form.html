@@ -1,0 +1,26 @@
+<div class="comment">
+
+  <h4>Leave a comment</h4>
+
+  <form method="POST" action="https://api.staticman.net/v2/entry/serraict/serraict.github.io/master/comment">
+    <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.url }}">
+    <!-- e.g. "2016-01-02-this-is-a-post" -->
+    <div class="form-group">
+      <input name="options[slug]" type="hidden" value="{{ page.slug }}">
+      <label for="fields[name]">Name</label>
+      <input name="fields[name]" type="text"  class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="fields[email]">E-mail</label>
+      <input name="fields[email]" type="email"  class="form-control">
+    </div>
+    <div class="form-group">
+      <label for="fields[message]">Message</label>
+      <textarea name="fields[message]"  class="form-control" id="fields[message]"></textarea>
+    </div>
+    <div class="form-group">
+    </div>
+    <button type="submit" class="btn btn-primary">Add Comment</button>
+  </form>
+
+</div>
