@@ -114,7 +114,7 @@ JB :
   # Set 'provider' to false to turn commenting off globally.
   #
   comments :
-    provider : false
+    provider : "custom"
     # disqus :
     #   short_name : serraict
   #   livefyre :
