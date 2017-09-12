@@ -1,0 +1,10 @@
+<div class="comments">
+
+  <h4>Comments</h4>
+
+  {% assign comments = site.data.comment[page.slug] | sort %}
+  {% for comment in comments %}
+  <div>a comment</div>
+  {% endfor %}
+
+</div>
