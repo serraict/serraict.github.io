@@ -3,23 +3,22 @@
 
     <h2>Or leave your message below</h2>
 
-    <form method="POST" action="https://api.staticman.net/v2/entry/serraict/serraict.github.io/master/contact">
-      <input name="options[redirect]" type="hidden" value="{{ site.url }}/{{ page.url }}">
-      <!-- e.g. "2016-01-02-this-is-a-post" -->
+    <form method="POST" action="https://formspree.io/info@serraict.com">
+      <input name="slug" type="hidden" value="{{ page.slug }}">
+      <input name="_next" type="hidden" value="{{ site.url }}/{{ page.url }}">
       <div class="form-group">
-        <input name="options[slug]" type="hidden" value="{{ page.slug }}">
-        <label for="fields[name]">Name</label>
-        <input name="fields[name]" type="text"  class="form-control" required>
+        <label for="name">Name</label>
+        <input name="name" type="text"  class="form-control" required>
       </div>
       <div class="form-group">
-        <label for="fields[email]">E-mail</label>
-        <input name="fields[email]" type="email"  class="form-control" required>
+        <label for="email">E-mail</label>
+        <input name="email" type="email"  class="form-control" required>
       </div>
       <div class="form-group">
-        <label for="fields[message]">Message</label>
-        <textarea name="fields[message]"  
+        <label for="message">Message</label>
+        <textarea name="message"  
                   class="form-control" 
-                  id="fields[message]"
+                  id="message"
                   required></textarea>
       </div>
       <div class="form-group">
