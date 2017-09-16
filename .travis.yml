@@ -9,6 +9,7 @@ env:
   - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
 deploy:
   skip_cleanup: true
+  local_dir: _site
   provider: s3
   access_key_id: AKIAJDXDS5JGY4XDUBJA
   bucket: aws-website-serraictcompanywebsite-a6r5y
