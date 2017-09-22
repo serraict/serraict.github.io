@@ -1,0 +1,15 @@
+{
+  "hosting": {
+    "public": "_site",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "CNAME",
+      "Gemfile",
+      "Gemfile.lock",
+      "makefile",
+      "Rakefile"
+    ]
+  }
+}

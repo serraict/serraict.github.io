@@ -30,3 +30,5 @@ serve:
 serve-future:
 	bundle exec jekyll serve --future
 
+serve-firebase: build
+	firebase serve -p 4000
