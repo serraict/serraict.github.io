@@ -35,11 +35,11 @@ I would like to thank the Scrum teams I served
 for their humbleness and sense of humor,
 illustrated by the T-shirt you presented me last Tuesday:
 
-![img]({{ site.url }}/assets/img/blog/20160329-tf-shirt-front.png)
+![img]({{ BASE_PATH }}/assets/img/blog/20160329-tf-shirt-front.png)
 
 The front says: *So I helped my team achieve technical excellence ...*
 
-![img]({{ site.url }}/assets/img/blog/20160329-tf-shirt-back.png)
+![img]({{ BASE_PATH }}/assets/img/blog/20160329-tf-shirt-back.png)
 
 The back says: *and all I got was this lousy T-shirt ...*
 
