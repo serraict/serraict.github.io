@@ -92,7 +92,7 @@ alternate_languages:
 
   <div class="col-lg-4">
     <div class="circle">
-      <a href="{{ site.url }}/blog.html">
+      <a href="{{ BASE_PATH }}/blog.html">
         <i class="fa fa-rss-square"></i>
       </a>
     </div>
@@ -213,7 +213,7 @@ alternate_languages:
   </p>
   <p>
     Want to know a little more about me or the way I work? Read a couple of
-    <a href="{{ site.url }}/blog.html">blog posts</a>
+    <a href="{{ BASE_PATH }}/blog.html">blog posts</a>
     or check out my online alter-egos below.
   </p>
   <p>
