@@ -7,7 +7,7 @@ title: Management 3.0
 ---
 {% include JB/setup %}
 
-<img src="http://my.safaribooksonline.com/static/201602-8055-informit/images/9780321719027/9780321719027_s.jpg" 
+<img src="https://1qjpt15fhlq3xjfpm2utibj1-wpengine.netdna-ssl.com/wp-content/uploads/2015/02/Management-3.0-agile-management-book-cover-230x300.jpg" 
      alt="Management 3.0 - cover"
      class="pull-right">
 

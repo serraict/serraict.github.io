@@ -7,7 +7,7 @@ title: Kanban in Action
 ---
 {% include JB/setup %}
 
-<img src="http://my.safaribooksonline.com/static/201512-8032-informit/images/9781617291050/9781617291050_s.jpg" 
+<img src="https://images-na.ssl-images-amazon.com/images/I/41OjjEVnreL._SX397_BO1,204,203,200_.jpg" 
      alt="Kanban in Action - cover"
      class="pull-right">
 

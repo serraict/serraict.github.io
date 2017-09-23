@@ -7,7 +7,7 @@ title: Implementing Lean Software Development&#58; From Concept to Cash
 ---
 {% include JB/setup %}
 
-<img src="http://my.safaribooksonline.com/static/201510-8005-informit/images/0321437381/0321437381_s.jpg" 
+<img src="https://www.safaribooksonline.com/library/cover/0321437381/360h/" 
      alt="Implementing Lean Software Development: From Concept to Cash - cover"
      class="pull-right">
 

@@ -7,7 +7,7 @@ title: Scrum Mastery
 ---
 {% include JB/setup %}
 
-<img src="http://ecx.images-amazon.com/images/I/41O7tPRqQQL._AA320_FMwebp_QL65_.jpg" 
+<img src="https://images-na.ssl-images-amazon.com/images/I/51BoVEv9t4L._SY344_BO1,204,203,200_.jpg" 
      alt="Scrum Mastery - cover"
      class="pull-right">
 
