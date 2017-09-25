@@ -14,7 +14,7 @@ using interactive [causal loop diagrams].
 Below is an example of a simple causal loop diagram,
 relating a team's happiness to the value it delivers and the impact it has.
 
-<iframe class="loopy" src="http://ncase.me/loopy/v1.1/?embed=1&data=[[[11,240,166,0.5,%22Team's%2520Hapiness%22,3],[12,535,164,0.5,%22Team's%2520Impact%22,3],[13,389,331,0.5,%22Delivered%2520Value%22,3]],[[11,13,-3,1,0],[13,12,-23,1,0],[12,11,-8,1,0]],[],13%5D"></iframe>
+<iframe class="loopy" src="{{ BASE_URL }}/assets/loopy/v1.1/?embed=1&data=[[[11,240,166,0.5,%22Team's%2520Hapiness%22,3],[12,535,164,0.5,%22Team's%2520Impact%22,3],[13,389,331,0.5,%22Delivered%2520Value%22,3]],[[11,13,-3,1,0],[13,12,-23,1,0],[12,11,-8,1,0]],[],13%5D"></iframe>
 
 
 I found it incredibly insightful 
@@ -45,7 +45,7 @@ These are the posts in the series:
 
 ### References
 
-You might be interested in ...
+You might be interested in …
 
  * [loopy] - a tool to visualize causal loop diagrams
  * [causal loop diagrams] article on Wikipedia
