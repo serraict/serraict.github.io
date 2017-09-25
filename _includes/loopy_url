@@ -1,0 +1,1 @@
+{{ BASE_PATH }}{{ site.loopy.url }}/v1.1/

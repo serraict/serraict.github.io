@@ -61,6 +61,10 @@ defaults:
     values:
       language: "en"
 
+# loopy configuration
+loopy:
+  url: /assets/loopy
+
 # All Jekyll-Bootstrap specific configurations are namespaced into this hash
 #
 JB :
