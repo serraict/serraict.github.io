@@ -48,8 +48,7 @@ social:
 # Else if you are pushing to username.github.io, replace with your username.
 # Finally if you are pushing to a GitHub project page, include the project name at the end.
 #
-production_url : https://serraict.github.io
-
+production_url : https://www.serraict.com
 url: https://www.serraict.com
 
 google_tag_manager_id: GTM-PDD39JJ
