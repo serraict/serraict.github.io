@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 set -e # halt script on error
 
-bundle exec htmlproof --url-ignore "http://validator.w3.org/check?uri=referer" ./_site
+bundle exec htmlproofer ./_site --assume-extension --http-status-ignore "999,403" --file-ignore /assets/loopy/
