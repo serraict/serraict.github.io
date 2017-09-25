@@ -45,6 +45,6 @@ There are many different views on what exactly Kanban's values, principles, prac
   [Marcus Hammarberg]: http://www.marcusoft.net/
   [Joakim Sundén]: http://joakimsunden.com/
   [David Anderson's view]: http://www.djaa.com/principles-kanban-method-0
-  [kanbantool.com]: http://kanbantool.com/kanban-library/why-kanban/introducing-kanban-through-its-values#.Vrx3opMrLdQ
+  [kanbantool.com]: http://kanbantool.com/kanban-library/why-kanban/introducing-kanban-through-its-values
   [Wikipedia]: https://en.wikipedia.org/wiki/Kanban_(development)
   [Open Kanban]: https://github.com/agilelion/Open-Kanban#1-open-kanban-values
