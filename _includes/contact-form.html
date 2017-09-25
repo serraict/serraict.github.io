@@ -5,7 +5,7 @@
 
     <form method="POST" action="https://formspree.io/info@serraict.com">
       <input name="slug" type="hidden" value="{{ page.slug }}">
-      <input name="_next" type="hidden" value="{{ site.url }}/{{ page.url }}">
+      <input name="_next" type="hidden" value="{{ site.url }}{{ page.url }}">
       <div class="form-group">
         <label for="name">Name</label>
         <input name="name" type="text"  class="form-control" required>
