@@ -6,5 +6,5 @@
 
   ga('create', '{{ site.JB.analytics.googleUA.tracking_id }}', 'auto');
   ga('send', 'pageview');
-
+  // google UA code inserted
 </script>
