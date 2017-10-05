@@ -18,6 +18,9 @@ build-and-test:
 build:
 	bundle exec jekyll build
 
+build-dev:
+	bundle exec jekyll build --config _config.yml,_config_dev.yml
+
 build-and-watch:
 	bundle exec jekyll build --watch
 
@@ -25,12 +28,12 @@ build-trace:
 	bundle exec jekyll build --trace
 
 serve:
-	bundle exec jekyll serve
+	bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 serve-future:
-	bundle exec jekyll serve --future
+	bundle exec jekyll serve --future --config _config.yml,_config_dev.yml
 
-serve-firebase: build
+serve-firebase: build-dev
 	firebase serve -p 4000
 
 deploy-firebase: build
