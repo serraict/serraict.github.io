@@ -57,8 +57,8 @@ Appello distinguishes *complexity* (an indication of predictability of behavior)
 This might remind you of the [Cynefin model] and the [Stacey matrix]
 which both classify systems into simple, complex, complicated or chaotic.
 Main difference with those models is that Appelo comes to six classifications (instead of four) 
-and that Appelo does not distinguish between complicated and complex systems 
-- he finds that systems can be complex and complicated at the same time,
+and that Appelo does not distinguish between complicated and complex systems - 
+he finds that systems can be complex and complicated at the same time,
 because both apply to orthogonal concepts.
 
 Like the Cynefin model, correctly classifying a system 
