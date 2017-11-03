@@ -45,7 +45,7 @@ Product Backlog will never enter the Sprint fully Done!
 The Scrum Team and its stakeholders should trust 
 the empiricism that Scrum provides to deal with this uncertainty.
 
-If this is done as a tollgate that the Development Team uses to reject work,
+If a definition of Ready as a tollgate that the Development Team uses to reject work,
 without collaborating with its environment, this is a bad thing.
 If a definition of Ready is imposed on a Development Team,
 it undermines self-organization of the Development Team towards
