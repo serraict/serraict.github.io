@@ -26,7 +26,8 @@ Scrum requires having
 a shared understanding of all that is needed 
 to create Releasable Product Increment.
 This shared understanding is reflected by our Definition of Done.
-Having a definition of Done serves artifact transparency
+Having a definition of Done serves artifact transparency.
+
 Having a definition of ready is _not_ a Scrum rule.
 It _is_ a Scrum rule that only the Development Team is allowed 
 to take items into a Sprint and 
