@@ -43,4 +43,9 @@ I hope you'll find these resources helpful.
  [37 tasks]: http://agiletrail.com/2011/11/29/37-tasks-for-a-product-owner%E2%80%99s-job/
  [checklist]: https://lekman.fi/productownerchecklist/
  [jobs]: http://www.yodiz.com/blog/agile-product-owner-job-description/
+ 
+ [10 tips]: https://www.scrum.org/resources/blog/10-tips-product-owners-agile-product-management
+ [tips for starting product owners]: https://www.scrum.org/resources/blog/tips-starting-product-owners
+ 
+ 
 
