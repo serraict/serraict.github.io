@@ -23,5 +23,5 @@ make server
 ```
 
 Then simply edit the files.
-The sit is hosted on http://127.0.0.1:4000
+The site is hosted on http://127.0.0.1:4000
 
