@@ -70,6 +70,7 @@ I have not explored these resource yet, but I intend to do so later:
  [Highsmith, Agile Software Development Ecosystems]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/0201760436
  [Eckstein: Agile Software Development with Distributed Teams: Staying Agile in a Global World]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/9780133492385
  [Eccles et al.: The Impact of Collocation on the Effectiveness of Agile is Development Teams]: https://www.google.nl/url?sa=t&rct=j&q=&esrc=s&source=web&cd=8&cad=rja&uact=8&ved=0ahUKEwiI0Mayh9HRAhVEWxoKHadtBXkQFghIMAc&url=http%3A%2F%2Fibimapublishing.com%2Farticles%2FCIBIMA%2F2010%2F959194%2F959194.pdf&usg=AFQjCNEvgL8hMTtmMCXTIQtI9EsQEVTZRw&sig2=RN05nJvsOG5WYsoGbkbbJA&bvm=bv.144224172,d.d24
+ [Fowler: teamroom]: https://martinfowler.com/bliki/TeamRoom.html
 
 
 
