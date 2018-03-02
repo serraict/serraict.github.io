@@ -52,6 +52,9 @@ the [ice cream cone anti pattern]:
 
 {% include img-with-link.html img-url='blog/test-strategy/ice-cream.jpg' %}
 
+If you want to know more about the test automation pyramid
+(including a comprehensive examples)
+then you should explore [Ham Vocke's article on Fowler's bliki][Ham Vocke].
 
 ### Exercise: visualize your team's testing strategy
 
@@ -83,4 +86,5 @@ Have fun!
  [software testing pyramid]: http://watirmelon.com/tag/software-testing-pyramid/
  [bliki article on the Test Pyramid]: http://martinfowler.com/bliki/TestPyramid.html
  [this template]: /assets/img/blog/test-strategy/template.jpg
+ [Ham Vocke]: https://martinfowler.com/articles/practical-test-pyramid.html#acceptance
 
