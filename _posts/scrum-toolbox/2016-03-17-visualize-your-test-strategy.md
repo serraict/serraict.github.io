@@ -53,7 +53,7 @@ the [ice cream cone anti pattern]:
 {% include img-with-link.html img-url='blog/test-strategy/ice-cream.jpg' %}
 
 If you want to know more about the test automation pyramid
-(including a comprehensive examples)
+(including a comprehensive example)
 then you should explore [Ham Vocke's article on Fowler's bliki][Ham Vocke].
 
 ### Exercise: visualize your team's testing strategy
