@@ -3,3 +3,5 @@ _site/
 Gemfile.lock
 *.sublime-workspace
 .ruby-version
+
+\.DS_Store
