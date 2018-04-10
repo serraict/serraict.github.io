@@ -82,7 +82,7 @@ alternate_languages:
         <div class="circle">
           <a href="#Marijn" class="scroll-to">
             <img class="img-circle img-responsive center-block" 
-         src="/assets/img/marijn-z2.png" 
+         src="/assets/img/marijn-z2-300.png" 
          alt="Marijn">
           </a>
         </div>
@@ -224,7 +224,7 @@ alternate_languages:
       </p>
       <p>
         <img class="img-circle img-responsive center-block" 
-             src="/assets/img/marijn-z2.png" 
+             src="/assets/img/marijn-z2-300.png" 
              width="20%"
              alt="Marijn">
       </p>
