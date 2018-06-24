@@ -2,6 +2,7 @@
 
 bootstrap:
 	echo "2.3.0" > .ruby-version
+	gem install bundler
 	bundle install
 setup: bootstrap
 update: bootstrap
