@@ -507,6 +507,17 @@ div.lane h5
   -o-transform-origin: 50% 100%;
 }
 
+/* Comments
+-------------------------------------------------- */
+
+.comments {
+  margin-top: 2em;
+}
+
+.comments h4 {
+  font-size: 1em;
+}
+
 /* Loopy
 -------------------------------------------------- */
 
