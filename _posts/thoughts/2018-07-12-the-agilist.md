@@ -16,7 +16,7 @@ So you found my copy of the Agilist. Great!
 
 Please do NOT return it to me. Just read it and pass it on.
 
-Did you enjoy reading it?
+Did you enjoy reading it? Please let me know!
 
 While you're at it: consider supporting 
 [The Agilist](http://theagilist.org/).
