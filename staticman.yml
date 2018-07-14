@@ -16,3 +16,9 @@ comment:
   requiredFields: ["name", "email", "message"]
   transforms:
     email: md5
+akismet:
+  enabled: true
+  author: "name"
+  authorEmail: "email"
+  content: "message"
+  type: "comment"
