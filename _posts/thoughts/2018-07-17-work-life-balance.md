@@ -11,6 +11,9 @@ featured:
 ---
 {% include JB/setup %}
 
+In this video, Rich Sheridan talks about an experiment where parents 
+brought their new-born kids to work. 
+
 > There isn't a work-life balance - 
 > there is life.
 > Life must be in balance. 
