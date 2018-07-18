@@ -2,6 +2,10 @@
 
 bootstrap:
 	echo "2.3.0" > .ruby-version
+	# On OSX i had to use system libraries fo nokigiri and ffi
+	# to install html-proofer:
+	# gem install nokogiri -v 1.6.7.2 -- --use-system-libraries
+	# gem install ffi -v 1.9.25 -- --use-system-libraries
 	gem install bundler
 	bundle install
 setup: bootstrap
