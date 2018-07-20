@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: Let's bring our babies to work!
-tags : [agile, empowerment, scrum-master, in-pulse]
+tags : [empowerment]
 title: Work-life balance
 image: /assets/img/peerprogramming.png
 featured:
