@@ -38,6 +38,6 @@ featured:
 
 <a href="{{ SITE_URL }}{% post_url /learn/2018-07-03-your-custom-agile-article-feed %}" 
    class="btn btn-default btn-block">
-  Get online, high-quality articles on agile</a>
+  High-quality agile articles</a>
   </div>
 </div>
