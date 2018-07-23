@@ -2,7 +2,7 @@
 layout: post
 category : learn
 tagline: Your agile article feed, curated by me
-tags : [scrum]
+tags : [agile]
 title: High quality agile articles, no noise.
 ---
 

@@ -510,7 +510,7 @@ div.lane h5
 /* Comments
 -------------------------------------------------- */
 
-.comments {
+.comments, .comment {
   margin-top: 2em;
 }
 

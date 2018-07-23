@@ -1,7 +1,7 @@
 ---
 layout: post
 category : thoughts
-tagline: Let's get in touch
+tagline: Let's stay in touch
 tags : [agile]
 title: The Agilist
 image: /assets/img/blog/the_agilist.jpg
@@ -12,19 +12,32 @@ featured:
 
 {% include JB/setup %}
 
-So you found my copy of the Agilist. Great!
+<div class="alert alert-success">
 
-Please do NOT return it to me. Just read it and pass it on.
+<p>So you got my copy of the Agilist. Great!</p>
 
-Did you enjoy reading it? Please let me know!
+<p>Please do NOT return it to me. Just read it and pass it on.</p>
 
-While you're at it: consider supporting 
-[The Agilist](http://theagilist.org/).
+<p>Did you enjoy reading it? Please share in the comments below!</p>
 
----
+</div>
+
+<div class="panel panel-default">
+  <div class="panel-heading">
+    <h3 class="panel-title">Actionable Ideas</h3>
+  </div>
+  <div class="panel-body">
+<a href="#leave-a-comment"
+   class="btn btn-default btn-xl scroll-to btn-block">
+  Leave a comment</a>
+
 
 <a href="http://theagilist.org/" 
-   class="btn btn-primary btn-small btn-xl">
-Start Receiving The Agilist Yourself</a>
+   class="btn btn-default btn-block">
+  Support The Agilist</a>
 
----
+<a href="{{ SITE_URL }}{% post_url /learn/2018-07-03-your-custom-agile-article-feed %}" 
+   class="btn btn-default btn-block">
+  Get online, high-quality articles on agile</a>
+  </div>
+</div>
