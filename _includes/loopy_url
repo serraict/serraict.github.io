@@ -1,1 +1,1 @@
-{{ BASE_PATH }}{{ site.loopy.url }}/v1.1/
+{{ BASE_PATH }}{{ site.loopy.url }}/v1.1/index.html
