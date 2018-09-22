@@ -1,6 +1,10 @@
 # scripts to rule them all
 
 bootstrap:
+	# assumptions:
+	# - a ruby environment
+	# - node and npm installed
+	# - npm install -g firebase-tools
 	echo "2.3.0" > .ruby-version
 	# On OSX i had to use system libraries fo nokigiri and ffi
 	# to install html-proofer:
@@ -39,7 +43,7 @@ serve-future:
 	bundle exec jekyll serve --future --config _config.yml,_config_dev.yml
 
 serve-firebase: build-dev
-	firebase serve -p 4000
+	firebase serve -p 4000 -o 127.0.0.1
 
 deploy-firebase: build
 	firebase deploy
