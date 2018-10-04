@@ -37,6 +37,9 @@ In response, Jeff invited Ken to work on Scrum together.
 This resulted in [the OOPSLA paper on Scrum published in 1995], 
 which is generally referred to as the first written reference on Scrum.
 
+Want to know more about the birthplace of Scrum?
+Check out this [AgileFM podcast with Ken Schwaber].
 
  [OOPSLA]: http://www.oopsla.org/oopsla-history/
  [the OOPSLA paper on Scrum published in 1995]: https://drive.google.com/open?id=135SbLoltPBM7mcnen0zrgiw8rjVc0Nvw
+ [AgileFM podcast with Ken Schwaber]: https://agile.fm/agilefm/2018/9/27/ken-schwaber-agile-fm
