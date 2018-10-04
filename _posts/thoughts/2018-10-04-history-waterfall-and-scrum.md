@@ -3,15 +3,16 @@ layout: post
 category : thoughts
 tagline: Ken Schwaber
 tags : [history, scrum]
-title: Scrum is firmly rooted in waterfall - a little bit of history
+title: Scrum's relation to waterfall - a little bit of history
 description:
-  Did you know that Scrum is firmly rooted in waterfall?
-  This story tells you how.
+  Did you know that Scrum has a strong relation to waterfall?
+  This story tells you how they're related.
 
 ---
 {% include JB/setup %}
 
-Did you know that Scrum is firmly rooted in waterfall?
+Did you know that Scrum originated 
+from extensive work on waterfall software development methodologies?
 This story tells you how.
 
 Jeff Sutherland and Ken Schwaber, the founders of Scrum,
@@ -26,7 +27,7 @@ Jeff asked Ken for some advice on the work he was doing.
 He asked Ken which methodology he used at his company for developing his company's ALM tooling:
 
 
-> I use Absolutely none of [of those methodologies] Jeff.
+> I use absolutely none of [of those methodologies] Jeff.
 > If I'd be using anyone of them I'd be out of business.
 > We need to be very flexible and respond to change [...]
 >
