@@ -4,4 +4,4 @@ Gemfile.lock
 *.sublime-workspace
 .ruby-version
 
-\.DS_Store
+.DS_Store
