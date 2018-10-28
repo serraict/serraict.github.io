@@ -20,7 +20,10 @@ Want to learn first hand from failures from others? Contact us and we’ll share
 <a href="rob@progility.io" class="btn btn-lg btn-primary">Mail Us</a>
 
 #### OK, but who are you exactly?
-We are me (Rob), Marijn and Youri. You can check out Rob’s profile, Marijn’s profile and Youri’s profile on LinkedIn.
+We are me (Rob), Marijn and Youri. You can check out 
+[Rob’s profile], 
+[Marijn’s profile] and 
+[Youri’s profile] on LinkedIn.
 
 #### Hey Rob, how will you share your story?
 I will bring two experienced Scrum Master (Marijn and Youri) who will facilitate the session. You’ll invite us over and share lunch or dinner with us. Before or after our meal, we take two hours to share our story.
@@ -37,3 +40,10 @@ Well, you have to buy us a meal. If we have to travel for more than say one hour
 Mail us with the request “You failed, I want to learn!”. Please leave your contact data and we’ll be in touch.
 
 <a href="rob@progility.io" class="btn btn-lg btn-primary">Mail Us</a>
+
+
+ [Rob’s profile]: https://www.linkedin.com/in/rob-van-der-lee/
+ [Marijn’s profile]: https://www.linkedin.com/in/marijnvanderzee
+ [Youri’s profile]: https://www.linkedin.com/in/yasschouten
+
+
