@@ -2,7 +2,7 @@
 layout: post
 category : thoughts
 tagline: "Good, now fail again"
-tags : [scrum, quote, scrum-master]
+tags : [scrum, quote, scrum-master, failure]
 title: On Failure
 ---
 {% include JB/setup %}
