@@ -17,7 +17,7 @@ Want to learn from Agile Transformation Success Stories: Go visit a conference.
 
 Want to learn first hand from failures from others? Contact us and we’ll share our stories so you can learn.
 
-<a href="rob@progility.io" class="btn btn-lg btn-primary">Mail Us</a>
+<a href="mailto:rob@progility.io" class="btn btn-lg btn-primary">Mail Us</a>
 
 #### OK, but who are you exactly?
 We are me (Rob), Marijn and Youri. You can check out 
@@ -39,7 +39,7 @@ Well, you have to buy us a meal. If we have to travel for more than say one hour
 #### Let’s do this! How do I get started?
 Mail us with the request “You failed, I want to learn!”. Please leave your contact data and we’ll be in touch.
 
-<a href="rob@progility.io" class="btn btn-lg btn-primary">Mail Us</a>
+<a href="mailto:rob@progility.io" class="btn btn-lg btn-primary">Mail Us</a>
 
 
  [Rob’s profile]: https://www.linkedin.com/in/rob-van-der-lee/
