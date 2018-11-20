@@ -1,8 +1,8 @@
 ---
 layout: post
 category : learn
-tagline: "Want to learn from our failures?"
-tags : [agile, failure]
+tagline: "Some resources on user stories"
+tags : [scrum, user-stories]
 title: User Stories
 description: Resources on working with user stories
 ---
