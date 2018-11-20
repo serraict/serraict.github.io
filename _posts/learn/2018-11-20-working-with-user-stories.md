@@ -9,7 +9,7 @@ description: Resources on working with user stories
 
 {% include JB/setup %}
 
-These are some resources I have found useful to learn work better with user stories.
+These are some resources I have found useful to learn to better work with user stories.
 
 It is a work in progress, and I'll add some more resources and links later this week.
 
