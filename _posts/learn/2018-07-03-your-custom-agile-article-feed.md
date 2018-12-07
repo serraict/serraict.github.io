@@ -17,6 +17,7 @@ One or two high quality agile articles per day, no noise. Just you and the conte
 
 I follow dozens of blogs and websites related to agile software development.
 The most interesting articles are added to this feed.
-
+ 
+---
 
 Enjoy!
