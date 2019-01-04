@@ -24,8 +24,8 @@ A great accompanying read is [A question about the Scrum Master][adaptagility],
 where James Scrimshire covers similar ground.
 
 Stephanie Ockerman has written about 
-[5 actions of an effective servant leader](https://www.agilesocks.com/scrum-mastery-5-actions-effective-servant-leader/) 
- - very actionable indeed.
+[5 actions of an effective servant leader](https://www.agilesocks.com/scrum-mastery-5-actions-effective-servant-leader/).
+Very actionable indeed!
 
 ## Ha
 
