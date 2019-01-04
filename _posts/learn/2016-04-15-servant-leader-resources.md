@@ -19,8 +19,13 @@ on the subject of Scrum Masters as servant leaders.
 In his post [The Scrum Master as servant leader], 
 Barry Overeem gives a succinct review of Servant Leadership 
 in the context of Scrum and Agile Software Development.
+
 A great accompanying read is [A question about the Scrum Master][adaptagility],
 where James Scrimshire covers similar ground.
+
+Stephanie Ockerman has written about 
+[5 actions of an effective servant leader](https://www.agilesocks.com/scrum-mastery-5-actions-effective-servant-leader/) 
+ - very actionable indeed.
 
 ## Ha
 
