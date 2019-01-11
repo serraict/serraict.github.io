@@ -148,7 +148,8 @@ alternate_languages:
       uw team naar het volgende niveau te brengen
       en uw organisatie te helpen aanpassen aan agile werkwijzen 
       en het iteratief en incrementeel opleveren van waardevolle software.
-      Ik ben PSM III gecertificeerd Scrum Master, gek op Scrum 
+      Ik ben een XSCALE Product Management Coach en 
+      een PSM III gecertificeerd Scrum Master. Ik houd van Scrum 
       en geïnteresseerd om binnen elk agile raamwerk met teams aan de slag te gaan.
       </p>
       <p>Op dit moment ligt mijn professionele focus op het begeleiden van software teams,
@@ -201,7 +202,7 @@ alternate_languages:
       <p>
        Ik ben een Scrum Master, agile ontwikkelaar, 
        pragmatische student, teamspeler en coach.
-       Ik ben meer dan tien jaar actief in het ontwikkelen van software.
+       Ik ben meer dan vijftien jaar actief in het ontwikkelen van software.
       </p>
       <p>
         Ik werk op een open en transparante manier,

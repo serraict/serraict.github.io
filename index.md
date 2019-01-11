@@ -144,8 +144,9 @@ alternate_languages:
     to serve-slash-lead your Scrum team, 
     take your agile teams to the next level 
     and help your organization adapt to agile software delivery.
-    I am a PSM III certified Scrum Master, love Scrum 
-    and curious to work with any agile software delivery team.
+    I am an XSCALE Product Management Coach
+    and PSM III certified Scrum Master. I love Scrum 
+    and am curious to work with any agile software delivery team.
   </p>
   <p>
     At this point in time, my professional focus 
@@ -194,7 +195,7 @@ alternate_languages:
     I love to guide software teams on their journey to deliver valuable software and becoming a great team.
   </p>
   <p>
-    I am a Scrum Master, agile developer, pragmatic student, team player and coach and have been active in the field of software development for well over ten years.
+    I am a Scrum Master, agile developer, pragmatic student, team player and coach and have been active in the field of software development for well over fifteen years.
   </p>
   <p>
     I work in an open and transparent way, 
