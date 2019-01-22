@@ -2,7 +2,7 @@
 layout: post
 category : learn
 tagline: "Appreciative reflections and follow-up ideas"
-tags : [scrum, user-stories]
+tags : [facilitation, liberating-structures]
 title: Attending the Liberating Structures Immersion Workshop
 description: A personal, appreciative reflection on the Liberating Structures Immersion workshop
              on December 10th and 11th in Amsterdam. Some personal follow-up ideas.
