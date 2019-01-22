@@ -168,6 +168,10 @@ a[id]:before {
   font-weight: 700;
 }
 
+/* images as content */
+img[src$='#img-fit-width'] {
+  width: 100%;
+}
 
 /* MARKETING CONTENT
 -------------------------------------------------- */
