@@ -3,7 +3,7 @@ layout: post
 category : learn
 tagline: "Appreciative reflections and follow-up ideas"
 tags : [facilitation, liberating-structures]
-title: Attending the Liberating Structures Immersion Workshop
+title: What I learned from attending a Liberating Structures Immersion Workshop
 description: A personal, appreciative reflection on the Liberating Structures Immersion workshop
              on December 10th and 11th in Amsterdam. Some personal follow-up ideas.
 image: "/assets/img/blog/lsimmersion/me_immersed_lisanne_lentink.jpeg"
@@ -104,6 +104,8 @@ As a group _as a whole_ we had two great sketches.
 This is a short list of follow up ideas I had after the workshop.
 
  * Write a blog post with my reflections and ideas.
+   You're reading it now :) . 
+   It is also reposted [on Medium](https://medium.com/the-liberators/what-i-learned-from-attending-a-liberating-structures-immersion-workshop-ea06ac596d97). 
  * Write a blog post on my tiny demons.
  * Create an app that uses image recognition to create a session plan 
    from a string of laid out Liberating Structures cards.
@@ -116,6 +118,7 @@ This is a short list of follow up ideas I had after the workshop.
  * Use liberating structures to completely revamp 
    the morning session of a SAFe PI planning event.
    And whilst at it - why not run the entire event using Liberating Structures.
+   You can find my ideas [on a Liberating PI Planning Structure Trello board].
  * Use Liberating Structures to support some [XSCALE practices].
    That sounds like a powerful combination.
  * Create a list of links of posts on the Immersion Workshop.
@@ -173,3 +176,5 @@ You'll be amazed about what they unleash in the people you work and live with.
  [Improv Prototyping]: http://www.liberatingstructures.com/15-improv-prototyping/
 
  [immersion workshop Google Drive folder]: https://drive.google.com/drive/u/0/folders/17rIdDCO4mhLQV2GxLCmJdFvaI6l7pbXt
+
+ [on a Liberating PI Planning Structure Trello board]: https://trello.com/b/k1c98PtQ/a-liberating-pi-planning-structure
