@@ -1,14 +1,14 @@
 <div class="comments">
 
   <h4>Comments</h4>
-
-  {% assign comments = site.data.comment[page.slug]%}
   
-  
+  {% assign comments = site.data.comment[page.slug] %}
 
-  {% for comment in comments %}
-  {% assign data = comment[1] %}
+  {% for comment in comments reversed %}
+  
+    {% assign data = comment[1] %}
     {% include comment.html name=data.name message=data.message date=data.date %}
+
   {% endfor %}
 
 </div>
