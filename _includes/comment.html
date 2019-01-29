@@ -1,6 +1,11 @@
-<article class="comment">
-<h5>{{ include.name }} <small>{{ include.date }}</small></h5>
+{% assign noteclasses = "note-yellow,note-orange," | split: ',' %}
+{% assign thisclass = noteclasses | sample %}
+<div class="divider"></div>
+<blockquote class="note {{thisclass}}">
   <p>
-      {{ include.message }}
+    {{ include.message }}
   </p>
-</article>
+  <p>
+  	{{ include.name }}, {{ include.date | date_to_string }}, {{ include.date | date: "%R %Z" }}
+  </p>
+</blockquote>
