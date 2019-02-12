@@ -17,3 +17,5 @@ https://youtu.be/bDE9-Pt1kms?t=782
 A corurageous speech by Hans Teeuwen:
 
 https://www.youtube.com/watch?v=PSN7R5By4Zo
+
+crucial conversations

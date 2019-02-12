@@ -12,7 +12,7 @@ title: One Step at a Time
 > within somebody else 
 > in order to enable them to make some progress towards a goal. 
 >
-> <footer>[Geoff Watts, Inspect and Adapt blog]</footer>
+> [Geoff Watts, Inspect and Adapt blog]
 
 
 <!--
