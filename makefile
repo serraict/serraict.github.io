@@ -40,7 +40,7 @@ serve:
 	bundle exec jekyll serve --config _config.yml,_config_dev.yml
 
 serve-future:
-	bundle exec jekyll serve --future --config _config.yml,_config_dev.yml
+	bundle exec jekyll serve --drafts --future --config _config.yml,_config_dev.yml
 
 serve-firebase: build-dev
 	firebase serve -p 4000 -o 127.0.0.1
