@@ -19,9 +19,11 @@ XSCALE's principles of agile organization,
 
 ---
 
-Hello, everyone. Welcome to XSCALE's webinar series 
-on the principles of agile organization.
-This is our first session, my name is Peter Merel.
+> Hello, everyone. Welcome to XSCALE's webinar series 
+> on the principles of agile organization.
+> This is our first session.
+>
+> Peter Merel
 
 A lot of my clients these days are interested in taking agile to places
 it hasn't been before and we have a whole bunch of people talking about 
@@ -33,7 +35,7 @@ So we're gonna deal with them one at a time,
 and that's pretty easy because XSCALE itself 
 is an acronym for these principles.
 
-The X stands for exponential return on investment.  
+The X stands for exponential return on investment.
 Now, that's a wonderful
 aspiration and if you are a startup 
 it's essential to attracting investment. 
