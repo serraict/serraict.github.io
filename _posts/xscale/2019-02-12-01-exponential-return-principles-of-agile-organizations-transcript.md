@@ -168,9 +168,9 @@ an augmented reality experience that no one else can match.
 Jobs would have called it iReality, but that wasn't to be.
 
 <!-- 0:06:53.600,0:07:01.200 -->
-This is a Google trends picture of apple today. 
+This is a Google trends picture of Apple today. 
 It looks pretty disheartening until you realize the scale - 
-that's not like apples about to go broke.
+that's not like Apple's about to go broke.
 iPhone sales continue linearly 
 and even though revenues have dropped, 
 iPhones have at least one more generation 
