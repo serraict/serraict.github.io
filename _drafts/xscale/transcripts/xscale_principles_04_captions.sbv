@@ -1,0 +1,515 @@
+0:00:04.390,0:00:08.460
+Welcome to the fourth webinar in our series on the principles of agile organization
+
+0:00:09.550,0:00:11.550
+My name is Peter Merrill
+
+0:00:12.220,0:00:16.499
+In our first three webinars, we looked at exponential return by stacking growth curves
+
+0:00:17.259,0:00:20.609
+simple design of products in terms of their servers ecosystems and
+
+0:00:21.609,0:00:24.238
+continuous throughput by opening bottleneck constraints
+
+0:00:26.169,0:00:32.579
+These are about the business bottom line but agile is first and foremost a way for small teams to collaborate efficiently
+
+0:00:33.640,0:00:41.219
+Today's webinar is about how these teams can self-organize and self align around this bottom line, but let's begin by understanding the problem
+
+0:00:41.219,0:00:43.219
+We're trying to solve
+
+0:00:43.660,0:00:46.139
+Again penetrating Russian radar cover within
+
+0:00:46.690,0:00:52.320
+25 minutes I was under the impression that I was the only one in authority to order the use of nuclear weapons
+
+0:00:52.780,0:00:54.670
+the idea was a
+
+0:00:54.670,0:01:00.659
+Retaliatory safeguard a safeguard to discourage the rescuers from any hope that they could knock out
+
+0:01:00.760,0:01:05.850
+Washington and yourself and escape retaliation because of lack of proper command and control
+
+0:01:06.850,0:01:11.520
+That comedy of errors was written by defense analysts afraid. We'd blow ourselves to extinction
+
+0:01:12.400,0:01:18.480
+But Kubrick's understanding of military command was a century out-of-date when dr. Strangelove was filmed
+
+0:01:19.540,0:01:26.160
+One monkey invented elf tracks tactic back when armies still lined up facing each other like pawns on a chessboard
+
+0:01:27.550,0:01:34.859
+He discovered that so long as small teams share a superior framework of intent organized by direct feedback they can swiftly
+
+0:01:35.590,0:01:42.539
+outmaneuver a much greater command and control opposition this idea was fundamental to the German conquest of Europe in World War two
+
+0:01:44.320,0:01:47.399
+Independent squads of Panzers swarmed around the impenetrable
+
+0:01:47.560,0:01:53.399
+But immobile 12 billion-dollar French super trench fortifications like ants on a caterpillar
+
+0:01:56.909,0:01:58.999
+The Royal Navy ruled the waves
+
+0:01:59.549,0:02:05.389
+Until wolf packs of ravaging u-boats decimated the fleet by surfacing to attacker on masts at night
+
+0:02:07.439,0:02:09.529
+You prepared no idea how to respond
+
+0:02:09.530,0:02:16.940
+And it was only rigid command and control by the German High Command that stopped the Nazis from conquering the continent from London to Moscow
+
+0:02:19.379,0:02:24.739
+It takes real change in leadership philosophy for an organization to make mission command its inspire basis
+
+0:02:27.090,0:02:29.479
+Now we want numbers to generate change
+
+0:02:29.480,0:02:37.160
+We can only optimize what we measure an agile organization wants a metric to distinguish between efficient structures and inefficient ones
+
+0:02:38.190,0:02:43.279
+The maximum number of conversations that have to happen for two members of an organization to collaborate
+
+0:02:43.799,0:02:47.599
+That's what we're going to use. We'll call it the collaboration loop limit
+
+0:02:48.660,0:02:54.919
+in a little commanded control team this limit is just for worker 1 - manager - worker 2
+
+0:02:55.140,0:02:57.379
+back to manager and back to worker 1
+
+0:03:02.400,0:03:05.750
+Scaling to include a program manager double the loop limit
+
+0:03:10.490,0:03:15.490
+The scale of a PMO or business unit it's triple an Enterprise PMO of a large
+
+0:03:15.680,0:03:19.059
+corporation has a loop limit of over 16 handoffs as
+
+0:03:19.820,0:03:23.049
+the limit grows the time taken slows exponentially and
+
+0:03:23.420,0:03:30.369
+Confusion created by passing messages down lines of middlemen multiplies the left hand no longer knows what the right is doing
+
+0:03:31.310,0:03:33.850
+but there's far greater complexity than this in the
+
+0:03:34.010,0:03:38.260
+Organization of any human body and your left hand almost always knows what your right is doing in
+
+0:03:38.630,0:03:43.930
+The 1960s Arthur Koestler noticed that organizations like your body have no middle managers
+
+0:03:44.510,0:03:48.699
+The palm of your hand doesn't manage its fingers and your shoulder doesn't manage your arm
+
+0:03:49.100,0:03:49.730
+each
+
+0:03:49.730,0:03:55.929
+Form is just a repeating pattern of the behaviors of its parts and each part is just a repeating pattern of behaviour of its parts
+
+0:03:55.930,0:03:58.840
+And so on down to atoms down to quarks
+
+0:04:01.340,0:04:05.230
+Custer coined the word holla ki to describe the pattern of patterns of patterns
+
+0:04:06.350,0:04:11.109
+Before him Leibniz called the Mon ads and after him Mandelbrot called them fractals
+
+0:04:11.840,0:04:14.440
+In fact all natural forms work this way
+
+0:04:14.440,0:04:16.540
+So we don't need any special words for them
+
+0:04:16.730,0:04:22.569
+The special word is for the only form of organization that doesn't work in a natural way, and we already have that
+
+0:04:23.660,0:04:25.660
+We call it a committee
+
+0:04:28.740,0:04:31.880
+Agile starts with the idea that small teams don't have to form committees
+
+0:04:32.730,0:04:37.279
+they serve the superior framework of intent by continuously paring refactoring and
+
+0:04:38.100,0:04:40.100
+prioritizing bottom line throughput
+
+0:04:41.400,0:04:44.239
+But can a gel really scale without command and control
+
+0:04:45.750,0:04:52.730
+That would be a combinatorially explosive proposition, so it's the wrong question to ask the right one is can an organization
+
+0:04:53.400,0:04:56.000
+Descale into agile teams without command and control
+
+0:04:57.660,0:05:00.709
+The answer to that ends on consistent prioritization
+
+0:05:01.230,0:05:07.309
+Can we define a superior framework of intent in terms of interlocking EDD feed respect?
+
+0:05:08.370,0:05:10.370
+Indeed we can
+
+0:05:10.710,0:05:18.260
+Lean, UX calls a group with this responsibility of product team we call them a product squad because they're working to an agile cadence
+
+0:05:18.390,0:05:20.390
+using agile ceremonies
+
+0:05:21.360,0:05:25.999
+The product squads made up of business authorities design authorities and technical authorities
+
+0:05:26.220,0:05:29.839
+Collaborating to optimize bottom line throughput as in our last webinar
+
+0:05:30.840,0:05:38.000
+It delivers BDD feature specs to feature delivery squads downstream who in turn provide representatives to take partners
+
+0:05:38.790,0:05:44.149
+That way estimation and prioritization are direct conversations with no middlemen
+
+0:05:45.870,0:05:48.020
+What we need if we're serious about
+
+0:05:48.360,0:05:54.710
+Self-organizing teams is a simple decision-making protocol to harness the best thinking of all the members of the products board
+
+0:05:54.960,0:05:56.960
+indeed of any edge our squad
+
+0:05:57.900,0:06:01.459
+So here's a well proven practice pattern that does exactly this
+
+0:06:02.870,0:06:08.410
+the iroquois confederacy represented the dominant civilization in north america for almost 500 years
+
+0:06:10.520,0:06:17.530
+The iroquois were founded in the 13th century on a code invented by two men the famous hiawatha and a huron inventor
+
+0:06:17.530,0:06:19.530
+They called the peacemaker
+
+0:06:20.090,0:06:27.100
+This great law centered around a tiny practice pattern for consensus decision-making we call leadership as a service
+
+0:06:28.250,0:06:33.369
+In fact we already use this pattern as part of our agile planning poker games
+
+0:06:33.920,0:06:40.420
+It works like this. We've put a person in charge of decision-making timeframes and protocols the iroquois called them a war chief
+
+0:06:40.580,0:06:45.879
+We'll call them a coach if the team can't reach a unanimous decision within the required time frame
+
+0:06:46.280,0:06:50.980
+There's a second role the iroquois called them as sachin. We'll call them a leader
+
+0:06:52.610,0:06:53.780
+If
+
+0:06:53.780,0:06:59.919
+The team reaches unanimity the leader doesn't get to overrule them the leader can influence their decision
+
+0:06:59.919,0:07:03.879
+but the leader only gets to make the decision if the team gets stuck and
+
+0:07:05.240,0:07:10.810
+Only the coach determines when the leader is to take the decision out of their hands that prevents command and control
+
+0:07:11.300,0:07:13.300
+compromising the self-organization of the team
+
+0:07:14.750,0:07:22.750
+The assignment of a leader role is best vary depending on the expertise and commitment required to each decision in jobs apple domain-specific
+
+0:07:23.030,0:07:25.030
+leaders were called dris
+
+0:07:25.370,0:07:27.399
+directly responsible individuals
+
+0:07:29.419,0:07:33.489
+Every agenda item in an apple meeting had to have a clearly identified DRI
+
+0:07:34.340,0:07:38.649
+Each DRI leveraged the other's innovations to drive their particular direct
+
+0:07:38.960,0:07:44.200
+Responsibilities so the throughput of the team became a product rather than a sum of the throughput of its members
+
+0:07:45.889,0:07:51.549
+Leadership as a service provided by the dris makes the difference between a collaborating team and a
+
+0:07:51.800,0:07:55.030
+Compromising committee many committees we have at Apple no
+
+0:07:55.910,0:07:57.570
+zero
+
+0:07:57.570,0:08:03.679
+Have no committees. No committee. We are there we are organized like a start-up whole business
+
+0:08:04.410,0:08:12.109
+and there's tremendous teamwork at the top of the company which filters down to tremendous teamwork throughout the company and
+
+0:08:12.330,0:08:15.680
+Teamwork is dependent on trusting the other folks
+
+0:08:15.960,0:08:20.359
+To come through with their part without watching them all the time you have to let them
+
+0:08:21.000,0:08:26.209
+Make a lot of decisions, and you have to you have to be run by ideas
+
+0:08:26.730,0:08:30.080
+Not hierarchy the best ideas have to win
+
+0:08:30.480,0:08:36.890
+in an agile feature delivery score each story attaches direct responsibility to one or two individual team members
+
+0:08:37.229,0:08:44.509
+We call it a feature squad because the story backlog zips up to represent the team at delivery of one releasable feature at a time
+
+0:08:45.330,0:08:48.679
+This is a form of mission command that drives productivity and quality
+
+0:08:49.020,0:08:55.340
+But has the disadvantage of impeding the flow of learnings between the squads so in X scale we recommend that chapter meetings
+
+0:08:55.500,0:08:57.890
+popularized by spotify, henrik Nyberg
+
+0:08:59.250,0:09:02.450
+Once a week at a time immediately preceding squad retros all
+
+0:09:02.700,0:09:08.239
+people of a common competency meet all the devs meet with each other and at a separate table all the testers meet and
+
+0:09:08.430,0:09:10.430
+separately all the analysts and so on
+
+0:09:11.820,0:09:17.179
+The chapter meetings all occur simultaneously so the squads are never starved of any particular competency
+
+0:09:17.700,0:09:23.960
+the subsequent squad retros align each squads local improvements to the context of all the squads in the portfolio the
+
+0:09:25.200,0:09:27.979
+product squads are likewise aligned by chapters
+
+0:09:28.920,0:09:35.449
+Each product squad defines the head of a value stream each is responsible for feeding features with BDD
+
+0:09:35.880,0:09:38.480
+specifications to some small number of feature delivery squads
+
+0:09:40.170,0:09:42.170
+Because the members of the product squad
+
+0:09:42.270,0:09:48.020
+Also fulfill BAU functions the product squad isn't 100% resource like the delivery squads
+
+0:09:48.060,0:09:52.669
+It's a virtual team that only exists through a repeating cycle of agile ceremonies
+
+0:09:55.140,0:10:00.949
+Each product squad has a coach and a leader to empower it to make decisions using leadership as a service
+
+0:10:01.170,0:10:07.699
+These two roles work hand-in-hand no matter whether they're providing servant leadership to the product or feature squads in their stream
+
+0:10:09.680,0:10:13.239
+Each feature squad must avoid colliding with its peers
+
+0:10:14.150,0:10:19.599
+system squads decouple feature squad dependencies through decentralized version control and virtualized
+
+0:10:19.850,0:10:23.920
+Environments in order to empower them to integrate asynchronously whenever they like
+
+0:10:25.850,0:10:29.710
+System squads each also identify a pair of certain leaders
+
+0:10:31.190,0:10:38.830
+system squads treat feature squads as customers for their services and also and has service providers for changes to the features of their services and
+
+0:10:39.110,0:10:41.110
+That is DevOps
+
+0:10:42.529,0:10:49.989
+Each system squad also provides subject matter experts to take part in a streams product squad to help define its technical priorities
+
+0:10:50.480,0:10:51.589
+and
+
+0:10:51.589,0:10:54.219
+analytics to quantify the streams bottleneck constraints
+
+0:10:58.000,0:11:04.889
+During the weekly chapter meetings each chapter picks a representative to attend a subsequent meeting of a portfolio squad
+
+0:11:06.040,0:11:11.339
+That's a virtual team that makes decisions about the organization of the portfolio of squads as a whole
+
+0:11:12.340,0:11:15.600
+the portfolio squad also enrolls product leaders and systems leaders
+
+0:11:15.600,0:11:19.379
+And naturally it has its own leader and coach pair to provide it with leadership as a service
+
+0:11:20.710,0:11:28.110
+Because it makes decisions by collaboration and consensus among doers not command and control by middlemen the portfolio squad
+
+0:11:28.390,0:11:31.050
+sharply reduces the collaboration loop limit of its portfolio
+
+0:11:32.380,0:11:36.840
+For this to work you have to respect the Dunbar number. That's a limit on the number of simultaneous
+
+0:11:37.510,0:11:39.900
+face-to-face trust relationships a group to maintain
+
+0:11:41.260,0:11:49.110
+Dunbar was an anthropologist to observe that when this number is exceeded in a tribal society the tribe immediately breaks into to fight each other
+
+0:11:51.210,0:11:57.319
+This number turns out to be about 150 but since people also maintain trust relationships outside their portfolio a
+
+0:11:57.480,0:11:59.480
+Maximum size of a hundred is prudent
+
+0:11:59.730,0:12:06.530
+Indeed jobs applied this limit to the original Macintosh team telling them that if they had to hire anyone beyond that he'd fire someone
+
+0:12:07.380,0:12:08.790
+in
+
+0:12:08.790,0:12:14.419
+Practice we needn't do anything so drastic we can simply split out a stream or two as the kernel of a new portfolio
+
+0:12:15.900,0:12:19.790
+At scale guilds deal with issues that cut across the portfolio's
+
+0:12:19.890,0:12:23.840
+There's a guild for coaches and one for leaders each aligning on Direction error approach
+
+0:12:25.050,0:12:31.340
+Guilds can be established to deal with any repeating cross-cutting concerns like legal compliance technology tracking marketing
+
+0:12:31.740,0:12:37.280
+Environmental or social contexts the cadence of each guild depends on the needs of its membership
+
+0:12:38.670,0:12:45.530
+guild meetings afford far superior communications bandwidth than traditional EPM o or scrum of scrums of scrums
+
+0:12:46.290,0:12:51.889
+The overarching intent of this model is to apply holo key to reduce the portfolio's collaboration loop limit
+
+0:12:52.740,0:12:56.810
+Squad members meet directly in chapters, so the live there is just to
+
+0:12:57.960,0:13:01.879
+the attendance of chapter leaders at the portfolio squad bumps that up to four
+
+0:13:03.640,0:13:08.159
+Four compares very favorably with a Lube limit of 12 we saw in a traditional PMO
+
+0:13:08.160,0:13:13.649
+And that's the quantitative distinction between committee hand offs versus collaboration hand in glove
+
+0:13:15.399,0:13:19.589
+This portfolio model also supports continuous innovation
+
+0:13:22.139,0:13:27.679
+As a value stream matures kano effects inevitably cause diminishing return on investment as
+
+0:13:28.019,0:13:32.029
+A portfolio squad is responsible for maximizing bottom line throughput
+
+0:13:32.029,0:13:35.059
+It can flip any bottleneck stream into innovation mode
+
+0:13:35.060,0:13:40.939
+Or it may refactor squads from the existing streams into a new steel thread stream in innovation mode
+
+0:13:41.759,0:13:47.899
+that mode of work is familiar to us from hackathons 20% time FedEx days and so on
+
+0:13:49.019,0:13:54.859
+The only difference here, is that the XScale innovation mode involves no multitasking versus production
+
+0:13:56.339,0:14:02.599
+The mode continues until the stream has numerically established a viable business case based on the pirate throughput metrics
+
+0:14:02.819,0:14:04.849
+described in our previous x-scale webinars
+
+0:14:07.139,0:14:10.549
+At this point the whole stream flips back into a production mode
+
+0:14:10.980,0:14:17.509
+This way innovation is not the sole prerogative of some separate skunkworks room with a bunch of creatives wearing funny hats
+
+0:14:18.209,0:14:23.659
+The creatives are fully integrated into each value stream to drive it to extra P
+
+0:14:23.970,0:14:26.990
+Now if that's an unfamiliar word you should check out our first webinar
+
+0:14:29.670,0:14:35.360
+This grid illustration of the agile portfolio model is great for understanding a structure of responsibilities
+
+0:14:35.360,0:14:36.559
+But a different layout
+
+0:14:36.559,0:14:37.160
+Helps us
+
+0:14:37.160,0:14:44.660
+see how each squad plays a part in a learning Hauraki that composites all the build measure learn reflective loops into a
+
+0:14:45.120,0:14:46.949
+fully agile
+
+0:14:46.949,0:14:48.660
+organization
+
+0:14:48.660,0:14:55.699
+this is called triple loop learning learning what to deliver to market for maximum impact how to optimize productivity doing that and
+
+0:14:55.889,0:14:57.889
+how to learn how to do these things
+
+0:14:57.990,0:15:03.589
+that that third loop is the meat and potatoes of transforming your enterprise into an agile organization and
+
+0:15:03.750,0:15:10.039
+This will be the subject of the fifth webinar in XScale alliances six part series on the principles of agile
+
+0:15:10.620,0:15:12.620
+organization I
+
+0:15:12.689,0:15:14.689
+Look forward to seeing you next time
