@@ -18,7 +18,7 @@ om net zo wendbaar te worden als haar agile teams.
 
  * _Geen_ grote, allesomvattende raamwerken, [YAGNI].
  * _Geen_ gesloten cursusmaterialen, maar [opensource].
- * **Wel** een lerend ecosysteem van samenwerkende en practicioners en coaches.
+ * **Wel** een lerend ecosysteem van samenwerkende practicioners en coaches.
 
 [Meer ...][XSCALE about]
 
