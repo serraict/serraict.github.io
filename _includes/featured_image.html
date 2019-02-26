@@ -25,7 +25,11 @@
     {% when 'learn' %}
         {% assign featured_image = "https://c1.staticflickr.com/9/8673/15903347764_95f9ebd007_b.jpg" %}
         {% assign image_attribution_url = "https://www.flickr.com/photos/cogdog/15903347764/" %}
-        {% assign attribution = "© Alan Levine (CC 0 Public Domain)" %}  
+        {% assign attribution = "© Alan Levine (CC 0 Public Domain)" %} 
+    {% when 'xscale' %}
+        {% assign featured_image = "/assets/img/xscale-wide.png" %}
+        {% assign image_attribution_url = "https://xscalealliance.org/img/pic02.png" %}
+        {% assign attribution = "© XSCALE Alliance" %}  
     {% else %}
         {% assign featured_image = "https://c1.staticflickr.com/3/2730/4508900823_b32e4279ac_b.jpg" %}
         {% assign image_attribution_url = "https://www.flickr.com/photos/jamesnord/4508900823/" %}
