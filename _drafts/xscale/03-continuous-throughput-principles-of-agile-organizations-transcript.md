@@ -1,9 +1,9 @@
 ---
 layout: post
 category : xscale
-tagline: The Principles of Agile Organization - 1 of 6
+tagline: The Principles of Agile Organization - 3 of 6
 tags : [agile, scaling, descaling, xscale]
-title: Exponential Return - the first principle of agile organization
+title: Continuous Throughput - the third principle of agile organization
 description: 
   An Agile Organization is a pod of dolphins, not a dancing elephant. 
   XSCALE doesn't scale Agile to the organization but de-scales the organization to Agile.
