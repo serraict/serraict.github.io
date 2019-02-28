@@ -2,7 +2,7 @@
 layout: post
 category : xscale
 tagline: The Principles of Agile Organization - 4 of 6
-tags : [agile, scaling, descaling, xscale]
+tags : [agile, scaling, descaling, xscale, xscale-principles]
 title: Autonomous Teams - the fourth principle of agile organization
 description: 
   An Agile Organization is a pod of dolphins, not a dancing elephant. 
