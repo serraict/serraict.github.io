@@ -10,7 +10,7 @@ header : Search this site
     <div class="page-header">
 
         <form action="/search.html" method="get">
-          <input type="text" id="search-box" name="query">
+          <input type="text" id="search-box-inline" placeholder="Search Site" name="query">
           <input type="submit" value="search">
       </form>
   </div>
@@ -31,6 +31,16 @@ header : Search this site
         "category": "{{ post.category | xml_escape }}",
         "content": {{ post.content | strip_html | strip_newlines | jsonify }},
         "url": "{{ post.url | xml_escape }}"
+    },
+    {% endfor %}
+    {% assign search_pages = site.pages |  where: "searchable", true %}
+    {% for page in search_pages %}
+    "{{ page.url | slugify }}": {
+        "title": "{{ page.title | xml_escape }}",
+        "author": "{{ page.author }}",
+        "category": "{{ page.category }}",
+        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+        "url": "{{ page.url | xml_escape }}"
     }
     {% unless forloop.last %},{% endunless %}
     {% endfor %}

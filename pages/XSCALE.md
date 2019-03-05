@@ -1,6 +1,7 @@
 ---
 layout: page
-category : xscale
+category: xscale
+searchable: true 
 title: XSCALE - XBA/XPM coaching traject (NL)
 tagline: XSCALE practicioner training met XSCALE oprichter Peter Merel
 image: "/assets/img/xscale-wide.png"

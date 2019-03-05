@@ -34,6 +34,7 @@
 
   if (searchTerm) {
     document.getElementById('search-box').setAttribute("value", searchTerm);
+    document.getElementById('search-box-inline').setAttribute("value", searchTerm);
 
     // Initalize lunr with the fields it will be searching on. I've given title
     // a boost of 10 to indicate matches on this field are more important.
