@@ -2,6 +2,7 @@
 layout: page
 title: Feedback
 tagline: inspect and adapt!
+searchable: true 
 ---
 
 ### Thank you for helping me improve

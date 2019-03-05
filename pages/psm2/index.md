@@ -2,6 +2,7 @@
 layout: page
 title: PSM2 practice questions
 tagline: ""
+searchable: true 
 ---
 
 I came across 

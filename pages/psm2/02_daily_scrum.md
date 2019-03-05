@@ -3,6 +3,7 @@ layout: page
 title: 02 Daily Scrum
 tagline: PSM2 practice questions
 tags: psm2 psm2-kneafsey
+searchable: true 
 ---
 
 > “The Scrum Master enforces the rule that only Development Team members participate in the Daily Scrum.” 

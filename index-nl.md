@@ -3,6 +3,7 @@ layout: default
 title: Home
 tagline: Marijn van der Zee
 image: /assets/img/logo.png
+searchable: true 
 language: nl
 alternate_languages:
  -

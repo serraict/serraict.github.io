@@ -2,6 +2,7 @@
 layout: page
 title: Pages 
 header: Pages
+searchable: false 
 ---
 {% include JB/setup %}
 

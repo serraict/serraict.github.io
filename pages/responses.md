@@ -2,6 +2,7 @@
 layout: page
 title: Feedback - Responses
 tagline: inspect and adapt!
+searchable: true 
 ---
 
 I collect feedback from all team members I have collaborated with as a Scrum Master.

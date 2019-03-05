@@ -3,6 +3,7 @@ layout: page
 title: 03 Toxic Context
 tagline: PSM2 practice questions
 tags: psm2 psm2-kneafsey
+searchable: true 
 ---
 
 > Is it possible to be agile in an environment where timelines, budget and scope are fixed?

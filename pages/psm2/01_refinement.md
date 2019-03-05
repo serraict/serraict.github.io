@@ -3,6 +3,7 @@ layout: page
 title: 01 Refinement
 tagline: PSM2 practice questions
 tags: psm2 psm2-kneafsey
+searchable: true 
 ---
 
 > Product Backlog refinement is not a mandatory Scrum event. 
