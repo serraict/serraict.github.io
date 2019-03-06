@@ -346,7 +346,7 @@ blockquote {
   background-image: url(/assets/img/openquote.svg);
   background-position: top left;
   background-repeat: no-repeat;
-  background-size: auto 50%;
+  /*background-size: auto 50%;*/
   text-align: center;
 }
 
@@ -356,7 +356,16 @@ blockquote footer, blockquote > :last-child {
 }
 
 blockquote > :last-child:before {
-    content: '\2014 \00A0';
+  content: '\2014 \00A0';
+}
+
+blockquote i {
+  font-size: 80%;
+  color: #777;
+}
+
+blockquote li {
+  list-style-type: none;
 }
 
 .video-container {
