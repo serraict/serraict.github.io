@@ -10,18 +10,39 @@ featured:
   attribution_url: https://xscalealliance.org
 ---
 
-## Over XSCALE
+Ik organiseer een online 
+XSCALE Business Agility en 
+XSCALE Product Management 
+training met Peter Merel, de oprichter van XSCALE Alliance.
 
 XSCALE is als een school dolfijnen, niet als een dansende olifant.
 Waar meerdere agile teams met elkaar samenwerken,
 helpen we organisaties om terug te schalen 
 om net zo wendbaar te worden als haar agile teams.
-
- * _Geen_ grote, allesomvattende raamwerken, [YAGNI].
- * _Geen_ gesloten cursusmaterialen, maar [opensource].
- * **Wel** een lerend ecosysteem van samenwerkende practicioners en coaches.
-
 [Meer ...][XSCALE about]
+
+---
+
+ Wij laten zien dat er betere manieren zijn 
+ om agile organisaties te ontwikkelen 
+ door in de praktijk aan te tonen dat dit werkt 
+ en door anderen ermee te helpen. 
+
+ Daarom verkiezen we ...
+ 
+  * [Autonomie en alignment] <i>boven command & control</i>
+  * [Throughput accounting] <i>boven cost accounting</i>
+  * [Decentraal eigenaarsschap] <i>boven functionele silo's</i>
+  * [Je Gaat Het Niet Nodig Hebben][YAGNI] <i>boven Eerst een Groot Ontwerp ("EeGO")</i>
+  * [Zichzelf verbreidende transformatie] <i>boven de Zorvuldig Geplande Transitie Naar Agile</i>
+  * Een [lerend ecosysteem] van practicioners en praktiserende coaches <i>boven agile schalingsraamwerken en een hiërarchie van trainers</i>
+ 
+ <i>Hoewel wij waardering hebben voor al hetgeen aan de rechterkant staat vermeld,
+ hechten wij méér waarde aan wat aan de linkerzijde wordt genoemd. </i>
+
+ -- [Descaling Manifesto]
+
+---
 
 ## Versneld coach traject
 
@@ -90,5 +111,11 @@ Ik ben geïnteresseerd in de XSCALE practicioner training voor ervaren agilists.
   [XSCALE about]: https://xscalealliance.org/#about
   [XBA]: https://www.linkedin.com/pulse/exponential-business-agility-xscale-practice-pattern-language-merel
   [XPM]: https://www.linkedin.com/pulse/exponential-product-management-xscale-language-peter-merel
-  [YAGNI]: https://martinfowler.com/bliki/Yagni.html
   [opensource]: https://www.youtube.com/watch?v=J7YNAUYwcQw&list=PLcF9BigzPGr0Cmfe_rT1qyNlQtM5ekUtn&index=6
+  [Autonomie en alignment]: https://www.linkedin.com/pulse/leadership-service-peter-merel/
+  [Descaling Manifesto]: https://xscalealliance.org/#manifesto
+  [Throughput accounting]: https://www.linkedin.com/pulse/tragedy-pmo-peter-merel/
+  [Decentraal eigenaarsschap]: http://www.extremeprogramming.org/rules/collective.html
+  [YAGNI]: https://martinfowler.com/bliki/Yagni.html
+  [Zichzelf verbreidende transformatie]: https://www.linkedin.com/pulse/fixed-price-agile-transformation-peter-merel/
+  [lerend ecosysteem]: https://www.linkedin.com/pulse/samurai-tea-master-peter-merel/
