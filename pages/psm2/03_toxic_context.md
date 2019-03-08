@@ -49,6 +49,11 @@ from "doing agile".
 
 Summarizing: possible, yes, but extremely difficult and I would strongly advise against using an agile approach in this type of context.
 
+
 ---
 
-{% include JB/comments %}
+Questions? Feel free to [contact me] or leave your message below.
+
+{% include contact-form-inline.html %}
+
+---

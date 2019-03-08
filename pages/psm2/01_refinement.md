@@ -34,4 +34,10 @@ while staying true to inspection, adaptation and agile principles.
 
 ---
 
-{% include JB/comments %}
+Questions? Feel free to [contact me] or leave your message below.
+
+{% include contact-form-inline.html %}
+
+---
+
+ [contact me]: ../contact

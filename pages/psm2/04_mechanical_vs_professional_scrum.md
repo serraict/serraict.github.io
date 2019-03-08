@@ -40,6 +40,11 @@ this courage, perseverance and discipline
 to inspect the tough problems and adapt to them 
 is what shows the truly professional Scrum Team.
 
+
 ---
 
-{% include JB/comments %}
+Questions? Feel free to [contact me] or leave your message below.
+
+{% include contact-form-inline.html %}
+
+---

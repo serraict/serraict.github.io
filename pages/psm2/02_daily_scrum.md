@@ -33,6 +33,11 @@ and often find that the dev team aligns with the PO quickly during the daily.
 It is also a good moment for the PO to ask the team some minor questions
 or align wrt meetings with customers or users requiring involvement of the Dev Team.
 But strictly speaking this should not be part of the daily scrum.
+
 ---
 
-{% include JB/comments %}
+Questions? Feel free to [contact me] or leave your message below.
+
+{% include contact-form-inline.html %}
+
+---
