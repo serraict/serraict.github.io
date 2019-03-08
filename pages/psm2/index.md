@@ -9,7 +9,9 @@ I came across
 [these preparation questions on Simon Kneafsey's blog] 
 for the PSM2 exam.
 
-> Please note: the PSM2 ecam has since been succeeded by the PSM3 exam.
+<div class="alert alert-info">
+Note: as of July 26th 2016, this certification was <a href="https://blog.scrum.org/introducing-new-psm-assessment-family/">renamed to PSM III</a>.
+</div>
 
 Here are my answers, please provide your feedback below or contact me.
 

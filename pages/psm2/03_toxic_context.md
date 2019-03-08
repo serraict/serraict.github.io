@@ -6,6 +6,10 @@ tags: psm2 psm2-kneafsey
 searchable: true 
 ---
 
+<div class="alert alert-info">
+Note: as of July 26th 2016, this certification was <a href="https://blog.scrum.org/introducing-new-psm-assessment-family/">renamed to PSM III</a>.
+</div>
+
 > Is it possible to be agile in an environment where timelines, budget and scope are fixed?
 
 Yes it is. Agile is about individuals and interactions, working software, customer collaboration and adapting to change.

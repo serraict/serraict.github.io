@@ -6,6 +6,10 @@ tags: psm2 psm2-kneafsey
 searchable: true 
 ---
 
+<div class="alert alert-info">
+Note: as of July 26th 2016, this certification was <a href="https://blog.scrum.org/introducing-new-psm-assessment-family/">renamed to PSM III</a>.
+</div>
+
 > “The Scrum Master enforces the rule that only Development Team members participate in the Daily Scrum.” 
 > – The Scrum Guide.
 >
