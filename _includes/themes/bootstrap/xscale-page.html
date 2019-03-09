@@ -1,0 +1,44 @@
+{% include featured_image.html %}
+
+<div class="container">
+  <div class="page-header">
+    <h2>
+      {{ page.title }}
+    </h2>
+    {% if page.tagline %}
+    <h3>
+      <small>
+        {{page.tagline}}
+      </small>
+    </h3>
+    {% endif %}
+
+  </div>
+
+  <div class="row post-full">
+    <div class="col-md-8">
+
+      <div class="content">
+        {{ content }}
+      </div>
+
+    </div>
+
+    <div class="col-md-4 blog-sidebar well">
+
+      {% include share.html %}
+
+      {% capture my_include %}{% include descaling-manifesto-nl.md %}{% endcapture %}
+      {{ my_include | markdownify }}
+
+
+
+      <img class="center-block img-circle" 
+            src="/assets/img/xscale.png" 
+            alt="XSCALE is like a pod of dolphins, not a dancing elephant"
+            width="150" height="150">
+
+    </div>
+  </div>
+</div>
+
