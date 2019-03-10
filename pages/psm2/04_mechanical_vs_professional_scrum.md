@@ -52,3 +52,5 @@ Questions? Feel free to [contact me] or leave your message below.
 {% include contact-form-inline.html %}
 
 ---
+
+  [contact me]: {{ site-url }}/pages/contact.html

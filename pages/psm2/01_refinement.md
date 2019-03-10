@@ -45,4 +45,4 @@ Questions? Feel free to [contact me] or leave your message below.
 
 ---
 
- [contact me]: ../contact
+  [contact me]: {{ site-url }}/pages/contact.html
