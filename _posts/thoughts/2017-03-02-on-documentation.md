@@ -68,20 +68,24 @@ To help me focus on the audience and their purpose,
 I add the target reader and their goal above the title of the section.
 It helps the reader to determine if he wants to read the section:
 
---- 
+<div class="well"> 
 
-*Target readers:* Developers, Operations
+<p>
+<i>Target readers:</i> Developers, Operations
+</p>
 
-*Goal:* Get an overview of our software, 
+<p>
+<i>Goal:</i> Get an overview of our software, 
 its main subsystems and their relations.
+</p>
 
-***Logical View***
+<h3><small>Logical View</small></h3>
 
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
 sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
 Ut enim ad minim veniam, ...
-
----
+</p>
 
 All in all, it is critical to write the right amount of documentation.
 By keep your documentation light, but sufficient,
