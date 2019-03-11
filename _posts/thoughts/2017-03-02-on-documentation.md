@@ -87,6 +87,8 @@ sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Ut enim ad minim veniam, ...
 </p>
 
+</div>
+
 All in all, it is critical to write the right amount of documentation.
 By keep your documentation light, but sufficient,
 it will be more accessible and more useful to your readers.
