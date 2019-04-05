@@ -11,6 +11,7 @@ title: Developers should code
 > I think a lot of people are afraid of
 > writing code and then they go and kind
 > of talk about it ... 
+> This is a bogus edit. Bad editor!
 > "oh I first have to write my UML diagrams" ...
 > Wrong! 
 > Just open the freaking editor and start coding.
