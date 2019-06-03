@@ -75,15 +75,16 @@ We'll run at least one session per week.
 
 ### Entry criteria
 
-Participants will have to meet these entry criteria to join a study group.
+All participants have to be experienced and knowledgeable.
+You will have to meet the following entry criteria to join a study group:
 
 Our measure for experience is simple: 
 you have facilitated over 20 Sprint Retrospectives OR 
 you have over three years experience 
-as a developer, Product Owner, Scrum Master or manager in an agile context.
+as a developer, Product Owner, Scrum Master or manager in a Scrum context.
 
-Our measure of your knowledge level is simple as well: 
-you have passed on of the [Scrum.org exams].
+Our measure of your knowledge is simple: 
+you have passed one of the [Scrum.org exams].
 <small>If you have passed another exam, 
 like Scrum Alliance's CSM, 
 please contact me for a brief intake.</small>
@@ -94,9 +95,15 @@ Costs are €90 per 90 minute session, per participant.
 
 Discounts apply for employees of my clients, please contact me directly.
 
-Discount of 30% for participants from outside the top 30 [countries by GDP (PPP) per capita], per listing of the IMF.
+Discount of 30% applies for participants 
+from outside the top 30 [countries by GDP (PPP) per capita], 
+per listing of the IMF.
 
-Discount of 50% for participants from outside the top 50 [countries by GDP (PPP) per capita], per listing of the IMF. 
+Discount of 50% applies for participants 
+from outside the top 50 [countries by GDP (PPP) per capita], 
+per listing of the IMF.
+
+You can not join this group for free.
 
 ### Register
 
