@@ -6,10 +6,15 @@ tags: psm2 psm2-kneafsey
 searchable: true 
 ---
 
-<div class="alert alert-info">
+<small>
 Note: as of July 26th 2016, this certification was <a href="https://blog.scrum.org/introducing-new-psm-assessment-family/">renamed to PSM III</a>.
-</div>
+</small>
 
+<div class="alert alert-success">
+  Preparing for an advanced Scrum Master exam? 
+  Consider joining one of my 
+  <a href="{{ site-url }}/pages/ScrumStudyGroup">Scrum study groups.</a>
+</div>
 
 > Product Backlog refinement is not a mandatory Scrum event. 
 > Why is this and what is Product Backlog refinement?
@@ -35,7 +40,6 @@ in balancing focus on sprint execution and doing just enough "looking ahead".
 A distinct event is not needed, hence not prescribed,
 keeping Scrum as empty as possible
 while staying true to inspection, adaptation and agile principles.
-
 
 ---
 
