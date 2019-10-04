@@ -2,24 +2,29 @@
 layout: post
 category : scrum-toolbox
 tagline: Help your teams grow and grow your organization at the same time
-tags : [scrum, agile, team, skills]
+tags : [scrum, agile, team, skills, maturity-model]
 title: Assess your team's growth
 audience: agile teams, managers supporting agile teams
----
+image: "https://visualhunt.com/photos/7/grapes-palatinate-wine-autumn-vineyard.jpg?s=L"
+featured:
+  attribution: CC0 1.0, Photo on Visual hunt
+  attribution_url: https://visualhunt.com/re6/7f52951b
+--- 
+
 {% include JB/setup %}
 
 The journey of our team's growth starts with the space under our feet.
 In order for us to grow as a team, 
 it helps to see where we're currently at.
-
-Some teams find it helpful to use a model or tool aid them in this assessment.
+Some teams find it helpful to use a measurement tool aid them 
+in assessing their health or growth.
 
 <!--
 Regular inspection using such a tool might even show the growth we've been through,
-like the stripes marking your length on your chilhood bedroom doorpost.
+like the stripes marking your length on your childhood bedroom door post.
 -->
 
-When we apply such a tool as a team,
+When we apply such a tool to assess our growth,
 the tool serves as a lens to look at ourselves.
 When looking through a lens, we see both ourselves, and the lens.
 Using the lens colors and distorts our view on ourselves.
@@ -28,16 +33,14 @@ When using a lens with the aim to see opportunities for growth,
 then by looking through this lens,
 we see the desired direction of growth with the lens' distortion.
 
+Like the catch wires guiding the growth of a grapevine,
+our lens will guide the growth of our team.
+
 If we aim to be an agile, self-organizing team,
-then the lens' distortions should be towards agility and self-organization.
+then our lens' distortions should be towards agility.
 The agility focus of the lens reveals itself by embracing ambiguity and uncertainty,
 and by trusting people's intrinsic desire to improve and to grow,
-and their ability to skillfully inspect their growth themselves.
-
-> Tell me how you measure me, 
-> and I will tell you how I will behave.
->
-> Eliyahu M. Goldratt, the Haystack Syndrom, 1990
+and their ability to skillfully inspect and adapt accordingly.
 
 We measure what we see. 
 We get what we measure. 
@@ -46,21 +49,29 @@ Our lens should reveal the proper directions of growth for our team
 and for the organization around us,
 at the right level of detail.
 
+> Tell me how you measure me, 
+> and I will tell you how I will behave.
+>
+> Eliyahu M. Goldratt, the Haystack Syndrom, 1990
+
 Our growth is messy, ambiguous and unpredictable.
 Most of the time, it is not very clear where we are 
 and how we'll get where we want to be.
 Like in agile product development, 
-we rely on skillful inspectors to continuusly inspect our team's growth and adapt accordingly.
+we rely on skillful inspectors 
+to continuously inspect our team's growth and adapt accordingly.
 We, the team members are these skillful inspectors.
 
-There is not a single detailed lens that clearly unveils the next step for each and every team at every time.
+There is not a single lens that clearly unveils all that matters 
+for each team at every time moment in time.
 Any tool suggesting such a thing is in fact blinding us with clarity and focus,
-impeding us to see the things that really matter to us.
+impeding us to see the things that really matter.
 
 What we see through the lens 
 is what we'll measure.
 And that will be the direction in which we grow.
 
+See the lens, and then use it wisely.
 
  [Squad Health Check]: https://labs.spotify.com/2014/09/16/squad-health-check-model/
  [Impose Agile]: https://ronjeffries.com/articles/018-01ff/imposition/
