@@ -1,9 +1,9 @@
 ---
 layout: post
 category : scrum-toolbox
-tagline: Help your teams grow and grow your organization at the same time
+tagline: We measure what we see, we get what we measure, so we have to see the right things.
 tags : [scrum, agile, team, skills, maturity-model]
-title: Assess your team's growth
+title: Assess Your Team's Growth
 audience: agile teams, managers supporting agile teams
 image: "https://visualhunt.com/photos/7/grapes-palatinate-wine-autumn-vineyard.jpg?s=L"
 featured:
