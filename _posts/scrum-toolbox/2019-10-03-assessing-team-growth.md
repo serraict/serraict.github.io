@@ -75,6 +75,7 @@ See the lens, and then use it wisely.
 
  [Squad Health Check]: https://labs.spotify.com/2014/09/16/squad-health-check-model/
  [Impose Agile]: https://ronjeffries.com/articles/018-01ff/imposition/
+ [Measure Up]: http://www.leanessays.com/2003/01/measure-up.html
 
 
 <!--
