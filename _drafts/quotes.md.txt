@@ -1,0 +1,3 @@
+a thinking change that comes along with test drive development is ... when you think of a feature the next thing is: how am I going to test for that?
+And if you haven't made that transition yet ... it's a biggie.
+-- Kent Beck, https://www.youtube.com/watch?v=ZrHBVTCbcE0
