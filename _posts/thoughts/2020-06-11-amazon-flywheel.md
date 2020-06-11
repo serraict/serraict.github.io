@@ -16,6 +16,11 @@ For customers, more sellers means a broader, more available selection,
 leading to a higher customer satisfaction, resulting in growth.
 Amazon can leverage that growth to lower costs and offer better pricing.
 
+Amazon's belief is modeled below. Kick-off the model by adding a seller.
+What happens to Amazon's growth? 
+
+<iframe width="800" height="440" frameborder="0" src="http://www.serraict.com/assets/loopy/v1.1/index.html?embed=1&data=[[[11,645,429,0,%22Growth%22,3],[12,834,401,0,%22Customer%2520Experience%22,1],[13,729,605,0,%22Traffic%22,1],[14,507,598,0,%22Sellers%22,1],[15,651,257,0,%22Selection%22,1],[16,271,86,0.83,%22Costs%22,0],[17,845,88,0.83,%22Prices%22,0]],[[12,13,31,1,0],[13,14,19,1,0],[15,12,53,1,0],[12,11,4,1,0],[14,15,20,1,0],[11,16,53,-1,0],[16,17,36,1,0],[17,12,73,-1,0]],[[363,485,%22More%2520sellers%2520improve%2520selection%250Aby%2520backfilling%2520Amazon's%2520offerings%250Aand%2520offering%2520new%2520items.%22]],17%5D"></iframe>
+
 > [...] this is how we think about growing our company.
 > We look for virtuous cycles everywhere: things
 > that are complete closed-loop and that,
@@ -23,11 +28,6 @@ Amazon can leverage that growth to lower costs and offer better pricing.
 > [lets] the flywheel spins faster and faster.
 >
 > Jeff Wike, [Our Virtuous Cycle]
-
-Amazon's belief is modeled below. Kick-off the model by adding a seller.
-What happens to Amazon's growth? 
-
-<iframe width="800" height="440" frameborder="0" src="http://localhost:4000/assets/loopy/v1.1/index.html?embed=1&data=[[[11,645,429,0,%22Growth%22,3],[12,834,401,0,%22Customer%2520Experience%22,1],[13,729,605,0,%22Traffic%22,1],[14,507,598,0,%22Sellers%22,1],[15,651,257,0,%22Selection%22,1],[16,271,86,0.83,%22Costs%22,0],[17,845,88,0.83,%22Prices%22,0]],[[12,13,31,1,0],[13,14,19,1,0],[15,12,53,1,0],[12,11,4,1,0],[14,15,20,1,0],[11,16,53,-1,0],[16,17,36,1,0],[17,12,73,-1,0]],[[363,485,%22More%2520sellers%2520improve%2520selection%250Aby%2520backfilling%2520Amazon's%2520offerings%250Aand%2520offering%2520new%2520items.%22]],17%5D"></iframe>
 
 Amazon deems this a "virtuous" cycle, because it leads to fast, reinforcing growth.
 
