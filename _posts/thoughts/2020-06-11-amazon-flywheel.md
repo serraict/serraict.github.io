@@ -4,6 +4,9 @@ category : thoughts
 tagline: "Customer experience and growth in a reinforcing positive-feedback loop"
 tags : [visualized, loopy, management]
 title: Amazon's Virtuous Cycle
+image: '/assets/img/blog/loopy.gif'
+featured:
+  attribution: © Marijn van der Zee (CC BY)
 ---
 
 {% include JB/setup %}
