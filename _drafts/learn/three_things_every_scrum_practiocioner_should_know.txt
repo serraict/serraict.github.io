@@ -1,0 +1,40 @@
+https://www.meetup.com/Scrum-Caretaker-Get-togethers/events/270549050/
+
+How do mobbing teams task their PBIs differently from swarming teams?
+
+
+
+
+
+
+# Automating Agility
+
+Summary: Automated delivery will speed up process of becoming more agile
+for teams take a collaborative and retrospective approach to delivering Done increments.
+They will discover which parts from Scrum they need next, because the rapid feedback loop made possible by automated delivery is showing them what to improve.
+
+> But the tools often set the rules, so combining such a system with Scrum can positively transform a team and the way they build product.
+
+When taking on such an incremental adoptation of scrum supported by automated delivery, what does automated delivery reveal to teams that go through quick positive growth.
+And on the contrary, what are misleading signals an automated delivery system might raise?
+
+# Rethinking Bugs, by Rich
+
+Summary: Bugs are just an example of development work a team has to do to deliver the next Done increment. It doesn't help calling the work a different name, so let's not do it.
+
+> Scrum doesn’t define anything more specific than a PBI as a container with a description, value, and estimate. Whether an item is a “happy” thing or a “sad” thing, it’s still work that is deemed valuable enough by the Product Owner to be performed sooner or later.
+
+
+# The Five Stages of Product Backlog Item Sizing, by Len
+
+# Anatomy of an Impediment, by Len
+
+An impediment comes in three forms:
+
+ 1. Anything Constricting Flow or Constraining Pull in the System
+ 2. Anything Causing Team Tension to Rise Beyond Constructive Conflict
+ 3. Anything Keeping a Team from Self-Healing
+
+> To conclude, every impediment has a story and a deep-rooted origin in something broken within your team or organization. In fact, the current state of your organizational culture is often revealed through your list of impediments.
+
+[ ] Create a list of impediments with the team.
