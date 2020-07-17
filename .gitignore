@@ -2,6 +2,5 @@ _site/
 .sass-cache/
 Gemfile.lock
 *.sublime-workspace
-.ruby-version
 
 .DS_Store
