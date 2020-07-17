@@ -4,7 +4,7 @@ This is my company website and blog.
 
 ### Prerequisites
 
-Ruby 2.3
+Ruby 2.5
 
 ### Dev
 
