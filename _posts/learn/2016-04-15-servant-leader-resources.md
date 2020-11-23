@@ -8,7 +8,7 @@ title: Servant Leadership Resources
 
 {% include JB/setup %}
 
-In my previous post I listed my personal take in servant leadership.
+In my [previous post]({% post_url /thoughts/2016-04-13-what-is-a-servant-leader-anyway %}) I listed my personal take in servant leadership.
 In this post I'll briefly recap the resources 
 I used and how I found them to be helpful.
 
