@@ -1,0 +1,56 @@
+Connections [5]
+---------------
+
+(break out in threesomes)
+why do you think self-organization is important ...
+
+ ... to the people in the development team?
+ ... to the product
+ ... to the larger organization that the team is part of?
+
+Concepts [5]
+------------
+
+> The best requirements, architectures and designs emerge from self-organizing teams.
+>
+> Agile Manifesto, principle #11
+
+Why? Short answer: Conway's law.
+
+what is needed for a team to self-organize within a larger organization?
+
+ 1. a goal, aligned with the goals of the larger organization
+ 1. clear team boundaries to self-organize within
+
+Helpful goals and boundaries can only emerge when the team interacts with its environment.
+It is your role as a Scrum Master to make sure that this two-way conversation takes place and to facilitate it where necessary.
+
+Concrete practice [20+n*5]
+--------------------------
+
+In groups of three, work through the self-organization worksheet.
+
+Prepare a three minute teach-back to the whole group.
+
+ * What is your team's goal and how is it aligned with the larger organization?
+ * Which boundaries are in place for your team to self-organize within?
+ * Map the boundaries you identify on the following scales:
+   * harmful to the team ... helpful to the team
+   * harmful to the larger org ... helpful to the larger org
+
+What can you learn from this map?
+
+Every group does a three minute teach back to share their biggest learning(s).
+
+Conclusion [5]
+--------------
+
+What is the most important thing you take away from this session?
+
+What is the one thing to want to do with the people in your team's context to improve their collaboration with the Scrum Team?
+
+
+---
+
+
+https://tobiasmayer.uk/works/the-peoples-scrum/ - chapter 3
