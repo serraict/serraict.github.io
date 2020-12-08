@@ -53,7 +53,9 @@ And I've got to learn to do some value stream mapping.
 
 Speed is the absence of waste. Measuring and improving cycle time is a great method to eliminate waste. We know Little's law:
 
->  WIP = arrival (or completion) rate x cycle time
+> WIP = arrival (or completion) rate x cycle time
+>
+> [Little's Law]
 
 Little's law holds for stable systems. Things known to make systems *unstable* are maximizing utilization (Google introduces 20% idle time for their engineers, resulting in "low" utilization but better cycle times) and increase variation (e.g. a "10 items or less" queue in  a super market lowers variation).
 
@@ -84,3 +86,4 @@ Interesting system-level measurements are:
   [safari-books]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/0321437381
   [cover]: http://my.safaribooksonline.com/static/201510-8005-informit/images/0321437381/0321437381_s.jpg
   [safari-books-agile-toolkit]: http://my.safaribooksonline.com/book/software-engineering-and-development/agile-development/0321150783
+  [Little's Law]: https://en.wikipedia.org/wiki/Little%27s_law
