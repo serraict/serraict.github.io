@@ -91,8 +91,7 @@ alternate_languages:
         </div>
         <h2><a href="blog.html">Blog</a></h2>
         <p>Mijn gedachten over Agile Software Development, hoofdzakelijk in het Engels.</p>
-      </div>    
-    
+      </div>      
     </div>
   </div>
 </div>
@@ -136,19 +135,12 @@ alternate_languages:
       <p>At this point in time, my professional focus is on coaching and guiding software teams, but I do like to deliver value as an agile developer from time to time.
       I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
       -->
-      <p>U kunt mij inhuren als Scrum Master om uw agile teams te dienen/leiden, 
-      uw team naar het volgende niveau te brengen
-      en uw organisatie te helpen aanpassen aan agile werkwijzen 
-      en het iteratief en incrementeel opleveren van waardevolle software.
-      Ik ben een XSCALE Product Management Coach en 
-      een PSM III gecertificeerd Scrum Master. Ik houd van Scrum 
-      en geïnteresseerd om binnen elk agile raamwerk met teams aan de slag te gaan.
+      <p>
+      Ik ben niet langer beschikbaar als freelance Scrum Master of coach.
+      Ik ben werkzaam als Chief Transparency Officer en lijn manager ICT en Besturing bij Logiqs.
       </p>
-      <p>Op dit moment ligt mijn professionele focus op het begeleiden van software teams,
-      maar ik houd ervan om van tijd tot tijd waardevolle software te bouwen.
-      Ik ben een professioneel Scrum ontwikkelaar, op mijn gemak in .NET, JavaScript en Python.
-      Als ontwikkelaar ben ik een kritische, analytische en creatieve teamspeler,
-      met een passie voor kwalitatief hoogwaardige code, geautomatiseerd testen en het schrijven van documentatie.        
+      <p>
+      Ik ben nog steeds zeer geïnteresseerd in agile software ontwikkeling en Scrum. Voor een conversatie over deze onderwerpen kunt u mij vinden op LinkedIn, of per email.
       </p>
       <p class="text-center">
         <a href="https://www.scrum.org/User-Profile/userId/121566"
