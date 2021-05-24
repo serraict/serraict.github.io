@@ -20,7 +20,6 @@ alternate_languages:
 <div class="carousel-inner" role="listbox">
 
   <div class="item active">
-
     <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
     <div class="carousel-caption">
       <h1>Growing great teams</h1>
@@ -131,7 +130,6 @@ alternate_languages:
 
 <a id="Availability"></a>
 
-{% include board.html %}
 
 <div class="row about">
 <div class="col-md-12">
@@ -141,23 +139,13 @@ alternate_languages:
     <small>How I can help you</small>
   </h1>
   <p>
-    You can hire me as an Agile Coach or Scrum Master 
-    to serve-slash-lead your Scrum team, 
-    take your agile teams to the next level 
-    and help your organization adapt to agile software delivery.
-    I am an XSCALE Product Management Coach
-    and PSM III certified Scrum Master. I love Scrum 
-    and am curious to work with any agile software delivery team.
+    I'm no longer availabe as a freelance Scrum Master or coach.
+    Currently, I'm employed by Logiqs BV as Chief Transparency Officer and line manager for the IT & Control department.
   </p>
   <p>
-    At this point in time, my professional focus 
-    is on coaching and guiding software teams, 
-    but I do like to deliver value as an agile developer from time to time.
-    I am a professional Scrum developer, 
-    comfortable in .NET, JavaScript and Python. 
-    As a developer, I am a critical, analytical and creative team player 
-    with a passion for high quality code, 
-    automated testing and writing documentation.
+    I'm still very much interested in agile software development and Scrum. 
+    If you'd like to start a conversation around these topics,
+    feel free to reach out to me on LinkedIn or by email!
   </p>
   <p class="text-center">
     <a href="https://www.scrum.org/User-Profile/userId/121566"
@@ -168,6 +156,8 @@ alternate_languages:
   </p>
 </div>
 </div>
+
+{% include board.html %}
 
 <div class="divider"></div>
 

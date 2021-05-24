@@ -19,15 +19,12 @@ alternate_languages:
   </ol>
    -->  
   <div class="carousel-inner" role="listbox">
-
     <div class="item active">
-
       <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
       <div class="carousel-caption">
         <h1>Geweldige teams helpen groeien</h1>
       </div>
     </div>
-
     <div class="item">
        <img src="assets/img/stock/header_desktop.jpg"
              alt="Serra ICT Diensten">
@@ -35,14 +32,12 @@ alternate_languages:
         <h1>Waardevolle software realiseren</h1>
       </div> 
    </div>
-    
     <div class="item">
         <img src="/assets/img/stock/header_shadow.jpg" alt="Serra ICT Diensten">
       <div class="carousel-caption">
         <h1>Geweldige teams helpen groeien</h1>
       </div>
     </div>
-
     <div class="item">
         <img src="assets/img/stock/header_connect.jpg"
              alt="Serra ICT Diensten">
@@ -50,7 +45,6 @@ alternate_languages:
         <h1>Waardevolle software realiseren</h1>
       </div>
     </div>
-    
   </div>
   <!-- 
   <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
@@ -67,7 +61,6 @@ alternate_languages:
 <div class="marketing header">
   <div class="container marketing">
     <div class="row">
- 
       <div class="col-lg-4">
         <div class="circle">
           <a href="#Services" class="scroll-to">
@@ -77,8 +70,7 @@ alternate_languages:
         <h2><a href="#Services" class="scroll-to">Diensten</a></h2>
         <p>Ik help geweldige teams groeien en
            waardevolle software opleveren.</p>
-      </div>
-         
+      </div>      
       <div class="col-lg-4">
         <div class="circle">
           <a href="#Marijn" class="scroll-to">
@@ -91,7 +83,6 @@ alternate_languages:
         <p>Scrum Master, agile ontwikkelaar, pragmatische student, teamspeler, coach. 
            Dat ben ik.</p>
       </div>
-
       <div class="col-lg-4">
         <div class="circle">
           <a href="{{ BASE_PATH }}/blog.html">
