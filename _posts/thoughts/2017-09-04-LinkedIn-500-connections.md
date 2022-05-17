@@ -134,7 +134,7 @@ Let's [connect on LinkedIn](https://www.linkedin.com/in/marijnvanderzee)
   [what happens]: https://www.linkedin.com/pulse/what-happens-when-you-reach-500-connections-linkedin-madison-mussio
   [Adrian]: http://www.linkedin.com/in/adriantamplaru
   [Yves Hanoulle]: https://www.linkedin.com/in/yveshanoulle/
-  [guide]: https://impactspheres.co/review-and-update-your-linkedin-profile-81dd023538ae
+  [guide]: https://docs.google.com/document/d/17t0hatTg_gFPSaoWF3aBmZBClIpLqaihJgCuL6Zsk9Y/edit?usp=sharing
 
 
 
