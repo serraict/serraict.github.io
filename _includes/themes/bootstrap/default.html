@@ -16,6 +16,8 @@
       <script src="{{ ASSET_PATH }}/resources/respond/Respond.min.js"></script>
     <![endif]-->
 
+    <script src="{{ BASE_PATH }}/assets/themes/bootstrap/resources/bootstrap/js/bootstrap.bundle.min.js"></script>
+
     <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
     <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
     {% include hreflang %}
@@ -65,78 +67,87 @@
         </div>
     </nav>
 
-      {{ content }}
+    {{ content }}
 
-<div class="footer-divider"></div>
-<div class="footer">
-    <div class="container">
-      <div class="row">
-        <div class="col-md-2">
-          <address>
-            Serra ICT Diensten<br>
-            Marijn van der Zee<br>
-            Hugo de Grootstraat 58<br>
-            2613 TW Delft<br>
-            <abbr title="Phone">T:</abbr> +31 (0)6 387 414 82<br>
-            <abbr title="Chambre of Commerce">CoC:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
-            <br>
-          </address>
+    <div class="footer-divider"></div>
+
+    <div class="footer">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2">
+                    <address>
+                        Serra ICT Diensten<br>
+                        Marijn van der Zee<br>
+                        Hugo de Grootstraat 58<br>
+                        2613 TW Delft<br>
+                        <abbr title="Phone">T:</abbr> +31 (0)6 387 414 82<br>
+                        <abbr title="Chambre of Commerce">CoC:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
+                        <br>
+                    </address>
+                </div>
+                <div class="col-md-10">
+                    {% include banners/all-online-profiles-bar.html %}
+                </div>
+            </div>
         </div>
-        <div class="col-md-10">
-          {% include banners/all-online-profiles-bar.html %}
+    </div>
+
+    <div>
+        <div class="container">
+            <footer class="page-footer text-center">
+                <p> 
+                    &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
+                    , design by <a href="http://www.dtpublishing.nl/">dtpublishing.nl</a>
+                </p>
+                <p>
+                    powered by
+                    <a href="https://jekyll-bootstrap-3.github.io/" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
+                    and <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>          
+                </p>
+                <p>
+                    <a href="{{ BASE_PATH }}/pages/attributions.html">Attributions</a>
+                    <a href="{{ BASE_PATH }}/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and conditions</a>
+                </p>
+                <p class="text-center">
+                    <a href="https://validator.w3.org/check?uri=referer">
+                        <img src="https://www.w3.org/Icons/valid-html40" alt="Valid XHTML 4.0!"  height="31" />
+                    </a>
+                </p>
+                <p>
+                    <a href="https://travis-ci.org/serraict/serraict.github.io">
+                        <img src="https://travis-ci.org/serraict/serraict.github.io.svg?branch=master" alt="Build Status" />
+                    </a>
+                </p>
+            </footer>
         </div>
-      </div>
     </div>
-</div>
-<div>
-    <div class="container">
-      <footer class="page-footer text-center">
-        <p> 
-          &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-          , design by <a href="http://www.dtpublishing.nl/">dtpublishing.nl</a>
-        </p>
-        <p>
-          powered by
-          <a href="https://jekyll-bootstrap-3.github.io/" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
-          and <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>          
-        </p>
-        <p>
-          <a href="{{ BASE_PATH }}/pages/attributions.html">Attributions</a>
-          <a href="{{ BASE_PATH }}/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and conditions</a>
-        </p>
-        <p class="text-center">
-          <a href="https://validator.w3.org/check?uri=referer">
-          <img src="https://www.w3.org/Icons/valid-html40"
-               alt="Valid XHTML 4.0!" 
-               height="31" />
-          </a>
-        </p>
-        <p>
-          <a href="https://travis-ci.org/serraict/serraict.github.io">
-          <img src="https://travis-ci.org/serraict/serraict.github.io.svg?branch=master" 
-               alt="Build Status" />
-          </a>
-        </p>
-      </footer>
-    </div>
-</div>
 
     <script src="{{ BASE_PATH }}/assets/themes/bootstrap/resources/jquery/jquery.min.js"></script>
-    <script src="{{ BASE_PATH }}/assets/themes/bootstrap/resources/bootstrap/js/bootstrap.min.js"></script>
     <script src="{{ BASE_PATH }}/assets/themes/bootstrap/resources/clipboard/clipboard.min.js"></script>
 
     <script type="text/javascript">
-      $(".scroll-to").click(function() {
-          var target = $(this).attr('href');
-          $('html, body').animate({
-              scrollTop: $(target).offset().top
-          }, 2000);
-      });
+        const scrollTo = document.querySelector(".scroll-to");
 
-      $(function () {
-        $('[data-toggle="tooltip"]').tooltip();
-        new Clipboard('.btn');
-      })
+        scrollTo?.addEventListener('click', function(e) {
+            // Prevent the page from jumping.
+            e.preventDefault();
+
+            let target = document.querySelector(this.getAttribute('href'));
+            let offset = target.getBoundingClientRect().top + window.scrollY - 100;
+
+            window.scrollTo({
+                top: offset,
+                behavior: "smooth"
+            });
+        });
+
+        document.addEventListener('DOMContentLoaded', function () {
+            let tooltipTriggerList = document.querySelectorAll('[data-bs-toggle="tooltip"]');
+            let tooltipList = [...tooltipTriggerList].map(tooltipTriggerEl => {
+                new bootstrap.Tooltip(tooltipTriggerEl);
+                new Clipboard('.btn');
+            })
+        })
     </script>
 
   </body>
