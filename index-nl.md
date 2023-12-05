@@ -11,7 +11,7 @@ alternate_languages:
   url: /index
 ---
 
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
   <!--   
   <ol class="carousel-indicators">
     <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -19,28 +19,26 @@ alternate_languages:
   </ol>
    -->  
   <div class="carousel-inner" role="listbox">
-    <div class="item active">
-      <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
+    <div class="carousel-item active">
+      <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten" />
       <div class="carousel-caption">
         <h1>Geweldige teams helpen groeien</h1>
       </div>
     </div>
-    <div class="item">
-       <img src="assets/img/stock/header_desktop.jpg"
-             alt="Serra ICT Diensten">
+    <div class="carousel-item">
+       <img src="assets/img/stock/header_desktop.jpg" alt="Serra ICT Diensten">
       <div class="carousel-caption">
         <h1>Waardevolle software realiseren</h1>
       </div> 
    </div>
-    <div class="item">
-        <img src="/assets/img/stock/header_shadow.jpg" alt="Serra ICT Diensten">
+    <div class="carousel-item">
+        <img src="/assets/img/stock/header_shadow.jpg" alt="Serra ICT Diensten" />
       <div class="carousel-caption">
         <h1>Geweldige teams helpen groeien</h1>
       </div>
     </div>
-    <div class="item">
-        <img src="assets/img/stock/header_connect.jpg"
-             alt="Serra ICT Diensten">
+    <div class="carousel-item">
+        <img src="assets/img/stock/header_connect.jpg" alt="Serra ICT Diensten" />
       <div class="carousel-caption">
         <h1>Waardevolle software realiseren</h1>
       </div>
@@ -74,9 +72,7 @@ alternate_languages:
       <div class="col-lg-4">
         <div class="circle">
           <a href="#Marijn" class="scroll-to">
-            <img class="img-circle img-responsive center-block" 
-         src="/assets/img/marijn-z2-300.png" 
-         alt="Marijn">
+            <img class="rounded-circle img-fluid center-block" src="/assets/img/marijn-z2-300.png" alt="Marijn">
           </a>
         </div>
         <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
@@ -175,44 +171,41 @@ alternate_languages:
 
   <div class="row about">
     <div class="col-md-12">
-      <a id="Marijn"></a>
-      <h1>Marijn van der Zee. <small>Dat ben ik!</small></h1> 
-      <p>
-        Ik houd ervan om software teams te begeleiden 
-        op hun reis 
-        om waardevolle software te bouwen
-        en een geweldig team te worden.
-      </p>
-      <p>
-       Ik ben een Scrum Master, agile ontwikkelaar, 
-       pragmatische student, teamspeler en coach.
-       Ik ben meer dan vijftien jaar actief in het ontwikkelen van software.
-      </p>
-      <p>
-        Ik werk op een open en transparante manier,
-        soms confronterend,
-        maar altijd respectvol richting mensen 
-        en met de doelen van de organisatie in mijn achterhoofd.
+        <a id="Marijn"></a>
+        <h1>Marijn van der Zee. <small>Dat ben ik!</small></h1> 
+        <p>
+            Ik houd ervan om software teams te begeleiden 
+            op hun reis 
+            om waardevolle software te bouwen
+            en een geweldig team te worden.
+        </p>
+        <p>
+        Ik ben een Scrum Master, agile ontwikkelaar, 
+        pragmatische student, teamspeler en coach.
+        Ik ben meer dan vijftien jaar actief in het ontwikkelen van software.
+        </p>
+        <p>
+            Ik werk op een open en transparante manier,
+            soms confronterend,
+            maar altijd respectvol richting mensen 
+            en met de doelen van de organisatie in mijn achterhoofd.
 
-        Ik vind mezelf vaardig en kundig,
-        maar kom er keer op keer achter,
-        dat er betere manier zijn om te werk te gaan
-        en dat er nog veel valt te leren.
-      </p>
-      <p>
-        Kan ik u helpen? <a href="pages/contact.html">laten we in contact komen!</a>
-      </p>
-      <p>
-        Wilt u meer van mij of mijn werkwijze weten? Lees enkele van mijn 
-        <a href="{{ BASE_PATH }}/blog.html">blog posts</a> 
-        of verken één van mijn online alter ego's hieronder.
-      </p>
-      <p>
-        <img class="img-circle img-responsive center-block" 
-             src="/assets/img/marijn-z2-300.png" 
-             width="20%"
-             alt="Marijn">
-      </p>
+            Ik vind mezelf vaardig en kundig,
+            maar kom er keer op keer achter,
+            dat er betere manier zijn om te werk te gaan
+            en dat er nog veel valt te leren.
+        </p>
+        <p>
+            Kan ik u helpen? <a href="pages/contact.html">laten we in contact komen!</a>
+        </p>
+        <p>
+            Wilt u meer van mij of mijn werkwijze weten? Lees enkele van mijn 
+            <a href="{{ BASE_PATH }}/blog.html">blog posts</a> 
+            of verken één van mijn online alter ego's hieronder.
+        </p>
+        <p>
+            <img class="rounded-circle img-fluid mx-auto d-block" src="/assets/img/marijn-z2-300.png" width="20%" alt="Marijn" />
+        </p>
     </div>
   </div>
 

@@ -3,14 +3,14 @@ layout: default
 title: Home
 tagline: Marijn van der Zee
 image: /assets/img/logo.png
-searchable: true 
+searchable: true
 language: en
 alternate_languages:
- -
-  language: nl
-  url: /index-nl
+    - language: nl
+      url: /index-nl
 ---
-<div id="myCarousel" class="carousel slide" data-ride="carousel">
+
+<div id="myCarousel" class="carousel slide" data-bs-ride="carousel">
   <!--   
   <ol class="carousel-indicators">
   <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
@@ -19,31 +19,29 @@ alternate_languages:
 -->
 <div class="carousel-inner" role="listbox">
 
-  <div class="item active">
-    <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten">
+  <div class="carousel-item active">
+    <img src="/assets/img/stock/header_mountain.jpg" alt="Serra ICT Diensten" />
     <div class="carousel-caption">
       <h1>Growing great teams</h1>
     </div>
   </div>
 
-  <div class="item">
-    <img src="assets/img/stock/header_desktop.jpg"
-             alt="Serra ICT Diensten">
+  <div class="carousel-item">
+    <img src="assets/img/stock/header_desktop.jpg" alt="Serra ICT Diensten" />
     <div class="carousel-caption">
       <h1>Growing valuable software</h1>
     </div>
   </div>
 
-  <div class="item">
-    <img src="/assets/img/stock/header_shadow.jpg" alt="Serra ICT Diensten">
+  <div class="carousel-item">
+    <img src="/assets/img/stock/header_shadow.jpg" alt="Serra ICT Diensten" />
     <div class="carousel-caption">
       <h1>Growing great teams</h1>
     </div>
   </div>
 
-  <div class="item">
-    <img src="assets/img/stock/header_connect.jpg"
-             alt="Serra ICT Diensten">
+  <div class="carousel-item">
+    <img src="assets/img/stock/header_connect.jpg" alt="Serra ICT Diensten" />
     <div class="carousel-caption">
       <h1>Growing valuable software</h1>
     </div>
@@ -79,14 +77,15 @@ alternate_languages:
 
   <div class="col-lg-4">
     <div class="circle">
-      <a href="#Marijn" class="scroll-to">
-          <img class="img-circle img-responsive center-block" 
-         src="/assets/img/marijn-z2-300.png" 
-         alt="Marijn"></a>
+        <a href="#Marijn" class="scroll-to">
+            <img class="rounded-circle img-fluid center-block" src="/assets/img/marijn-z2-300.png" alt="Marijn" />
+        </a>
     </div>
-    <h2><a href="#Marijn" class="scroll-to">Marijn</a></h2>
+    <h2>
+        <a href="#Marijn" class="scroll-to">Marijn</a>
+    </h2>
     <p>
-      Scrum Master, agile developer, pragmatic student, team player, coach. That's me.
+        Scrum Master, agile developer, pragmatic student, team player, coach. That's me.
     </p>
   </div>
 
@@ -124,12 +123,12 @@ alternate_languages:
     </p>
 
     <footer>Developer</footer>
+
   </blockquote>
 </div>
 </div>
 
 <a id="Availability"></a>
-
 
 <div class="row about">
 <div class="col-md-12">
@@ -169,6 +168,7 @@ alternate_languages:
     </p>
 
     <footer>Developer</footer>
+
   </blockquote>
 </div>
 </div>
@@ -192,12 +192,13 @@ alternate_languages:
     I work in an open and transparent way, 
         sometimes confronting,
         but always respectful towards people 
-        and with the organization's goals in mind. 
+        and with the organization's goals in mind.
 
-        I think I'm skillful and knowledgeable, 
-        yet I continuously find 
+        I think I'm skillful and knowledgeable,
+        yet I continuously find
         that there are better ways to go about my work
         and that there still is much to learn.
+
   </p>
   <p>
     Do you think I can help you?
@@ -209,10 +210,7 @@ alternate_languages:
     or check out my online alter-egos below.
   </p>
   <p>
-    <img class="img-circle img-responsive center-block" 
-         src="/assets/img/marijn-z2-300.png" 
-         width="20%"
-         alt="Marijn">
+    <img class="rounded-circle img-fluid mx-auto d-block" src="/assets/img/marijn-z2-300.png" width="20%" alt="Marijn" />
   </p>
 </div>
 </div>
@@ -227,6 +225,7 @@ alternate_languages:
     </p>
 
     <footer>Developer</footer>
+
   </blockquote>
 </div>
 </div>
@@ -239,6 +238,5 @@ alternate_languages:
     <a href="pages/contact.html" class="btn btn-primary">Let's get in touch!</a>
   </p>
 </div>
-
 
 </div>
