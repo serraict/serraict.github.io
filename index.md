@@ -128,11 +128,11 @@ alternate_languages:
 </div>
 </div>
 
-<a id="Availability"></a>
+<a id="Availability" href="#"></a>
 
 <div class="row about">
 <div class="col-md-12">
-  <a id="Services"></a>
+  <a id="Services" href="#"></a>
   <h1>
     Services
     <small>How I can help you</small>
@@ -177,7 +177,7 @@ alternate_languages:
 
 <div class="row about">
 <div class="col-md-12">
-  <a id="Marijn"></a>
+  <a id="Marijn" href="#"></a>
   <h1>
     Marijn van der Zee.
     <small>That's me!</small>
