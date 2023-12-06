@@ -2,10 +2,10 @@
 {% assign thisclass = noteclasses | sample %}
 <div class="divider"></div>
 <blockquote class="note {{thisclass}}">
-  <p>
-    {{ include.message }}
-  </p>
-  <p>
-  	{{ include.name }}, {{ include.date | date_to_string }}, {{ include.date | date: "%R %Z" }}
-  </p>
+    <p>
+        {{ include.message }}
+    </p>
+    <p>
+        {{ include.name }}, {{ include.date | date_to_string }}, {{ include.date | date: "%R %Z" }}
+    </p>
 </blockquote>

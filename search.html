@@ -6,45 +6,43 @@ header : Search this site
 {% include JB/setup %}
 
 <div class="container">
-
     <div class="page-header">
-
         <form action="/search.html" method="get">
-          <input type="text" id="search-box-inline" placeholder="Search Site" name="query">
-          <input type="submit" value="search">
-      </form>
-  </div>
+            <input type="text" id="search-box-inline" placeholder="Search Site" name="query" />
+            <input type="submit" value="search" />
+        </form>
+    </div>
 
-  <div class="row">
-      <div class="col-xs-12">
-          <ul id="search-results" class="list-unstyled"></ul>
-      </div>
-  </div>
+    <div class="row">
+        <div class="col-xs-12">
+            <ul id="search-results" class="list-unstyled"></ul>
+        </div>
+    </div>
 </div>
 
 <script>
-  window.store = {
-    {% for post in site.posts %}
-    "{{ post.url | slugify }}": {
-        "title": "{{ post.title | xml_escape }}",
-        "author": "{{ post.author | xml_escape }}",
-        "category": "{{ post.category | xml_escape }}",
-        "content": {{ post.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ post.url | xml_escape }}"
-    },
-    {% endfor %}
-    {% assign search_pages = site.pages |  where: "searchable", true %}
-    {% for page in search_pages %}
-    "{{ page.url | slugify }}": {
-        "title": "{{ page.title | xml_escape }}",
-        "author": "{{ page.author }}",
-        "category": "{{ page.category }}",
-        "content": {{ page.content | strip_html | strip_newlines | jsonify }},
-        "url": "{{ page.url | xml_escape }}"
-    }
-    {% unless forloop.last %},{% endunless %}
-    {% endfor %}
-};
+    window.store = {
+        {% for post in site.posts %}
+        "{{ post.url | slugify }}": {
+            "title": "{{ post.title | xml_escape }}",
+            "author": "{{ post.author | xml_escape }}",
+            "category": "{{ post.category | xml_escape }}",
+            "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+            "url": "{{ post.url | xml_escape }}"
+        },
+        {% endfor %}
+        {% assign search_pages = site.pages |  where: "searchable", true %}
+        {% for page in search_pages %}
+        "{{ page.url | slugify }}": {
+            "title": "{{ page.title | xml_escape }}",
+            "author": "{{ page.author }}",
+            "category": "{{ page.category }}",
+            "content": {{ page.content | strip_html | strip_newlines | jsonify }},
+            "url": "{{ page.url | xml_escape }}"
+        }
+        {% unless forloop.last %},{% endunless %}
+        {% endfor %}
+    };
 </script>
 <script src="/assets/themes/bootstrap/resources/lunr/lunr.js"></script>
 <script src="/assets/themes/bootstrap/resources/lunr/search.js"></script>

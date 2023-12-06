@@ -75,7 +75,7 @@ img[alt=attribution] {
 /* Padding below the footer and lighter body text */
 body {
   padding-top: 50px;
-  padding-bottom: 40px;
+  color: #333 !important;
   font-family: 'Open Sans', sans-serif;
   font-weight: 300;
 }
@@ -84,6 +84,7 @@ body {
   text-transform: uppercase;
   font-size: 14px;
   padding: 6px 24px;
+  border-radius: 0px !important;
 }
 
 /* empty anchors: adjust position for fixed navbar */
@@ -139,13 +140,13 @@ a[id]:before {
   background-image: linear-gradient(to left, rgba(115,32,0,0.5) 0, rgba(115,32,0,0.0001) 100%)
 }
 
-.carousel .item {
+.carousel .carousel-item {
   color: #fff;
 }
 
 /* Resize carousel */
-.carousel-inner > .item > img, 
-.carousel-inner > .item > a > img,
+.carousel-inner > .carousel-item > img, 
+.carousel-inner > .carousel-item > a > img,
 .post-header img {
     width: 100%;
     min-height: 150px;
@@ -183,10 +184,6 @@ img[src$='#img-fit-width'] {
   margin-top: -165px;
 }
 
-.marketing {
-
-}
-
 .marketing .col-lg-4 {
   margin-bottom: 20px;
   text-align: center;
@@ -216,6 +213,7 @@ img[src$='#img-fit-width'] {
 
 .marketing.header h2 a {
   color: inherit;
+  text-decoration: none;
 }
 
 .marketing .col-lg-4 p {
@@ -293,13 +291,16 @@ footer.page-footer {
   font-size: 30px;
 }
 
+.banner li {
+    padding-left: 5px;
+    padding-right: 5px;
+}
 
 ul.banner .img-circle {
   width: 42px;
   height: 42px;
   padding: 1px;
 }
-
 
 .footer ul.banner .img-circle {
   width: 80px;
@@ -324,7 +325,30 @@ ul.banner li p:nth-child(2) {
 }
 
 small {
-  color: inherit;
+  color: #777;
+  font-size: 65%;
+  line-height: 1;
+  font-weight: normal;
+}
+
+h1, .h1 {
+    font-size: 41px;
+}
+
+h2, .h2 {
+    font-size: 34px;
+}
+
+h1, .h1, h2, .h2, h3, .h3 {
+    margin-top: 22px;
+    margin-bottom: 11px;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+    font-family: open-sans, "Liberation Sans", Arial, sans-serif;
+    font-weight: bold !important;
+    line-height: 1.1;
+    color: #243e73;
 }
 
 /* quotes */
@@ -543,6 +567,13 @@ iframe.loopy {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+/* Create a media breakpoint for phones displaying the footer links */
+@media (max-width: 767px) {
+    .banner {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
 
 @media (min-width: 768px) {
 
@@ -556,6 +587,11 @@ iframe.loopy {
   .featurette-heading {
     font-size: 50px;
   }
+
+  .banner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (min-width: 992px) {
@@ -563,11 +599,15 @@ iframe.loopy {
     margin-top: 120px;
   }
 
-  .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  .carousel-inner > .carousel-item > img, .carousel-inner > .carousel-item > a > img {
     width: 100%;
     min-height: 300px;
   }
 
+    .banner {
+        display: gird;
+        grid-template-columns: repeat(9, 1fr);
+    }
 }
 
 @media (max-width: 992px) {
@@ -618,3 +658,39 @@ table {
       margin-top: 0; }
     table tr th :last-child, table tr td :last-child {
       margin-bottom: 0; }
+
+
+/* Blog post page */
+.well {
+    min-height: 20px;
+    padding: 19px;
+    margin-bottom: 20px;
+    background-color: #f5f5f5;
+    border: 1px solid #e3e3e3;
+    border-radius: 0;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,0.05);
+}
+
+.pagination {
+    margin: 22px 0px;
+}
+
+.other-posts a {
+    color: #13b193;
+}
+
+.other-posts a:hover {
+    text-decoration: underline;
+    color: #13b193;
+}
+
+.form-group {
+    margin-bottom: 15px;
+}
+
+.page-header {
+    padding-bottom: 10px;
+    margin: 44px 0px 22px;
+    border-bottom: 1px solid #eee;
+}
