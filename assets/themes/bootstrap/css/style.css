@@ -310,9 +310,6 @@ ul.banner .img-circle {
     }
 }
 
-.banner {
-    display: flex;
-}
 
 .footer ul.banner .img-circle {
   width: 80px;
@@ -592,6 +589,11 @@ iframe.loopy {
   .featurette-heading {
     font-size: 50px;
   }
+
+  
+    .banner {
+        display: flex;
+    }
 }
 
 @media (min-width: 992px) {

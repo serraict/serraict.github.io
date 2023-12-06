@@ -5,7 +5,7 @@ bootstrap:
 	# - a ruby environment
 	# - node and npm installed
 	# - npm install -g firebase-tools
-	echo "2.7.5" > .ruby-version
+	echo "3.2.2" > .ruby-version
 	# On OSX i had to use system libraries fo nokigiri and ffi
 	# to install html-proofer:
 	# gem install nokogiri -v 1.6.7.2 -- --use-system-libraries
