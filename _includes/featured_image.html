@@ -3,7 +3,7 @@
 {% if page.featured %}
 
 {% assign featured_image = page.image %}
-{% assign image_attribution_url = page.featured.attribution_url | default "#" %}
+{% assign image_attribution_url = page.featured.attribution_url | default: "#" %}
 {% assign attribution = page.featured.attribution %}
 
 
