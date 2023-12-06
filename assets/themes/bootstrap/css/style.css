@@ -140,13 +140,13 @@ a[id]:before {
   background-image: linear-gradient(to left, rgba(115,32,0,0.5) 0, rgba(115,32,0,0.0001) 100%)
 }
 
-.carousel .item {
+.carousel .carousel-item {
   color: #fff;
 }
 
 /* Resize carousel */
-.carousel-inner > .item > img, 
-.carousel-inner > .item > a > img,
+.carousel-inner > .carousel-item > img, 
+.carousel-inner > .carousel-item > a > img,
 .post-header img {
     width: 100%;
     min-height: 150px;
@@ -599,7 +599,7 @@ iframe.loopy {
     margin-top: 120px;
   }
 
-  .carousel-inner > .item > img, .carousel-inner > .item > a > img {
+  .carousel-inner > .carousel-item > img, .carousel-inner > .carousel-item > a > img {
     width: 100%;
     min-height: 300px;
   }
