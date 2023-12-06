@@ -6,9 +6,9 @@
         <h2>
             <small>
                 {% if page.author %}
-                    by {{page.author}},
+                by {{page.author}},
                 {% else %}
-                    by Marijn van der Zee,
+                by Marijn van der Zee,
                 {% endif %}
                 <span>{{ page.date | date_to_long_string }}</span>
             </small>
@@ -21,24 +21,24 @@
             </small>
         </h3>
         {% endif %}
-  </div>
-
-  <div class="row post-full">
-    <div class="col-md-8">
-        <div class="content">
-            {{ content }}
-        </div>
-
-        {% include JB/comments %}
-
-        <p></p>
     </div>
 
-    <div class="col-md-4 blog-sidebar well">
+    <div class="row post-full">
+        <div class="col-md-8">
+            <div class="content">
+                {{ content }}
+            </div>
 
-        {% include share.html %}
+            {% include JB/comments %}
 
-        {% unless page.categories == empty %}
+            <p></p>
+        </div>
+
+        <div class="col-md-4 blog-sidebar well">
+
+            {% include share.html %}
+
+            {% unless page.categories == empty %}
             <ul class="tag_box inline">
                 <li>
                     <i class="icon-folder-open"></i>
@@ -46,9 +46,9 @@
                 {% assign categories_list = page.categories %}
                 {% include JB/categories_list %}
             </ul>
-        {% endunless %}
+            {% endunless %}
 
-        {% unless page.tags == empty %}
+            {% unless page.tags == empty %}
             <ul class="tag_box inline">
                 <li>
                     <i class="icon-tags"></i>
@@ -56,51 +56,53 @@
                 {% assign tags_list = page.tags %}
                 {% include JB/tags_list %}
             </ul>
-        {% endunless %}
+            {% endunless %}
 
-        <ul class="pagination">
-            {% if page.previous %}
+            <ul class="pagination">
+                {% if page.previous %}
                 <li class="page-item">
-                    <a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}" class="page-link">&larr; Previous</a>
+                    <a href="{{ BASE_PATH }}{{ page.previous.url }}" title="{{ page.previous.title }}"
+                        class="page-link">&larr; Previous</a>
                 </li>
-            {% else %}
+                {% else %}
                 <li class="page-item disabled">
                     <a href="/blog.html">&larr; Previous</a>
                 </li>
-            {% endif %}
+                {% endif %}
                 <li>
                     <a href="{{ BASE_PATH }}{{ site.JB.archive_path }}" class="page-link">Archive</a>
                 </li>
-            {% if page.next %}
+                {% if page.next %}
                 <li class="page-item">
-                    <a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="page-link">Next &rarr;</a>
+                    <a href="{{ BASE_PATH }}{{ page.next.url }}" title="{{ page.next.title }}" class="page-link">Next
+                        &rarr;</a>
                 </li>
-            {% else %}
+                {% else %}
                 <li class="page-item disabled">
                     <a href="/blog.html" class="page-link">Next &rarr;</a>
                 </li>
-            {% endif %}
-        </ul>
+                {% endif %}
+            </ul>
 
 
-        {% for category in site.categories %}
+            {% for category in site.categories %}
             {% if page.categories contains category[0] %}
-                <div class="other-posts">
-                    <h4>Other
-                        <span class="tag_box inline">
-                            <a>{{ category[0] }}</a>
-                        </span> pages
-                    </h4>
-                    <ul>
-                        {% assign pages_list = category[1] %}  
-                        {% include JB/pages_list %}
-                    </ul>
-                </div>
+            <div class="other-posts">
+                <h4>Other
+                    <span class="tag_box inline">
+                        {{ category[0] }}
+                    </span> pages
+                </h4>
+                <ul>
+                    {% assign pages_list = category[1] %}
+                    {% include JB/pages_list %}
+                </ul>
+            </div>
             {% endif %}
-        {% endfor %}
+            {% endfor %}
 
-        <div>
-            <a href="/blog.html"> All posts ...</a>
+            <div>
+                <a href="/blog.html"> All posts ...</a>
+            </div>
         </div>
     </div>
-</div>
