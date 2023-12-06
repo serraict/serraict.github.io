@@ -302,15 +302,6 @@ ul.banner .img-circle {
   padding: 1px;
 }
 
-/* Create a media breakpoint for phones displaying the footer links */
-@media (max-width: 767px) {
-    .banner {
-        display: grid;
-        grid-template-columns: repeat(3, 1fr);
-    }
-}
-
-
 .footer ul.banner .img-circle {
   width: 80px;
   height: 80px;
@@ -576,6 +567,13 @@ iframe.loopy {
 
 /* RESPONSIVE CSS
 -------------------------------------------------- */
+/* Create a media breakpoint for phones displaying the footer links */
+@media (max-width: 767px) {
+    .banner {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+    }
+}
 
 @media (min-width: 768px) {
 
@@ -590,10 +588,10 @@ iframe.loopy {
     font-size: 50px;
   }
 
-  
-    .banner {
-        display: flex;
-    }
+  .banner {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+  }
 }
 
 @media (min-width: 992px) {
@@ -606,6 +604,10 @@ iframe.loopy {
     min-height: 300px;
   }
 
+    .banner {
+        display: gird;
+        grid-template-columns: repeat(9, 1fr);
+    }
 }
 
 @media (max-width: 992px) {
