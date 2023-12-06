@@ -115,11 +115,11 @@ Interested? Cool! Sign up below or [contact me][contact].
   <input name="_next" type="hidden" value="{{ site.url }}{{ page.url }}">
   <div class="form-group">
     <label for="name">Name</label>
-    <input name="name" type="text"  class="form-control" required>
+    <input name="name" id="name" type="text"  class="form-control" required>
   </div>
   <div class="form-group">
     <label for="email">E-mail</label>
-    <input name="email" type="email"  class="form-control" required>
+    <input name="email" id="email" type="email"  class="form-control" required>
   </div>
   <div class="form-group">
     <label for="message">Message</label>
