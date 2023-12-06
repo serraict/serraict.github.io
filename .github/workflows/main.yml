@@ -1,0 +1,25 @@
+name: PR Workflow
+
+on:
+  pull_request:
+    branches: [ master ]
+  workflow_dispatch:
+
+jobs:
+  build-and-test:
+    
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Set up Ruby
+      uses: ruby/setup-ruby@v1
+      with:
+        ruby-version: 3.2.2 
+
+    - name: Bootstrap
+      run: make bootstrap
+
+    - name: Build and Test
+      run: make build-and-test
