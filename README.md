@@ -1,10 +1,11 @@
-[![Build Status](https://travis-ci.org/serraict/serraict.github.io.svg?branch=master)](https://travis-ci.org/serraict/serraict.github.io)
+[![Build and run](https://github.com/serraict/serraict.github.io/actions/workflows/main.yml/badge.svg)](https://github.com/serraict/serraict.github.io/actions/workflows/main.yml)
+[![pages-build-deployment](https://github.com/serraict/serraict.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/serraict/serraict.github.io/actions/workflows/pages/pages-build-deployment)
 
 This is my company website and blog.
 
 ### Prerequisites
 
-Ruby 2.5
+Ruby 3.2.2
 
 ### Dev
 
