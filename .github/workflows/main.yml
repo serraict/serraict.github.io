@@ -1,6 +1,8 @@
-name: PR Workflow
+name: Build and run
 
 on:
+  push:
+    branches: [ master ]
   pull_request:
     branches: [ master ]
   workflow_dispatch:
