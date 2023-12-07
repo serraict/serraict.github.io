@@ -15,7 +15,7 @@ you can now do so easily by hitting the
 </button>
 edit button on the top of each post.
 That will bring you to this site's source code repository on 
-[Github]({{ site.github.repository_url }}).
+[Github](https://github.com/serraict/serraict.github.io).
 
 Quickest is to simply use the online editor, which will result in a pull request to me.
 
