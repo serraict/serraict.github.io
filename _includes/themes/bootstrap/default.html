@@ -1,32 +1,37 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
+
+<head>
     <meta charset="utf-8">
     <!-- Environment: {{ site.environment }} -->
     <title>{{ page.title }}</title>
-    {% if page.description %}<meta name="description" content="{{ page.description }}">{% endif %}
+    {% if page.description %}
+    <meta name="description" content="{{ page.description }}">{% endif %}
     <meta name="author" content="{{ site.author.name }}">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
     <link href="{{ BASE_PATH }}/assets/themes/bootstrap/resources/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">   
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="{{ BASE_PATH }}/assets/themes/bootstrap/css/style.css?v=1.1" rel="stylesheet">
-    <link href='https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope%7COpen+Sans:400,300,700' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Annie+Use+Your+Telescope%7COpen+Sans:400,300,700'
+        rel='stylesheet' type='text/css'>
     <!--[if lt IE 9]>
       <script src="{{ ASSET_PATH }}/resources/respond/Respond.min.js"></script>
     <![endif]-->
 
     <script src="{{ BASE_PATH }}/assets/themes/bootstrap/resources/bootstrap/js/bootstrap.bundle.min.js"></script>
 
-    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate" title="Sitewide ATOM Feed">
-    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate" title="Sitewide RSS Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.atom_path }}" type="application/atom+xml" rel="alternate"
+        title="Sitewide ATOM Feed">
+    <link href="{{ BASE_PATH }}{{ site.JB.rss_path }}" type="application/rss+xml" rel="alternate"
+        title="Sitewide RSS Feed">
     {% include hreflang %}
     {% seo %}
     {% include JB/analytics %}
     {% include google_tag_manager %}
-  </head>
+</head>
 
-  <body>
+<body>
     {% include google_tag_manager_noscript %}
 
     <nav class="navbar navbar-expand-lg fixed-top bg-light" role="navigation">
@@ -38,7 +43,8 @@
             <!-- Navbar brand logo end -->
 
             <!-- Navbar menu toggler start -->
-            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-ex1-collapse" aria-controls="navbar-ex1-collapse" aria-expanded="false" aria-label="Toggle navigation">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target=".navbar-ex1-collapse"
+                aria-controls="navbar-ex1-collapse" aria-expanded="false" aria-label="Toggle navigation">
                 <span class="navbar-toggler-icon"></span>
             </button>
             <!-- Navbar menu toggler end -->
@@ -60,7 +66,8 @@
                 </ul>
 
                 <form clsas="d-flex" role="search" action="/search.html" method="get">
-                    <input class="form-control me-2" type="search" placeholder="Search site" aria-label="Search" id="search-box" name="query">
+                    <input class="form-control me-2" type="search" placeholder="Search site" aria-label="Search"
+                        id="search-box" name="query">
                 </form>
             </div>
             <!-- Navbar menu end -->
@@ -81,7 +88,8 @@
                         Hugo de Grootstraat 58<br>
                         2613 TW Delft<br>
                         <abbr title="Phone">T:</abbr> +31 (0)6 387 414 82<br>
-                        <abbr title="Chambre of Commerce">CoC:</abbr> <a href="http://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
+                        <abbr title="Chambre of Commerce">CoC:</abbr> <a
+                            href="https://www.kvk.nl/orderstraat/product-kiezen/?kvknummer=273634790000">27363479</a><br>
                         <br>
                     </address>
                 </div>
@@ -95,27 +103,30 @@
     <div>
         <div class="container">
             <footer class="page-footer text-center">
-                <p> 
+                <p>
                     &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}
-                    , design by <a href="http://www.dtpublishing.nl/">dtpublishing.nl</a>
+                    , design by <a href="https://www.linkedin.com/in/fleurwestendorp/">Fleur</a>
                 </p>
                 <p>
                     powered by
-                    <a href="https://jekyll-bootstrap-3.github.io/" target="_blank" title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
-                    and <a href="http://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>          
+                    <a href="https://jekyll-bootstrap-3.github.io/" target="_blank"
+                        title="The Definitive Jekyll Blogging Framework">Jekyll-Bootstrap-3</a>
+                    and <a href="https://getbootstrap.com" target="_blank">Twitter Bootstrap 3.0.3</a>
                 </p>
                 <p>
                     <a href="{{ BASE_PATH }}/pages/attributions.html">Attributions</a>
-                    <a href="{{ BASE_PATH }}/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and conditions</a>
+                    <a href="{{ BASE_PATH }}/assets/Algemene-voorwaarden-Serra-ICT-Diensten.pdf">Terms and
+                        conditions</a>
                 </p>
                 <p class="text-center">
                     <a href="https://validator.w3.org/check?uri=referer">
-                        <img src="https://www.w3.org/Icons/valid-html40" alt="Valid XHTML 4.0!"  height="31" />
+                        <img src="https://www.w3.org/Icons/valid-html40" alt="Valid XHTML 4.0!" height="31" />
                     </a>
                 </p>
                 <p>
                     <a href="https://travis-ci.org/serraict/serraict.github.io">
-                        <img src="https://travis-ci.org/serraict/serraict.github.io.svg?branch=master" alt="Build Status" />
+                        <img src="https://travis-ci.org/serraict/serraict.github.io.svg?branch=master"
+                            alt="Build Status" />
                     </a>
                 </p>
             </footer>
@@ -128,7 +139,7 @@
     <script type="text/javascript">
         const scrollTo = document.querySelector(".scroll-to");
 
-        scrollTo?.addEventListener('click', function(e) {
+        scrollTo?.addEventListener('click', function (e) {
             // Prevent the page from jumping.
             e.preventDefault();
 
@@ -150,5 +161,6 @@
         })
     </script>
 
-  </body>
+</body>
+
 </html>

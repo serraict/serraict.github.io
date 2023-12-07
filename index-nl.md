@@ -117,13 +117,13 @@ alternate_languages:
   </div>
 
 
-  <a id="Availability"></a>
+  <a id="Availability" href="#"></a>
 
   {% include board.html %}
 
   <div class="row about">
     <div class="col-md-12">
-      <a id="Services"></a>
+      <a id="Services" href="#"></a>
       <h1>Diensten <small>Hoe ik jullie kan helpen</small></h1> 
       <!--
       <p>You can hire me as an Agile Coach or Scrum Master to serve-slash-lead your Scrum team, take your agile teams to the next level and help your organization adapt to agile software delivery.
@@ -171,7 +171,7 @@ alternate_languages:
 
   <div class="row about">
     <div class="col-md-12">
-        <a id="Marijn"></a>
+        <a id="Marijn" href="#"></a>
         <h1>Marijn van der Zee. <small>Dat ben ik!</small></h1> 
         <p>
             Ik houd ervan om software teams te begeleiden 
@@ -228,7 +228,7 @@ alternate_languages:
 
   <div class="divider"></div>
 
-  <a id="Availability"></a>
+  <a id="Availability"  href="#"></a>
   <div class="row featurette">
     <div class="col-md-12">
       <p><a href="pages/contact.html" class="btn btn-primary">Laten we in contact komen!</a></p>
