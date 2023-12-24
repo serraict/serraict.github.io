@@ -132,8 +132,8 @@ alternate_languages:
       I am a professional Scrum developer, comfortable in .NET, JavaScript and Python. As a developer, I am a critical, analytical and creative team player with a passion for high quality code, automated testing and writing documentation.</p>
       -->
       <p>
-      Ik ben niet langer beschikbaar als freelance Scrum Master of coach.
-      Ik ben werkzaam als Chief Transparency Officer en lijn manager ICT en Besturing bij Logiqs.
+      Ik ben beschikbaar voor kortlopende, deeltijd opdrachten in de rol van Scrum Master of coach,
+       maar mijn professionele focus ligt in 2024 elders.
       </p>
       <p>
       Ik ben nog steeds zeer geïnteresseerd in agile software ontwikkeling en Scrum. Voor een conversatie over deze onderwerpen kunt u mij vinden op LinkedIn, of per email.
