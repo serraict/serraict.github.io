@@ -138,8 +138,8 @@ alternate_languages:
     <small>How I can help you</small>
   </h1>
   <p>
-    I'm no longer availabe as a freelance Scrum Master or coach.
-    Currently, I'm employed by Logiqs BV as Chief Transparency Officer and line manager for the IT & Control department.
+    I do not intend to take on long-term, full-time Scrum Master or coaching roles in 2024.
+    If you need my help short, part-time roles, feel free to reach out.
   </p>
   <p>
     I'm still very much interested in agile software development and Scrum. 
