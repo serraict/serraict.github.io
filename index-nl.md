@@ -70,7 +70,7 @@ alternate_languages:
         </div>
         <h2><a href="blog.html">Blog</a></h2>
         <p>Mijn gedachten over Agile Software Development, hoofdzakelijk in het Engels.</p>
-      </div>      
+      </div>
     </div>
   </div>
 </div>
@@ -88,14 +88,21 @@ alternate_languages:
   <div class="row about">
     <div class="col-md-12">
       <a id="Services" href="#"></a>
-      <h1>Diensten <small>Hoe ik jullie kan helpen</small></h1> 
+      <h1>Diensten <small>Hoe ik jullie kan helpen</small></h1>
       <p>
-      Ik ben beschikbaar voor kortlopende, deeltijd opdrachten in de rol van Scrum Master of coach,
-       maar mijn professionele focus ligt in 2024 elders.
-
+      <ul>
+      <li>Realiseer maatwerk- en integratieoplossingen op basis van <a href="https://vine.serraict.com">Serra Vine</a> - €109/ uur</li>
+      <li>Realiseer data- en AI oplossingen op basis van Serra Vine - €109/ uur</li>
+      <li>Management- en procesadvies - €139/ uur</li>
+      </ul>
       </p>
       <p>
-      Ik ben nog steeds zeer geïnteresseerd in agile software ontwikkeling en Scrum. Voor een conversatie over deze onderwerpen kunt u mij vinden op LinkedIn, of per email.
+      Ik ben beschikbaar voor kortlopende, deeltijd opdrachten in de rol van Scrum Master of coach,
+      maar mijn professionele focus ligt in 2024 elders.
+      </p>
+      <p>
+      Ik ben nog steeds zeer geïnteresseerd in agile software ontwikkeling en Scrum.
+      Voor een conversatie over deze onderwerpen kunt u mij vinden op LinkedIn, of per email <a href="pages/contact.html">(contact)</a>.
       </p>
       <p class="text-center">
         <a href="https://www.scrum.org/User-Profile/userId/121566"

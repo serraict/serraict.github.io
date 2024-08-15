@@ -99,12 +99,12 @@ alternate_languages:
   </h1>
   <p>
     I do not intend to take on long-term, full-time Scrum Master or coaching roles in 2024.
-    If you need my help short, part-time roles, feel free to reach out.
+    If you need my help in short, part-time roles, feel free to reach out.
   </p>
   <p>
-    I'm still very much interested in agile software development and Scrum. 
+    I'm still very much interested in agile software development and Scrum.
     If you'd like to start a conversation around these topics,
-    feel free to reach out to me on LinkedIn or by email!
+    feel free to <a href="pages/contact.html">reach out to me on LinkedIn or by email</a>!
   </p>
   <p class="text-center">
     <a href="https://www.scrum.org/User-Profile/userId/121566"
