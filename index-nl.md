@@ -90,7 +90,9 @@ alternate_languages:
       <a id="Services" href="#"></a>
       <h1>Diensten <small>Hoe ik jullie kan helpen</small></h1> 
       <p>
-      Ik ben niet langer beschikbaar als freelance Scrum Master of coach.
+      Ik ben beschikbaar voor kortlopende, deeltijd opdrachten in de rol van Scrum Master of coach,
+       maar mijn professionele focus ligt in 2024 elders.
+
       </p>
       <p>
       Ik ben nog steeds zeer geïnteresseerd in agile software ontwikkeling en Scrum. Voor een conversatie over deze onderwerpen kunt u mij vinden op LinkedIn, of per email.

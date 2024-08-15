@@ -92,17 +92,28 @@ alternate_languages:
 
 <div class="row about">
   <div class="col-md-12">
-    <a id="Services" href="#"></a>
-    <h1>
-      Services
-      <small>How I can help you</small>
-    </h1>
-    <p>
-      I'm no longer available as a freelance Scrum Master or coach.
-      If you'd like to start a conversation,
-      feel free to reach out to me on LinkedIn or by email!
-    </p>
-  </div>
+  <a id="Services" href="#"></a>
+  <h1>
+    Services
+    <small>How I can help you</small>
+  </h1>
+  <p>
+    I do not intend to take on long-term, full-time Scrum Master or coaching roles in 2024.
+    If you need my help short, part-time roles, feel free to reach out.
+  </p>
+  <p>
+    I'm still very much interested in agile software development and Scrum. 
+    If you'd like to start a conversation around these topics,
+    feel free to reach out to me on LinkedIn or by email!
+  </p>
+  <p class="text-center">
+    <a href="https://www.scrum.org/User-Profile/userId/121566"
+           title="scrum.org - Professional Sticky Master">
+      <img src="/assets/img/PSMI.png"
+               alt="PSP, PSMI, PSDI, PSPOI"
+               width="200"></a>
+  </p>
+</div>
 </div>
 
 <div class="row about">
